@@ -226,25 +226,25 @@ These datasets form the foundation for training next-generation medical AI model
 | 13 | [MedMNIST](https://medmnist.com/v1) | 2020 | 2D | Multi | Retina, Breast, Lung | 100k | Yes | Cls | Multi-disease |
 | 14 | [The Visible Human Project](https://www.nlm.nih.gov/research/visible/visible_human.html) | 1994 | 3D, 2D | CT, MR, | Full Body | 2 | No | NA | Skin Lesion |
 | 15 | [ImageCLEF 2016](https://www.imageclef.org/2016/medical) | 2015 | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | Head |
-| 16 | [RadImageNet (Subset: CT) {mei2022radimagenet](https://www.radimagenet.com/) | 2022 | 2D | CT | Full Body | 292.4k | Yes | Cls | Abdomen, lung, |
-| 17 | [Brain CT Images with ICH Masks {hssayeni2020intracranial](https://www.kaggle.com/datasets/vbookshelf/computed-tomography-ct-images) | 2019 | 2D | CT | Brain | 82 | Yes | Seg | Intracranial Hemorrhage |
-| 18 | [CMB-CRC {cmbcrc2022](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93257955) | 2022 | 3D, 2D | Multi | Colon | 472 | No | Seg, Cls | Colorectal Cancer |
-| 19 | [CMB-GEC {cmbgec2022](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=127665431) | 2022 | 3D, 2D | CT, WSI, PET | Brain | 14 | No | Seg, Cls | Melanoma |
-| 20 | [CMB-MEL {cmbmel2022](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93258432) | 2022 | 3D, 2D | Multi | Brain | 255 | No | Seg | Melanoma |
-| 21 | [CMB-MML {cmbmml2022](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93258436) | 2021 | 2D, 3D | Multi | NA | 60 | No | NA | Multiple Myeloma |
-| 22 | [CMB-PCA {cmbpca2022](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=95224082) | 2022 | 2D, 3D | CT, MR, WSI | Prostate | 31 | No | Cls, Pred | Prostate Cancer |
-| 23 | [CPTAC-LSCC_CT_PET {cptac2018the](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=33948248) | 2018 | 2D, 3D | CT, PET, HistoPathology? | NA | 238 | No | NA | NA |
-| 24 | [Finding and Measuring Lungs in CT Data {mader2017finding](https://www.heywhale.com/mw/dataset/5d71de448499bc002c0ae1fc) | 2019 | 2D, 3D | CT | Lung | 534 | Yes | Seg | NA |
-| 25 | [Head CT Image Data {kitamura2019head](https://www.heywhale.com/mw/dataset/5d7213eb8499bc002c0af1e8) | 2019 | 2D | CT | Head | 200 | Yes | Cls | NA |
-| 26 | [LDCTIQAC2023 {lee2025lowdose](https://ldctiqac2023.grand-challenge.org/ldctiqac2023/) | 2023 | 2D | CT | NA | 1k | Yes | Reg | NA |
-| 27 | [APOLLO-5 {apolloresearchnetwork2023applied](https://wiki.cancerimagingarchive.net/display/Public/APOLLO-5) | 2022 | 2D, 3D | Multi | NA | 6.2k | No | NA | NA |
-| 28 | [Lung-Fused-CT-Pathology {Rusu2017EurRadiol_LungFused](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=39878702) | 2018 | 2D, 3D | CT, HistoPathology? | Lung | 36 | Yes | Seg | Lung Disease |
-| 29 | [CMB-LCA {cmblca2022](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93258420) | 2022 | 2D, 3D | Multi | NA | 0 | No | NA | NA |
-| 30 | [RIDER Phantom PET-CT {muzi2015data](https://wiki.cancerimagingarchive.net/display/Public/RIDER+Phantom+PET-CT) | 2011 | 2D | CT, PET | NA | 2.2k | No | NA | NA |
-| 31 | [AHOD0831 {kelly2022ahod0831](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=119705284) | 2022 | 3D, 2D | Multi | NA | 0 | No | NA | Hodgkin Lymphoma |
-| 32 | [Prostate-MRI {choyke2016data](https://wiki.cancerimagingarchive.net/display/Public/PROSTATE-MRI) | 2011 | 3D, 2D | Multi | Prostate | 26 | No | NA | Prostate Cancer |
-| 33 | [AREN0532 {fernandez2022aren0532](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=109379682) | 2022 | 3D, 2D | Multi | NA | 1k | No | NA | Wilms Tumor |
-| 34 | [ImageCLEF 2016 (Duplicate) {deherrera2016imageclef](https://www.imageclef.org/2016/medical) | 2015 | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | Head |
+| 16 | [RadImageNet (Subset: CT)](https://www.radimagenet.com/) | 2022 | 2D | CT | Full Body | 292.4k | Yes | Cls | Abdomen, lung, |
+| 17 | [Brain CT Images with ICH Masks](https://www.kaggle.com/datasets/vbookshelf/computed-tomography-ct-images) | 2019 | 2D | CT | Brain | 82 | Yes | Seg | Intracranial Hemorrhage |
+| 18 | [CMB-CRC](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93257955) | 2022 | 3D, 2D | Multi | Colon | 472 | No | Seg, Cls | Colorectal Cancer |
+| 19 | [CMB-GEC](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=127665431) | 2022 | 3D, 2D | CT, WSI, PET | Brain | 14 | No | Seg, Cls | Melanoma |
+| 20 | [CMB-MEL](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93258432) | 2022 | 3D, 2D | Multi | Brain | 255 | No | Seg | Melanoma |
+| 21 | [CMB-MML](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93258436) | 2021 | 2D, 3D | Multi | NA | 60 | No | NA | Multiple Myeloma |
+| 22 | [CMB-PCA](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=95224082) | 2022 | 2D, 3D | CT, MR, WSI | Prostate | 31 | No | Cls, Pred | Prostate Cancer |
+| 23 | [CPTAC-LSCC_CT_PET](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=33948248) | 2018 | 2D, 3D | CT, PET, HistoPathology? | NA | 238 | No | NA | NA |
+| 24 | [Finding and Measuring Lungs in CT Data](https://www.heywhale.com/mw/dataset/5d71de448499bc002c0ae1fc) | 2019 | 2D, 3D | CT | Lung | 534 | Yes | Seg | NA |
+| 25 | [Head CT Image Data](https://www.heywhale.com/mw/dataset/5d7213eb8499bc002c0af1e8) | 2019 | 2D | CT | Head | 200 | Yes | Cls | NA |
+| 26 | [LDCTIQAC2023](https://ldctiqac2023.grand-challenge.org/ldctiqac2023/) | 2023 | 2D | CT | NA | 1k | Yes | Reg | NA |
+| 27 | [APOLLO-5](https://wiki.cancerimagingarchive.net/display/Public/APOLLO-5) | 2022 | 2D, 3D | Multi | NA | 6.2k | No | NA | NA |
+| 28 | [Lung-Fused-CT-Pathology](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=39878702) | 2018 | 2D, 3D | CT, HistoPathology? | Lung | 36 | Yes | Seg | Lung Disease |
+| 29 | [CMB-LCA](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93258420) | 2022 | 2D, 3D | Multi | NA | 0 | No | NA | NA |
+| 30 | [RIDER Phantom PET-CT](https://wiki.cancerimagingarchive.net/display/Public/RIDER+Phantom+PET-CT) | 2011 | 2D | CT, PET | NA | 2.2k | No | NA | NA |
+| 31 | [AHOD0831](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=119705284) | 2022 | 3D, 2D | Multi | NA | 0 | No | NA | Hodgkin Lymphoma |
+| 32 | [Prostate-MRI](https://wiki.cancerimagingarchive.net/display/Public/PROSTATE-MRI) | 2011 | 3D, 2D | Multi | Prostate | 26 | No | NA | Prostate Cancer |
+| 33 | [AREN0532](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=109379682) | 2022 | 3D, 2D | Multi | NA | 1k | No | NA | Wilms Tumor |
+| 34 | [ImageCLEF 2016 (Duplicate)](https://www.imageclef.org/2016/medical) | 2015 | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | Head |
 | 35 | [QUBIQ2020 {muller2020qubiq](https://qubiq.grand-challenge.org/) | 2020 | 2D | CT, MR | Kidney, Pancreas, | 150 | Yes | Seg | NA |
 | 36 | [QUBIQ2021_2D_CT {qubiq2021uncertainty](https://qubiq21.grand-challenge.org/QUBIQ2021/) | 2021 | 2D | CT, MR | Kidney, Pancreas, | 268 | Yes | Seg | NA |
 
@@ -652,15 +652,15 @@ These datasets form the foundation for training next-generation medical AI model
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | [AREN0534](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=91357265) | 2021 | 3D, 2D | Multi | Kidney, Lung | 239 | No | Est | Kidney |
 | 2 | [ImageCLEF 2016](https://www.imageclef.org/2016/medical) | 2015 | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | H |
-| 3 | [CMB-CRC {cmbcrc2022](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93257955) | 2022 | 3D, 2D | Multi | Colon | 472 | No | Seg, Cls | Colorectal Cancer (H |
-| 4 | [CMB-GEC {cmbgec2022](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=127665431) | 2022 | 3D, 2D | CT, WSI, PET | Brain | 14 | No | Seg, Cls | Melanoma (Cerebral microbleeds) |
-| 5 | [CMB-MEL {cmbmel2022](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93258432) | 2022 | 3D, 2D | Multi | Brain | 255 | No | Seg | Melanoma (Cerebral microbleeds) |
-| 6 | [CMB-MML {cmbmml2022](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93258436) | 2021 | 2D, 3D | Multi | NA | 60 | No | Pred | Multiple Myeloma |
-| 7 | [CPTAC-LSCC_CT_PET {cptac2018the](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=33948248) | 2018 | 2D, 3D | CT, PET, Histo | NA | 238 | No | NA | NA |
-| 8 | [APOLLO-5 {apolloresearchnetwork2023applied](https://wiki.cancerimagingarchive.net/display/Public/APOLLO-5) | 2022 | 2D, 3D | Multi | NA | 6.2k | No | NA | NA |
-| 9 | [RIDER Phantom PET-CT {muzi2015data](https://wiki.cancerimagingarchive.net/display/Public/RIDER+Phantom+PET-CT) | 2011 | 2D | CT, PET | NA | 2.2k | No | NA | NA |
-| 10 | [AHOD0831 {kelly2022ahod0831](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=119705284) | 2022 | 3D, 2D | Multi | NA | 0 | No | NA | Hodgkin Lymphoma |
-| 11 | [AREN0532 {fernandez2022aren0532](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=109379682) | 2022 | 3D, 2D | Multi | NA | 1k | No | NA | Wilms Tumor |
+| 3 | [CMB-CRC](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93257955) | 2022 | 3D, 2D | Multi | Colon | 472 | No | Seg, Cls | Colorectal Cancer (H |
+| 4 | [CMB-GEC](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=127665431) | 2022 | 3D, 2D | CT, WSI, PET | Brain | 14 | No | Seg, Cls | Melanoma (Cerebral microbleeds) |
+| 5 | [CMB-MEL](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93258432) | 2022 | 3D, 2D | Multi | Brain | 255 | No | Seg | Melanoma (Cerebral microbleeds) |
+| 6 | [CMB-MML](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93258436) | 2021 | 2D, 3D | Multi | NA | 60 | No | Pred | Multiple Myeloma |
+| 7 | [CPTAC-LSCC_CT_PET](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=33948248) | 2018 | 2D, 3D | CT, PET, Histo | NA | 238 | No | NA | NA |
+| 8 | [APOLLO-5](https://wiki.cancerimagingarchive.net/display/Public/APOLLO-5) | 2022 | 2D, 3D | Multi | NA | 6.2k | No | NA | NA |
+| 9 | [RIDER Phantom PET-CT](https://wiki.cancerimagingarchive.net/display/Public/RIDER+Phantom+PET-CT) | 2011 | 2D | CT, PET | NA | 2.2k | No | NA | NA |
+| 10 | [AHOD0831](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=119705284) | 2022 | 3D, 2D | Multi | NA | 0 | No | NA | Hodgkin Lymphoma |
+| 11 | [AREN0532](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=109379682) | 2022 | 3D, 2D | Multi | NA | 1k | No | NA | Wilms Tumor |
 
 ### 🫁 3D CT Datasets
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
