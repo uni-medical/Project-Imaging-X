@@ -49,7 +49,7 @@ If you find this repository or our survey helpful in your research, please kindl
 ![Body Part Overview](assets/overview_body_new.png)
 *Comprehensive visualization of medical imaging datasets showing anatomical region distribution, imaging modalities, and AI task types, spanning the evolution of medical imaging from 2000 to 2025*
 
-### 📈 Statistical Analysis & Dataset Taxonomy
+### 🔍 Dataset Taxonomy & Statistical Analysis
 
 <div align="center">
 <table>
