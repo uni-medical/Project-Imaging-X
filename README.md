@@ -245,8 +245,8 @@ These datasets form the foundation for training next-generation medical AI model
 | 32 | [Prostate-MRI](https://wiki.cancerimagingarchive.net/display/Public/PROSTATE-MRI) | 2011 | 3D, 2D | Multi | Prostate | 26 | No | NA | Prostate Cancer |
 | 33 | [AREN0532](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=109379682) | 2022 | 3D, 2D | Multi | NA | 1k | No | NA | Wilms Tumor |
 | 34 | [ImageCLEF 2016 (Duplicate)](https://www.imageclef.org/2016/medical) | 2015 | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | Head |
-| 35 | [QUBIQ2020 {muller2020qubiq](https://qubiq.grand-challenge.org/) | 2020 | 2D | CT, MR | Kidney, Pancreas, | 150 | Yes | Seg | NA |
-| 36 | [QUBIQ2021_2D_CT {qubiq2021uncertainty](https://qubiq21.grand-challenge.org/QUBIQ2021/) | 2021 | 2D | CT, MR | Kidney, Pancreas, | 268 | Yes | Seg | NA |
+| 35 | [QUBIQ2020](https://qubiq.grand-challenge.org/) | 2020 | 2D | CT, MR | Kidney, Pancreas, | 150 | Yes | Seg | NA |
+| 36 | [QUBIQ2021_2D_CT](https://qubiq21.grand-challenge.org/QUBIQ2021/) | 2021 | 2D | CT, MR | Kidney, Pancreas, | 268 | Yes | Seg | NA |
 
 ### 🦴 X-ray Datasets
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
@@ -290,7 +290,7 @@ These datasets form the foundation for training next-generation medical AI model
 | 35 | [MIDRC-RICORD-1c](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70230281) | 2021 | 2D | X-Ray | Lung | 1.3k | Yes | Cls | NA |
 | 36 | [Chest X-ray Imaging](https://www.heywhale.com/mw/dataset/62c2ac49913a54a66037f872) | 2017 | 2D | X-Ray | Lung | 5.9k | Yes | Cls | NA |
 | 37 | [COVID-19 Chest X-ray DB](https://www.heywhale.com/mw/dataset/6027caee891f960015c863d7) | 2021 | 2D | X-Ray | NA | 3.9k | Yes | Cls | COVID-19 |
-| 38 | [SZ-CXR {stirenko2018chest](https://arxiv.org/pdf/1803.01199v1.pdf) | 2018 | 2D | X-Ray | Lung | 566 | Yes | Seg | NA |
+| 38 | [SZ-CXR](https://arxiv.org/pdf/1803.01199v1.pdf) | 2018 | 2D | X-Ray | Lung | 566 | Yes | Seg | NA |
 | 39 | [Pulmonary Chest X-Ray Seg](https://tianchi.aliyun.com/dataset/dataDetail?dataId=94377) | 2021 | 2D | X-Ray | Lung | 800 | Yes | Seg | Lung diseases |
 | 40 | [DENTEX](https://dentex.grand-challenge.org/data/) | 2023 | 2D | X-Ray | Brain | 1.0k | Yes | Det | NA |
 | 41 | [CL-Detection2023](https://cl-detection2023.grand-challenge.org/) | 2023 | 2D | X-Ray | NA | 555 | Yes | Det | NA |
@@ -343,55 +343,55 @@ These datasets form the foundation for training next-generation medical AI model
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | [DRISHTI-GS {sivaswamy2014drishti](http://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php) | 2014 | 2D | Fundus Photo | Retina | 101 | Yes | Seg | Optic Disc |
-| 2 | [CHASE {CHASEDB1](https://blogs.kingston.ac.uk/retinal/chasedb1/) | 2009 | 2D | Fundus Photo | Retina | 28 | Yes | Seg | NA |
-| 3 | [STARE {hoover2000locating](http://cecas.clemson.edu/~ahoover/stare/) | 2004 | 2D | Fundus Photo | Retina | 40 | Yes | Seg | NA |
-| 4 | [DRIVE {staal2004ridge](https://drive.grand-challenge.org/) | 2003 | 2D | Fundus Photo | Retina | 40 | Yes | Seg | NA |
-| 5 | [IDRID2018 {porwal2018indian](https://idrid.grand-challenge.org/) | 2018 | 2D | Fundus Photo | Retina | 81 | Yes | Seg, Cls | Diabetic Retinopathy |
-| 6 | [EyePACS {cuadros2009eyepacs](https://www.kaggle.com/c/diabetic-retinopathy-detection/data) | 2015 | 2D | Fundus Photo | Retina | 88.7k | Yes | Cls | Diabetic Retinopathy |
-| 7 | [DRHAGIS {holm2017dr](https://paperswithcode.com/dataset/dr-hagis) | 2017 | 2D | Fundus Photo | Retina | 40 | Yes | Seg | DR Lesions |
-| 8 | [ODIR {li2020benchmark](https://odir2019.grand-challenge.org/) | 2019 | 2D | Fundus Photo | Retina | 8k | Yes | Cls | Ocular Diseases (DR screening) |
-| 9 | [RIADD (RFMiD) {pachade2021retinal](https://riadd.grand-challenge.org/) | 2020 | 2D | Fundus Photo | Retina | 3.2k | Yes | Cls | Retinal Diseases |
-| 10 | [MESSIDOR-2 {abramoff2013automated](https://www.adcis.net/en/third-party/messidor2/) | 2013 | 2D | Fundus Photo | Retina | 1.7k | Yes | Cls | Diabetic Retinopathy |
-| 11 | [iChallenge-ADAM {fang2022adam](https://amd.grand-challenge.org/) | 2020 | 2D | Fundus Photo | Retina | 400 | Yes | Cls | Diabetic Retinopathy |
-| 12 | [AIROGS {de2023airogs](https://airogs.grand-challenge.org/) | 2021 | 2D | Fundus Photo | Retina | 101.4k | No | Cls | Diabetic Retinopathy |
-| 13 | [DiaRetDB {kauppi2007diaretdb1](https://www.it.lut.fi/project/imageret/) | 2009 | 2D | Fundus Photo | Retina | 89 | No | Det | DR Lesions |
-| 14 | [HRF {budai2013robust](https://www5.cs.fau.de/fileadmin/research/datasets/fundus-images/healthy.zip) | NA | 2D | Fundus | Retina | 45 | No | Seg | NA |
-| 15 | [iChallenge-PALM19 {palm](https://palm.grand-challenge.org/) | 2019 | 2D | Fundus | Retina | 800 | Yes | Seg | NA |
-| 16 | [Retina Fundus Image Reg. {hernandez2017fire](https://tianchi.aliyun.com/dataset/dataDetail?dataId=90112) | 2021 | 2D | Fundus Photo | Retina | 129 | Yes | Reg | NA |
-| 17 | [APTOS-2019 {tianchi2021retinafundus](https://tianchi.aliyun.com/dataset/dataDetail?dataId=120007) | 2021 | 2D | Fundus Photo | Retina | 3.7k | Yes | Cls | Diabetic Retinopathy |
-| 18 | [MedMNIST {yang2023medmnist](https://medmnist.com/v1) | 2020 | 2D | Multi | Retina, Breast, Lung | 100k | Yes | Cls | NA |
-| 19 | [DeepDR-Task1 {liu2022deepdrid](https://isbi.deepdr.org/) | 2020 | 2D | Fundus Photo | Eye Vessel | 2k | Yes | Cls | Breast Cancer |
-| 20 | [ImageCLEF 2016 {ruckert2024rocov2](https://www.imageclef.org/2016/medical) | 2015 | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | Head |
-| 21 | [RITE {hu2013automated](https://opendatalab.com/RITE) | 2013 | 2D | Fundus | Retina | 40 | Yes | Seg | Retinal Vessel |
-| 22 | [GAMMA (Task1, CFP) {wu2023gamma](https://gamma.grand-challenge.org/) | 2021 | 2D | Fundus (CFP) | Retina | 200 | Yes | Cls | Grading |
-| 23 | [RIM-ONE {batista2020rim](http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/) | 2020 | 2D | Fundus | Retina | 485 | Yes | Seg | Optic Disc and Cup |
-| 24 | [APTOS 2019 Blindness Det. {zhang2025predicting](https://www.kaggle.com/competitions/aptos2019-blindness-detection/overview) | 2019 | 2D | Fundus | Retina | 5.6k | Yes | Cls | Grading |
-| 25 | [Glaucoma Detection {sshikamaru_glaucoma_detection](https://www.kaggle.com/datasets/sshikamaru/glaucoma-detection) | 2020 | 2D | Fundus | Retina | 650 | Yes | Cls | Glaucoma |
-| 26 | [ACRIMA {diaz2019cnns](https://figshare.com/s/c2d31f850af14c5b5232) | 2019 | 2D | Fundus | Retina | 705 | Yes | Cls | Glaucoma |
-| 27 | [AO-SLO Photoreceptor Seg. {chiu2013automatic](https://people.duke.edu/~sf59/Chiu_BOE_2013_dataset.htm) | 2013 | 2D | Fundus | Retina | 840 | Yes | Seg | AO-SLO Cone Photoreceptor |
-| 28 | [Arteriovenous Nicking {nguyen2013automated](https://people.eng.unimelb.edu.au/thivun/projects/AV_nicking_quantification/) | NA | 2D | Fundus | Retina | 90 | Yes | Cls | Retinal Artery-Vein Nicking |
-| 29 | [Retina {jr2ngb_cataractdataset](https://www.kaggle.com/datasets/jr2ngb/cataractdataset) | 2019 | 2D | Fundus | Retina | 601 | Yes | Cls | Fundus Diseases |
-| 30 | [Yangxi {liu2019self](https://zenodo.org/record/3393265) | 2019 | 2D | Fundus | Retina | 20.4k | Yes | Cls | Eye Axis |
-| 31 | [William Hoyt {perez2011vampire](https://novel.utah.edu/Hoyt/disc_swelling.php) | 2004 | 2D | Fundus | Retina | 856 | Yes | Cls | Fundus Diseases |
-| 32 | [Vampire {perez2011vampire](https://vampire.computing.dundee.ac.uk/vesselseg.html) | 2011 | 2D | Fundus | Retina | 8 | Yes | Seg | Vessel |
-| 33 | [Retinal Fundus Imgs for Glaucoma {almazroa2018retinal](https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z?locale=en) | 2018 | 2D | Fundus | Retina | 2.9k | Yes | Cls | NA |
-| 34 | [RetinaCheck (IOSTAR) {abbasi2015biologically](http://www.retinacheck.org/download-iostar-retinal-vessel-segmentation-dataset) | 2016 | 2D | Fundus | Retina | 30 | Yes | Seg | Vessel |
-| 35 | [Ophthalmic Slit Lamp {jiang2018predicting](https://plos.figshare.com/articles/dataset/Predicting_the_progression_of_ophthalmic_disease_based_on_slit-lamp_images_using_a_deep_temporal_sequence_network/6883823) | 2018 | 2D | Fundus | Retina | 60 | No | NA | NA |
-| 36 | [Miles Iris {jr2ngb_cataractdataset](https://drive.google.com/drive/folders/0B5OBp4zckpLnYkpBcWlubC0tcTA) | 2013 | 2D | Fundus (Iris) | Retina | 833 | No | Cls | Retinal Structures |
-| 37 | [JSIEC {cen2021automatic](https://www.kaggle.com/datasets/linchundan/fundusimage1000) | 2019 | 2D | Fundus | Retina | 1k | Yes | Cls | Fundus Diseases |
-| 38 | [INSPIRE (Stereo) {jr2ngb_cataractdataset](https://medicine.uiowa.edu/eye/inspire-datasets) | 2011 | 2D | Fundus | Retina | 30 | Yes | Reg | NA |
-| 39 | [INSPIRE (AVR) {jr2ngb_cataractdataset](https://medicine.uiowa.edu/eye/inspire-datasets) | 2011 | 2D | Fundus | Retina | 40 | Yes | Reg | NA |
-| 40 | [HRF Quality Assessment {odstrcilik2013retinal](https://www5.cs.fau.de/research/data/fundus-images/) | 2013 | 2D | Fundus | Retina | 36 | Yes | Reg | NA |
-| 41 | [HRF Segmentation {budai2013robust](https://www5.cs.fau.de/research/data/fundus-images/) | 2013 | 2D | Fundus | Retina | 45 | Yes | Seg | Vessel |
-| 42 | [iChallenge-REFUGE2 {fang2022refuge2](https://refuge.grand-challenge.org/) | 2020 | 2D | Fundus Photo (CFP) | Retina | 1.6k | Yes | Cls | Glaucoma |
-| 43 | [GAMMA {wu2023gamma](https://gamma.grand-challenge.org/) | 2021 | 2D, 3D | Fundus | Retina | 200 | Yes | Cls | NA |
-| 44 | [OIA-ODIR {li2020benchmark](https://odir2019.grand-challenge.org/introduction/) | 2019 | 2D | Fundus | NA | 10k | Yes | Cls | NA |
+| 1 | [DRISHTI-GS](http://cvit.iiit.ac.in/projects/mip/drishti-gs/mip-dataset2/Home.php) | 2014 | 2D | Fundus Photo | Retina | 101 | Yes | Seg | Optic Disc |
+| 2 | [CHASE](https://blogs.kingston.ac.uk/retinal/chasedb1/) | 2009 | 2D | Fundus Photo | Retina | 28 | Yes | Seg | NA |
+| 3 | [STARE](http://cecas.clemson.edu/~ahoover/stare/) | 2004 | 2D | Fundus Photo | Retina | 40 | Yes | Seg | NA |
+| 4 | [DRIVE](https://drive.grand-challenge.org/) | 2003 | 2D | Fundus Photo | Retina | 40 | Yes | Seg | NA |
+| 5 | [IDRID2018](https://idrid.grand-challenge.org/) | 2018 | 2D | Fundus Photo | Retina | 81 | Yes | Seg, Cls | Diabetic Retinopathy |
+| 6 | [EyePACS](https://www.kaggle.com/c/diabetic-retinopathy-detection/data) | 2015 | 2D | Fundus Photo | Retina | 88.7k | Yes | Cls | Diabetic Retinopathy |
+| 7 | [DRHAGIS](https://paperswithcode.com/dataset/dr-hagis) | 2017 | 2D | Fundus Photo | Retina | 40 | Yes | Seg | DR Lesions |
+| 8 | [ODIR](https://odir2019.grand-challenge.org/) | 2019 | 2D | Fundus Photo | Retina | 8k | Yes | Cls | Ocular Diseases (DR screening) |
+| 9 | [RIADD (RFMiD)](https://riadd.grand-challenge.org/) | 2020 | 2D | Fundus Photo | Retina | 3.2k | Yes | Cls | Retinal Diseases |
+| 10 | [MESSIDOR-2](https://www.adcis.net/en/third-party/messidor2/) | 2013 | 2D | Fundus Photo | Retina | 1.7k | Yes | Cls | Diabetic Retinopathy |
+| 11 | [iChallenge-ADAM](https://amd.grand-challenge.org/) | 2020 | 2D | Fundus Photo | Retina | 400 | Yes | Cls | Diabetic Retinopathy |
+| 12 | [AIROGS](https://airogs.grand-challenge.org/) | 2021 | 2D | Fundus Photo | Retina | 101.4k | No | Cls | Diabetic Retinopathy |
+| 13 | [DiaRetDB](https://www.it.lut.fi/project/imageret/) | 2009 | 2D | Fundus Photo | Retina | 89 | No | Det | DR Lesions |
+| 14 | [HRF](https://www5.cs.fau.de/fileadmin/research/datasets/fundus-images/healthy.zip) | NA | 2D | Fundus | Retina | 45 | No | Seg | NA |
+| 15 | [iChallenge-PALM19](https://palm.grand-challenge.org/) | 2019 | 2D | Fundus | Retina | 800 | Yes | Seg | NA |
+| 16 | [Retina Fundus Image Reg.](https://tianchi.aliyun.com/dataset/dataDetail?dataId=90112) | 2021 | 2D | Fundus Photo | Retina | 129 | Yes | Reg | NA |
+| 17 | [APTOS-2019](https://tianchi.aliyun.com/dataset/dataDetail?dataId=120007) | 2021 | 2D | Fundus Photo | Retina | 3.7k | Yes | Cls | Diabetic Retinopathy |
+| 18 | [MedMNIST](https://medmnist.com/v1) | 2020 | 2D | Multi | Retina, Breast, Lung | 100k | Yes | Cls | NA |
+| 19 | [DeepDR-Task1](https://isbi.deepdr.org/) | 2020 | 2D | Fundus Photo | Eye Vessel | 2k | Yes | Cls | Breast Cancer |
+| 20 | [ImageCLEF 2016](https://www.imageclef.org/2016/medical) | 2015 | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | Head |
+| 21 | [RITE](https://opendatalab.com/RITE) | 2013 | 2D | Fundus | Retina | 40 | Yes | Seg | Retinal Vessel |
+| 22 | [GAMMA (Task1, CFP)](https://gamma.grand-challenge.org/) | 2021 | 2D | Fundus (CFP) | Retina | 200 | Yes | Cls | Grading |
+| 23 | [RIM-ONE](http://medimrg.webs.ull.es/research/retinal-imaging/rim-one/) | 2020 | 2D | Fundus | Retina | 485 | Yes | Seg | Optic Disc and Cup |
+| 24 | [APTOS 2019 Blindness Det.](https://www.kaggle.com/competitions/aptos2019-blindness-detection/overview) | 2019 | 2D | Fundus | Retina | 5.6k | Yes | Cls | Grading |
+| 25 | [Glaucoma Detection](https://www.kaggle.com/datasets/sshikamaru/glaucoma-detection) | 2020 | 2D | Fundus | Retina | 650 | Yes | Cls | Glaucoma |
+| 26 | [ACRIMA](https://figshare.com/s/c2d31f850af14c5b5232) | 2019 | 2D | Fundus | Retina | 705 | Yes | Cls | Glaucoma |
+| 27 | [AO-SLO Photoreceptor Seg.](https://people.duke.edu/~sf59/Chiu_BOE_2013_dataset.htm) | 2013 | 2D | Fundus | Retina | 840 | Yes | Seg | AO-SLO Cone Photoreceptor |
+| 28 | [Arteriovenous Nicking](https://people.eng.unimelb.edu.au/thivun/projects/AV_nicking_quantification/) | NA | 2D | Fundus | Retina | 90 | Yes | Cls | Retinal Artery-Vein Nicking |
+| 29 | [Retina](https://www.kaggle.com/datasets/jr2ngb/cataractdataset) | 2019 | 2D | Fundus | Retina | 601 | Yes | Cls | Fundus Diseases |
+| 30 | [Yangxi](https://zenodo.org/record/3393265) | 2019 | 2D | Fundus | Retina | 20.4k | Yes | Cls | Eye Axis |
+| 31 | [William Hoyt](https://novel.utah.edu/Hoyt/disc_swelling.php) | 2004 | 2D | Fundus | Retina | 856 | Yes | Cls | Fundus Diseases |
+| 32 | [Vampire](https://vampire.computing.dundee.ac.uk/vesselseg.html) | 2011 | 2D | Fundus | Retina | 8 | Yes | Seg | Vessel |
+| 33 | [Retinal Fundus Imgs for Glaucoma](https://deepblue.lib.umich.edu/data/concern/data_sets/3b591905z?locale=en) | 2018 | 2D | Fundus | Retina | 2.9k | Yes | Cls | NA |
+| 34 | [RetinaCheck (IOSTAR)](http://www.retinacheck.org/download-iostar-retinal-vessel-segmentation-dataset) | 2016 | 2D | Fundus | Retina | 30 | Yes | Seg | Vessel |
+| 35 | [Ophthalmic Slit Lamp](https://plos.figshare.com/articles/dataset/Predicting_the_progression_of_ophthalmic_disease_based_on_slit-lamp_images_using_a_deep_temporal_sequence_network/6883823) | 2018 | 2D | Fundus | Retina | 60 | No | NA | NA |
+| 36 | [Miles Iris](https://drive.google.com/drive/folders/0B5OBp4zckpLnYkpBcWlubC0tcTA) | 2013 | 2D | Fundus (Iris) | Retina | 833 | No | Cls | Retinal Structures |
+| 37 | [JSIEC](https://www.kaggle.com/datasets/linchundan/fundusimage1000) | 2019 | 2D | Fundus | Retina | 1k | Yes | Cls | Fundus Diseases |
+| 38 | [INSPIRE (Stereo)](https://medicine.uiowa.edu/eye/inspire-datasets) | 2011 | 2D | Fundus | Retina | 30 | Yes | Reg | NA |
+| 39 | [INSPIRE (AVR)](https://medicine.uiowa.edu/eye/inspire-datasets) | 2011 | 2D | Fundus | Retina | 40 | Yes | Reg | NA |
+| 40 | [HRF Quality Assessment](https://www5.cs.fau.de/research/data/fundus-images/) | 2013 | 2D | Fundus | Retina | 36 | Yes | Reg | NA |
+| 41 | [HRF Segmentation](https://www5.cs.fau.de/research/data/fundus-images/) | 2013 | 2D | Fundus | Retina | 45 | Yes | Seg | Vessel |
+| 42 | [iChallenge-REFUGE2](https://refuge.grand-challenge.org/) | 2020 | 2D | Fundus Photo (CFP) | Retina | 1.6k | Yes | Cls | Glaucoma |
+| 43 | [GAMMA](https://gamma.grand-challenge.org/) | 2021 | 2D, 3D | Fundus | Retina | 200 | Yes | Cls | NA |
+| 44 | [OIA-ODIR](https://odir2019.grand-challenge.org/introduction/) | 2019 | 2D | Fundus | NA | 10k | Yes | Cls | NA |
 | 45 | [VARPA](http://www.varpa.es/research/ophtalmology.html) | 2019 | 2D | Fundus | Retina | 58 | Yes | Cls | NA |
 | 46 | [ORVS](https://opendatalab.org.cn/ORVS) | 2020 | 2D | Fundus | Retina | 49 | Yes | Seg | NA |
 | 47 | [Retinal Img Quality Assess](https://www.heywhale.com/mw/dataset/5e95d871e7ec38002d034efe) | 2020 | 2D | Fundus | Retina | 216 | Yes | Cls | NA |
-| 48 | [iChallenge-GAMMA_3D-OCT {wu2023gamma](https://gamma.grand-challenge.org/) | 2021 | 2D | Fundus | Retina | 300 | Yes | Seg | Glaucoma |
-| 49 | [DeepDR-Task2 {liu2022deepdrid](https://isbi.deepdr.org/) | 2020 | 2D | Fundus | NA | 2k | Yes | Reg | NA |
+| 48 | [iChallenge-GAMMA_3D-OCT](https://gamma.grand-challenge.org/) | 2021 | 2D | Fundus | Retina | 300 | Yes | Seg | Glaucoma |
+| 49 | [DeepDR-Task2](https://isbi.deepdr.org/) | 2020 | 2D | Fundus | NA | 2k | Yes | Reg | NA |
 | 50 | [DeepDR-Task3 {liu2022deepdrid](https://isbi.deepdr.org/) | 2020 | 2D | Fundus | NA | 246 | Yes | Cls | NA |
 | 51 | [MMAC2023 {li2023automated](https://codalab.lisn.upsaclay.fr/competitions/12441) | 2023 | 2D | Fundus | NA | 0 | Yes | Cls | NA |
 | 52 | [RFMiD 2.0 {pachade2021retinal](https://zenodo.org/record/7505822) | 2023 | 2D | Fundus Photo | NA | 860 | Yes | Cls | Retinal Fundus Multi-Disease |
@@ -420,7 +420,7 @@ These datasets form the foundation for training next-generation medical AI model
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | [PANDA_radboud {bulten2022artificial](https://www.kaggle.com/c/prostate-cancer-grade-assessment/data?select=train.csv) | 2020 | 2D | Histopathology (Patch) | Prostate | 5.1k | Yes | Seg | Prostate Cancer |
+| 1 | [PANDA_radboud](https://www.kaggle.com/c/prostate-cancer-grade-assessment/data?select=train.csv) | 2020 | 2D | Histopathology (Patch) | Prostate | 5.1k | Yes | Seg | Prostate Cancer |
 | 2 | [Gleason {nir2018automatic](https://gleason2019.grand-challenge.org/Home/) | 2019 | 2D | Histopathology (Patch) | Prostate | 331 | Yes | Seg | Prostate Cancer |
 | 3 | [PathologyVQA {he2020pathvqa](https://pathvqachallenge.grand-challenge.org) | 2020 | 2D | Histopathology (Patch) | Full Body | 5.0k | Yes | VQA | NA |
 | 4 | [SLN-Breast {campanella2019breast](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52763339) | 2019 | 2D | Histopathology (WSI) | Lymph | 166 | Yes | Cls | Breast Lymph Node |
