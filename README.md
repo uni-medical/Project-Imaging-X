@@ -3,14 +3,17 @@
 A comprehensive collection of 1,126+ medical imaging datasets for machine learning research, curated from our extensive survey of medical AI literature.
 
 
-> If you spot any mistakes or have suggestions, feel free to reach out by email: your-email@institution.edu
+> If you spot any mistakes or have suggestions, feel free to reach out by email: yejin@pjlab.org.cn and hejunjun@pjlab.org.cn
 >
-> If you find our survey useful for your research, please cite the following paper:
+> If you find our survey useful for your research, please cite the following paper: [Dataset Review](assets/Dataset_Review.pdf)
 
 ## 📖 Citation
 If you find this repository or our survey helpful in your research, please kindly cite our paper:
+
+📄 **Paper**: [Dataset Review](assets/Dataset_Review.pdf)
+
 ```bibtex
-# To be updated
+# Citation information will be updated once the paper is published on arXiv
 ```
 
 ---
