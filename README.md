@@ -1,17 +1,12 @@
 # Awesome Medical Datasets
 
-A comprehensive collection of 1,126+ medical imaging datasets for machine learning research, curated from our extensive survey of medical AI literature.
+A comprehensive survey of 1,000+ open-access medical image datasets with systematic analysis of their modalities, tasks, anatomies, and potential for integration into foundation models.
 
 > Foundation models have demonstrated remarkable success across diverse domains and tasks, primarily due to the thrive of large-scale, diverse, and high-quality datasets. However, in the field of medical imaging, the curation and annotation of such medical datasets are highly challenging due to the reliance on clinical expertise and strict ethical and privacy constraints, resulting in a scarcity of large-scale unified medical datasets and hindering the development of powerful medical foundation models.
-> 
 > In this work, we present a comprehensive survey of over 1,000 open-access medical image datasets, providing a thorough analysis of their modalities, tasks, anatomies, annotations, limitations, and potential for integration.
-> 
 > Through this systematic examination, our findings reveal that most existing datasets are modest in scale, fragmented across specific tasks, and narrowly scoped, which in turn limits their utility for developing versatile and robust medical foundation models.
-> 
 > To address these gaps, we develop a systematic paradigm for integrating public datasets with shared modalities or tasks, thereby transforming multiple small datasets into a larger, more cohesive resource.
-> 
 > In addition, we compile all surveyed datasets into a unified, structured table that clearly summarizes their key characteristics and provides reference links, offering the community an accessible and comprehensive repository.
-> 
 > By mapping the current landscape and proposing strategies for dataset consolidation, our survey supports data discovery, guides dataset creation, and advances medical foundation models for the biomedical imaging research community.
 
 > If you spot any mistakes or have suggestions, feel free to reach out by email: yejin@pjlab.org.cn, hhuming@pjlab.org.cn, qiaoyu@pjlab.org.cn, chenyirong@pjlab.org.cn, hejunjun@pjlab.org.cn
