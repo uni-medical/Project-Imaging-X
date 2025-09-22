@@ -88,7 +88,7 @@ These datasets form the foundation for training next-generation medical AI model
     - [👁️‍🗨️ OCT](#-oct)
     - [🌡️ Infrared](#-infrared)
     - [🧩 Others](#-others)
-    - [🫁 CT Datasets](#-ct-datasets)
+    - [⭕️ CT Datasets](#-ct-datasets)
     - [🦴 X-ray Datasets](#-x-ray-datasets)
     - [🧠 MRI Datasets](#-mri-datasets)
     - [👁️ Fundus Photography](#-fundus-photography)
@@ -98,7 +98,7 @@ These datasets form the foundation for training next-generation medical AI model
     - [🔬 Microscopy](#-microscopy)
     - [☢️ PET](#-pet)
   - [🧊 3D Medical Imaging Datasets](#-3d-medical-imaging-datasets)
-    - [🫁 3D CT Datasets](#-3d-ct-datasets)
+    - [⭕️ 3D CT Datasets](#-3d-ct-datasets)
     - [🧠 3D MR Datasets](#-3d-mr-datasets)
     - [☢️ 3D PET Datasets](#-3d-pet-datasets)
     - [🩺 3D Ultrasound Datasets](#-3d-ultrasound-datasets)
@@ -172,7 +172,7 @@ These datasets form the foundation for training next-generation medical AI model
 | 5 | [MRL Eye Image quality cls](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared | Retina | 84.9k | Yes | Cls | NA |
 | 6 | [MRL Eye Sensor type cls](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared | Retina | 84.9k | Yes | Cls | NA |
 
-### 🫁 CT Datasets
+### 🩻 CT Datasets
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
@@ -659,7 +659,7 @@ These datasets form the foundation for training next-generation medical AI model
 
 
 
-### 🫁 3D CT Datasets
+### 🩻 3D CT Datasets
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Volumes | Label | Task | Diseases |
