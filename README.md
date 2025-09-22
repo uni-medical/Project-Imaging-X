@@ -16,40 +16,6 @@ If you find this repository or our survey helpful in your research, please kindl
 
 ---
 
-## 📋 Table of Contents
-
-- [Awesome Medical Datasets](#awesome-medical-datasets)
-  - [📖 Citation](#-citation)
-  - [📋 Table of Contents](#-table-of-contents)
-  - [📈 Medical Dataset Publication Trends](#-medical-dataset-publication-trends)
-  - [🏥 Medical Imaging Dataset Ecosystem](#-medical-imaging-dataset-ecosystem)
-  - [🤖 Medical Foundation Model Development](#-medical-foundation-model-development)
-  - [🔍 Taxonomy and Retrieval System](#-taxonomy-and-retrieval-system)
-  - [📊 2D Medical Imaging Datasets](#-2d-medical-imaging-datasets)
-    - [🫁 CT Datasets](#-ct-datasets)
-    - [🦴 X-ray Datasets](#-x-ray-datasets) 
-    - [🧠 MRI Datasets](#-mri-datasets)
-    - [👁️ Fundus Photography](#️-fundus-photography)
-    - [🔬 Histopathology](#-histopathology)
-    - [🩺 Ultrasound](#-ultrasound)
-    - [🔍 Endoscopy](#-endoscopy)
-    - [👥 Dermoscopy](#-dermoscopy)
-    - [🧪 Microscopy](#-microscopy)
-    - [👁️‍🗨️ OCT](#️️-oct)
-    - [☢️ PET](#️-pet)
-    - [🔥 Infrared](#-infrared)
-    - [🔬 Others](#-others-2d)
-  - [📦 3D Medical Imaging Datasets](#-3d-medical-imaging-datasets)
-    - [🫁 3D CT](#-3d-ct)
-    - [🧠 3D MRI](#-3d-mri)
-    - [☢️ 3D PET](#️-3d-pet)
-    - [🩺 3D Ultrasound](#-3d-ultrasound)
-    - [🔬 Other 3D](#-other-3d)
-  - [🎥 Video Medical Imaging Datasets](#-video-medical-imaging-datasets)
-  - [🤝 Contributing](#-contributing)
-
----
-
 ## 📈 Medical Dataset Publication Trends
 
 ![Publication Trends](assets/overview_year_trends.png)
@@ -84,6 +50,39 @@ Our systematic categorization enables efficient dataset discovery based on:
 - **Anatomical Region**: Brain, Chest, Abdomen, Extremities, etc.
 - **Task Type**: Classification, Segmentation, Detection, etc.
 - **Disease Category**: Cancer, Cardiovascular, Neurological, etc.
+
+---
+
+## 📋 Table of Contents
+
+- [Awesome Medical Datasets](#awesome-medical-datasets)
+  - [📖 Citation](#-citation)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [📈 Medical Dataset Publication Trends](#-medical-dataset-publication-trends)
+  - [🏥 Medical Imaging Dataset Ecosystem](#-medical-imaging-dataset-ecosystem)
+  - [🤖 Medical Foundation Model Development](#-medical-foundation-model-development)
+  - [🔍 Taxonomy and Retrieval System](#-taxonomy-and-retrieval-system)
+  - [📊 2D Medical Imaging Datasets](#-2d-medical-imaging-datasets)
+    - [🫁 CT Datasets](#-ct-datasets)
+    - [🦴 X-ray Datasets](#-x-ray-datasets) 
+    - [🧠 MRI Datasets](#-mri-datasets)
+    - [👁️ Fundus Photography](#️-fundus-photography)
+    - [🔬 Histopathology](#-histopathology)
+    - [🩺 Ultrasound](#-ultrasound)
+    - [🔍 Endoscopy](#-endoscopy)
+    - [👥 Dermoscopy](#-dermoscopy)
+    - [🧪 Microscopy](#-microscopy)
+    - [👁️‍🗨️ OCT](#️️-oct)
+    - [☢️ PET](#️-pet)
+    - [🔥 Infrared](#-infrared)
+    - [🔬 Others](#-others-2d)
+  - [📦 3D Medical Imaging Datasets](#-3d-medical-imaging-datasets)
+    - [🫁 3D CT](#-3d-ct)
+    - [🧠 3D MRI](#-3d-mri)
+    - [☢️ 3D PET](#️-3d-pet)
+    - [🩺 3D Ultrasound](#-3d-ultrasound)
+    - [🔬 Other 3D](#-other-3d)
+  - [🎥 Video Medical Imaging Datasets](#-video-medical-imaging-datasets)
 
 ---
 
