@@ -47,8 +47,10 @@ If you find this repository or our survey helpful in your research, please kindl
 ## 🏥 Medical Datasets Overview
 
 ![Body Part Overview](assets/overview_body_new.png)
+*Comprehensive visualization of medical imaging datasets showing anatomical region distribution, imaging modalities, and AI task types, spanning the evolution of medical imaging from 2000 to 2025*
 
-A comprehensive analysis of 1000+ medical imaging datasets spanning anatomical regions, imaging modalities, and AI tasks, showcasing the evolution of medical imaging from 2000 to 2025.
+![Overview Pie Chart](assets/Overview_pie.png)
+*Detailed statistical breakdown: (a) Data dimension distribution (b) Imaging modality distribution (c) Task type distribution (d) Anatomical organ distribution, based on comprehensive analysis of 1000+ medical datasets*
 
 ---
 
