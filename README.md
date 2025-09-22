@@ -49,16 +49,22 @@ If you find this repository or our survey helpful in your research, please kindl
 ![Body Part Overview](assets/overview_body_new.png)
 *Comprehensive visualization of medical imaging datasets showing anatomical region distribution, imaging modalities, and AI task types, spanning the evolution of medical imaging from 2000 to 2025*
 
-![Overview Pie Chart](assets/Overview_pie.png)
-*Detailed statistical breakdown: (a) Data dimension distribution (b) Imaging modality distribution (c) Task type distribution (d) Anatomical organ distribution, based on comprehensive analysis of 1000+ medical datasets*
+### 📈 Statistical Analysis & Dataset Taxonomy
 
----
-
-## 🏥 Medical Imaging Dataset Ecosystem  
-
-![Medical Ecosystem](assets/medical_ecosystem.png)
-
-Our comprehensive taxonomy covers the entire spectrum of medical imaging modalities, from traditional radiography to advanced molecular imaging.
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="assets/Taxonomy.png" alt="Taxonomy" width="100%">
+<p><em>Systematic categorization framework for efficient dataset discovery and organization</em></p>
+</td>
+<td width="50%">
+<img src="assets/Overview_pie.png" alt="Overview Pie Chart" width="100%">
+<p><em>Statistical breakdown: (a) Data dimension distribution (b) Imaging modality distribution (c) Task type distribution (d) Anatomical organ distribution</em></p>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -67,19 +73,6 @@ Our comprehensive taxonomy covers the entire spectrum of medical imaging modalit
 ![Foundation Models](assets/FM_overview.png)
 
 These datasets form the foundation for training next-generation medical AI models, enabling breakthroughs in automated diagnosis and treatment planning.
-
----
-
-## 🔍 Taxonomy and Retrieval System
-
-![Taxonomy](assets/Taxonomy.png)
-
-Our systematic categorization enables efficient dataset discovery based on:
-- **Medical Domain**: Radiology, Pathology, Ophthalmology, etc.
-- **Imaging Modality**: CT, MRI, X-ray, Ultrasound, etc.  
-- **Anatomical Region**: Brain, Chest, Abdomen, Extremities, etc.
-- **Task Type**: Classification, Segmentation, Detection, etc.
-- **Disease Category**: Cancer, Cardiovascular, Neurological, etc.
 
 ---
 
