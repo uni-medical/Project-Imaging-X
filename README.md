@@ -44,7 +44,7 @@ If you find this repository or our survey helpful in your research, please kindl
 
 ---
 
-## 🏥 Medical Dataset Overview
+## 🏥 Medical Datasets Overview
 
 ![Body Part Overview](assets/overview_body_new.png)
 
