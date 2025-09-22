@@ -118,20 +118,20 @@ These datasets form the foundation for training next-generation medical AI model
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | [ISIC18 {codella2019skin](https://workshop2018.isic-archive.com/) | 2018 | 2D | Dermoscopy | Skin | 2.7k | Yes | Seg | Skin lesion |
-| 2 | [ISIC20 {rotemberg2021patient](https://challenge.isic-archive.com/) | 2020 | 2D | Dermoscopy | Skin | 33.1k | Yes | Cls | Benign melanoma, malignant melanoma |
-| 3 | [ISIC16 {gutman2016skin](https://challenge.isic-archive.com/landing/2016/) | 2016 | 2D | Dermoscopy | Skin | 1.3k | Yes | Seg | Skin lesion |
-| 4 | [ISIC17 {codella2018skin](https://challenge.isic-archive.com/landing/2017/) | 2016 | 2D | Dermoscopy | Skin | 2.8k | Yes | Seg | Skin lesion |
-| 5 | [Derm7pt {kawahara2018seven](https://derm.cs.sfu.ca/Welcome.html) | 2021 | 2D | Dermoscopy | Skin | 2.0k | Yes | Cls | Skin lesion |
-| 6 | [ISIC19 {combalia2022validation](https://challenge2019.isic-archive.com/) | 2019 | 2D | Dermoscopy | Skin | 25.3k | Yes | Cls | Cells |
-| 7 | [Fizpatrick 17k {groh2021evaluating](https://github.com/mattgroh/fitzpatrick17k) | 2021 | 2D | Dermoscopy | Skin | 16.6k | Yes | Cls | NA |
-| 8 | [MED-NODE {giotis2015med](https://www.cs.rug.nl/~imaging/databases/melanoma_naevi/) | 2015 | 2D | Dermoscopy | Skin | 170 | Yes | Cls | Brain |
-| 9 | [PAD-UFES-20 {pacheco2020pad](https://data.mendeley.com/datasets/zr7vgbcyr2/1) | 2020 | 2D | Dermoscopy | Skin | 2.3k | Yes | Cls | Thoracic diseases |
-| 10 | [PH2 {mendoncca2013ph](https://www.fc.up.pt/addi/ph2\%20database.html) | 2014 | 2D | Dermoscopy | Skin | 200 | Yes | Cls | Cells |
+| 1 | [ISIC18](https://workshop2018.isic-archive.com/) | 2018 | 2D | Dermoscopy | Skin | 2.7k | Yes | Seg | Skin lesion |
+| 2 | [ISIC20](https://challenge.isic-archive.com/) | 2020 | 2D | Dermoscopy | Skin | 33.1k | Yes | Cls | Benign melanoma, malignant melanoma |
+| 3 | [ISIC16](https://challenge.isic-archive.com/landing/2016/) | 2016 | 2D | Dermoscopy | Skin | 1.3k | Yes | Seg | Skin lesion |
+| 4 | [ISIC17](https://challenge.isic-archive.com/landing/2017/) | 2016 | 2D | Dermoscopy | Skin | 2.8k | Yes | Seg | Skin lesion |
+| 5 | [Derm7pt](https://derm.cs.sfu.ca/Welcome.html) | 2021 | 2D | Dermoscopy | Skin | 2.0k | Yes | Cls | Skin lesion |
+| 6 | [ISIC19](https://challenge2019.isic-archive.com/) | 2019 | 2D | Dermoscopy | Skin | 25.3k | Yes | Cls | Cells |
+| 7 | [Fizpatrick 17k](https://github.com/mattgroh/fitzpatrick17k) | 2021 | 2D | Dermoscopy | Skin | 16.6k | Yes | Cls | NA |
+| 8 | [MED-NODE](https://www.cs.rug.nl/~imaging/databases/melanoma_naevi/) | 2015 | 2D | Dermoscopy | Skin | 170 | Yes | Cls | Brain |
+| 9 | [PAD-UFES-20](https://data.mendeley.com/datasets/zr7vgbcyr2/1) | 2020 | 2D | Dermoscopy | Skin | 2.3k | Yes | Cls | Thoracic diseases |
+| 10 | [PH2](https://www.fc.up.pt/addi/ph2\%20database.html) | 2014 | 2D | Dermoscopy | Skin | 200 | Yes | Cls | Cells |
 | 11 | [DFUC 2020](https://dfu-challenge.github.io/) | 2020 | 2D | Dermoscopy | Foot | 2.0k | Yes | Seg | Breast cancer |
-| 12 | [SD-128 / SD-198 / SD-260 {sun2016benchmark,yang2019self](https://workshop2021.isic-archive.com) | 2021 | 2D | Dermoscopy | Skin | 6.6k | Yes | Cls | Fetal structure |
-| 13 | [ImageCLEF 2016 {de2016overview](https://www.imageclef.org/2016/medical) | 2015 | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | Head |
-| 14 | [Monkeypox Skin Image Dataset {Nafisa2022,Nafisa2023](https://www.heywhale.com/mw/dataset/62eb75d6fef0903951b1f199) | 2022 | 2D | Dermoscopy | Skin | 40.2k | Yes | Cls | Monkeypox |
+| 12 | [SD-128 / SD-198 / SD-260](https://workshop2021.isic-archive.com) | 2021 | 2D | Dermoscopy | Skin | 6.6k | Yes | Cls | Fetal structure |
+| 13 | [ImageCLEF 2016](https://www.imageclef.org/2016/medical) | 2015 | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | Head |
+| 14 | [Monkeypox Skin Image Dataset](https://www.heywhale.com/mw/dataset/62eb75d6fef0903951b1f199) | 2022 | 2D | Dermoscopy | Skin | 40.2k | Yes | Cls | Monkeypox |
 | 15 | [Vitiligo Images](https://www.heywhale.com/mw/dataset/5ddca5fbca27f8002c4a1614) | 2019 | 2D | Dermoscopy | Skin | 368 | No | NA | Vitiligo |
 | 16 | [ImageCLEF 2016](https://www.imageclef.org/2016/medical) | NA | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | NA |
 
@@ -140,62 +140,62 @@ These datasets form the foundation for training next-generation medical AI model
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | [OCT2017 {kermany2018identifying](https://www.kaggle.com/paultimothymooney/kermany2018/code) | 2018 | 2D | OCT | Retina | 83.5k | Yes | Cls | NA |
-| 2 | [Retinal OCT - C8 {yang2023medmnist](https://www.kaggle.com/obulisainaren/retinal-oct-c8) | 2021 | 2D | OCT | Retina | 24k | Yes | Cls | NA |
-| 3 | [iChallenge - AGE19 {fu2020age](https://age.grand-challenge.org/) | 2019 | 2D | OCT | Retina | 1.6k | Yes | Cls | NA |
-| 4 | [DRAC22 {qian2024drac](https://drac22.grand-challenge.org/) | 2022 | 2D | OCT | Retina | 174 | Yes | Seg | Diabetic Retinopathy Lesions |
-| 5 | [iChallenge - GOALS {fang2022dataset](https://ichallenges.grand-challenge.org/iChallenge-GON3/) | 2022 | 2D | OCT | Retina | 300 | Yes | Seg | NA |
+| 1 | [OCT2017](https://www.kaggle.com/paultimothymooney/kermany2018/code) | 2018 | 2D | OCT | Retina | 83.5k | Yes | Cls | NA |
+| 2 | [Retinal OCT - C8](https://www.kaggle.com/obulisainaren/retinal-oct-c8) | 2021 | 2D | OCT | Retina | 24k | Yes | Cls | NA |
+| 3 | [iChallenge - AGE19](https://age.grand-challenge.org/) | 2019 | 2D | OCT | Retina | 1.6k | Yes | Cls | NA |
+| 4 | [DRAC22](https://drac22.grand-challenge.org/) | 2022 | 2D | OCT | Retina | 174 | Yes | Seg | Diabetic Retinopathy Lesions |
+| 5 | [iChallenge - GOALS](https://ichallenges.grand-challenge.org/iChallenge-GON3/) | 2022 | 2D | OCT | Retina | 300 | Yes | Seg | NA |
 | 6 | [Eye OCT Datasets](https://tianchi.aliyun.com/dataset/dataDetail?dataId=90672) | 2021 | 2D | OCT | Retina | 148 | Yes | Cls | NA |
-| 7 | [APTOS-2021 {zhang2025predicting](https://tianchi.aliyun.com/dataset/dataDetail?dataId=120006) | 2022 | 2D | OCT | Retina | 2.6k | Yes | Pred | Diabetic Retinopathy |
-| 8 | [APTOS Cross-Country Datasets_stage1 {zhang2025predicting](https://tianchi.aliyun.com/dataset/dataDetail?dataId=127971) | 2022 | 2D | OCT | Retina | 2.6k | Yes | Pred | NA |
-| 9 | [MedMNIST {yang2021medmnist](https://medmnist.com/v1) | 2020 | 2D | Multi | Retina, Breast, Lung | 100k | Yes | Cls | NA |
-| 10 | [Canada OCT Retinal Images (Subset) {gholami2020octid](https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP/UIOXXK) | 2018 | 2D | OCT | Retina | 25 | Yes | Seg | Retinal Structures |
-| 11 | [SinaFarsiu-002-Fang_TMI_2013 {fang2012sparsity](https://people.duke.edu/~sf59/software.html) | 2013 | 2D | OCT | Retina | 195 | Yes | Seg | NA |
-| 12 | [SinaFarsiu-003-Fang_BOE_2012 {fang2012sparsity](https://people.duke.edu/~sf59/software.html) | 2012 | 2D | OCT | Retina | 51 | Yes | Seg | NA |
-| 13 | [SinaFarsiu-008-Chiu_BOE_2012 {fang2012sparsity](https://people.duke.edu/~sf59/software.html) | 2012 | 2D | OCT | Retina | 23 | Yes | Seg | NA |
-| 14 | [SinaFarsiu-009-Chiu_BOE_2013 {fang2012sparsity](https://people.duke.edu/~sf59/software.html) | 2013 | 2D | OCT | Retina | 840 | Yes | Seg | NA |
-| 15 | [SinaFarsiu-010-Rabbani_IOVS_2014 {rabbani2015fully](https://people.duke.edu/~sf59/software.html) | 2015 | 2D | OCT | Retina | 24 | Yes | Seg | NA |
-| 16 | [SinaFarsiu-012-Estrada_TMI_2015 {estrada2015retinal](https://people.duke.edu/~sf59/software.html) | 2015 | 2D | OCT | Retina | 60 | Yes | Seg | NA |
-| 17 | [SinaFarsiu-013-Estrada_PAMI_2015 {estrada2014tree](https://people.duke.edu/~sf59/software.html) | 2015 | 2D | OCT | Retina | 90 | Yes | Seg | NA |
-| 18 | [SinaFarsiu-018-Yang_BOE_2021 {yang2021connectivity](https://people.duke.edu/~sf59/software.html) | 2021 | 2D | OCT | Retina | 784 | Yes | Seg | NA |
-| 19 | [APTOS Cross-Country Datasets_stage2 {zhang2025predicting](https://tianchi.aliyun.com/dataset/dataDetail?dataId=127971) | 2022 | 2D | OCT | Retina | 3.3k | Yes | Pred | Diabetic Retinopathy |
+| 7 | [APTOS-2021](https://tianchi.aliyun.com/dataset/dataDetail?dataId=120006) | 2022 | 2D | OCT | Retina | 2.6k | Yes | Pred | Diabetic Retinopathy |
+| 8 | [APTOS Cross-Country Datasets_stage1](https://tianchi.aliyun.com/dataset/dataDetail?dataId=127971) | 2022 | 2D | OCT | Retina | 2.6k | Yes | Pred | NA |
+| 9 | [MedMNIST](https://medmnist.com/v1) | 2020 | 2D | Multi | Retina, Breast, Lung | 100k | Yes | Cls | NA |
+| 10 | [Canada OCT Retinal Images (Subset)](https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP/UIOXXK) | 2018 | 2D | OCT | Retina | 25 | Yes | Seg | Retinal Structures |
+| 11 | [SinaFarsiu-002-Fang_TMI_2013](https://people.duke.edu/~sf59/software.html) | 2013 | 2D | OCT | Retina | 195 | Yes | Seg | NA |
+| 12 | [SinaFarsiu-003-Fang_BOE_2012](https://people.duke.edu/~sf59/software.html) | 2012 | 2D | OCT | Retina | 51 | Yes | Seg | NA |
+| 13 | [SinaFarsiu-008-Chiu_BOE_2012](https://people.duke.edu/~sf59/software.html) | 2012 | 2D | OCT | Retina | 23 | Yes | Seg | NA |
+| 14 | [SinaFarsiu-009-Chiu_BOE_2013](https://people.duke.edu/~sf59/software.html) | 2013 | 2D | OCT | Retina | 840 | Yes | Seg | NA |
+| 15 | [SinaFarsiu-010-Rabbani_IOVS_2014](https://people.duke.edu/~sf59/software.html) | 2015 | 2D | OCT | Retina | 24 | Yes | Seg | NA |
+| 16 | [SinaFarsiu-012-Estrada_TMI_2015](https://people.duke.edu/~sf59/software.html) | 2015 | 2D | OCT | Retina | 60 | Yes | Seg | NA |
+| 17 | [SinaFarsiu-013-Estrada_PAMI_2015](https://people.duke.edu/~sf59/software.html) | 2015 | 2D | OCT | Retina | 90 | Yes | Seg | NA |
+| 18 | [SinaFarsiu-018-Yang_BOE_2021](https://people.duke.edu/~sf59/software.html) | 2021 | 2D | OCT | Retina | 784 | Yes | Seg | NA |
+| 19 | [APTOS Cross-Country Datasets_stage2](https://tianchi.aliyun.com/dataset/dataDetail?dataId=127971) | 2022 | 2D | OCT | Retina | 3.3k | Yes | Pred | Diabetic Retinopathy |
 
 ### 🌡️ Infrared
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | [RAVIR {hatamizadeh2022ravir](https://ravir.grand-challenge.org/) | 2022 | 2D | Infrared | Retina | 42 | Yes | Seg | Blood vessel |
-| 2 | [MRL Eye Glasses cls {mrl_eyedataset](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared | Retina | 84.9k | Yes | Cls | NA |
-| 3 | [MRL Eye Eye state cls {mrl_eyedataset](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared | Retina | 84.9k | Yes | Cls | NA |
-| 4 | [MRL Eye Reflections cls {mrl_eyedataset](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared | Retina | 84.9k | Yes | Cls | NA |
-| 5 | [MRL Eye Image quality cls {mrl_eyedataset](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared | Retina | 84.9k | Yes | Cls | NA |
-| 6 | [MRL Eye Sensor type cls {mrl_eyedataset](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared | Retina | 84.9k | Yes | Cls | NA |
+| 1 | [RAVIR](https://ravir.grand-challenge.org/) | 2022 | 2D | Infrared | Retina | 42 | Yes | Seg | Blood vessel |
+| 2 | [MRL Eye Glasses cls](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared | Retina | 84.9k | Yes | Cls | NA |
+| 3 | [MRL Eye Eye state cls](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared | Retina | 84.9k | Yes | Cls | NA |
+| 4 | [MRL Eye Reflections cls](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared | Retina | 84.9k | Yes | Cls | NA |
+| 5 | [MRL Eye Image quality cls](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared | Retina | 84.9k | Yes | Cls | NA |
+| 6 | [MRL Eye Sensor type cls](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared | Retina | 84.9k | Yes | Cls | NA |
 
 ### 🧩 Others
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | [Intel & MobileODT Cervical Cancer Screening {intel_mobileodt_kaggle_2017](https://www.kaggle.com/competitions/intel-mobileodt-cervical-cancer-screening/overview) | 2017 | 2D | Colposcopy | Vagina | 1,993 | Yes | Cls | Cervical cancer |
-| 2 | [ADDI ALZHEIMER'S DETECTION CHALLENGE {addi_alz_2021](https://www.aicrowd.com/challenges/addi-alzheimers-detection-challenge) | 2021 | 2D | Series Data | NA | 34,614 | Yes | Cls | Lung adenocarcinoma |
-| 3 | [The Digital Mammography DREAM Challenge {schaffter2020dream](https://www.synapse.org/Synapse:syn4224222/wiki/401743) | 2016 | 2D | Mammography | Breast | 640,000 | Yes | Cls | Atrophic AMD |
-| 4 | [BigNeuron {peng2015bigneuron](https://alleninstitute.org/bigneuron/about/) | 2016 | 2D | NA | Brain | 2,166 | Yes | Recon | Diabetic foot ulcer |
-| 5 | [Human Activity Classification with Radar {khan2023radar](https://humanactivitiyclassificationwithradar.grand-challenge.org) | 2019 | 2D | Others | NA | 1,854 | Yes | Cls | NA |
-| 6 | [KvasirCapsule-SEG {kvasircapsule_seg_2021](https://www.kaggle.com/datasets/debeshjha1/kvasircapsuleseg) | 2021 | 2D | Colposcopy (Capsule) | Polyp | 55 | Yes | Seg | Polyp |
-| 7 | [SCDB {scdb_2020](https://opendatalab.org.cn/SCDB) | 2020 | 2D | Others | Skin | 4 | Yes | Cls | Skin lesion |
-| 8 | [ROSE {ma2020rose](https://imed.nimte.ac.cn/dataofrose.html) | NA | 2D | OCTA (CT) | Eye | 229 | Yes | Seg | NA |
-| 9 | [CMMD {cai2023cmmd](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70230508) | 2021 | 2D | Mammography | Breast | 1,775 | Yes | Seg, Cls | Breast Cancer |
-| 10 | [Br35H {br35h_2020](https://www.heywhale.com/mw/dataset/61d3e5682d30dc001701f728) | 2022 | 2D | MR | Brain | 3,000 | Yes | Cls | Brain Tumor |
-| 11 | [CDD-CESM {khaled2022cddcesm](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=109379611) | 2021 | 2D | Mammography | NA | 2,006 | Yes | Seg, Cls | Breast Cancer |
-| 12 | [OralCancer {oral_cancer_lips_tongue_2020](https://www.kaggle.com/datasets/shivam17299/oral-cancer-lips-and-tongue-images) | 2020 | 2D | Digital Photography | Lip, Tongue | 131 | Yes | Cls | Oral Cancer |
-| 13 | [Oral_Diseases {oral_diseases_kaggle_2023](https://www.kaggle.com/datasets/salmansajid05/oral-diseases) | 2023 | 2D | Digital Photography | NA | 12,944 | Yes | Cls, Det | Dental conditions |
-| 14 | [MRL Eye Gender {fusek2018pupil](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared Reflectance Imaging | Retina | 84,898 | Yes | Cls | NA |
-| 15 | [MITOS-ATYPIA-14 {mitos_atypia_2014](https://mitos-atypia-14.grand-challenge.org/) | 2013 | 2D | Biopsy slides | Breast | 1,420 | Yes | Cls | Breast Cancer |
-| 16 | [VinDr-Mammo {nguyen2023vindrmammo](https://www.physionet.org/content/vindr-mammo/1.0.0/) | NA | 2D | Mammography | Breast | 19,992 | Yes | Det | Breast Cancer |
-| 17 | [VinDr-SpineXR {nguyen2021vindrspinexr](https://vindr.ai/datasets/spinexr==) | NA | 2D | X-ray | Spine | 10,469 | Yes | NA | Spinal Lesions |
-| 18 | [VinDr-PCXR {pham2022vindrpcxr](https://physionet.org/content/vindr-pcxr/1.0.0/) | NA | 2D | X-ray | Chest | 9,125 | Yes | NA | NA |
-| 19 | [VinDr-CXR {nguyen2022vindrcxr](https://physionet.org/content/vindr-cxr/1.0.0/) | NA | 2D | X-ray | Chest | 18,000 | Yes | NA | NA |
+| 1 | [Intel & MobileODT Cervical Cancer Screening](https://www.kaggle.com/competitions/intel-mobileodt-cervical-cancer-screening/overview) | 2017 | 2D | Colposcopy | Vagina | 1,993 | Yes | Cls | Cervical cancer |
+| 2 | [ADDI ALZHEIMER'S DETECTION CHALLENGE](https://www.aicrowd.com/challenges/addi-alzheimers-detection-challenge) | 2021 | 2D | Series Data | NA | 34,614 | Yes | Cls | Lung adenocarcinoma |
+| 3 | [The Digital Mammography DREAM Challenge](https://www.synapse.org/Synapse:syn4224222/wiki/401743) | 2016 | 2D | Mammography | Breast | 640,000 | Yes | Cls | Atrophic AMD |
+| 4 | [BigNeuron](https://alleninstitute.org/bigneuron/about/) | 2016 | 2D | NA | Brain | 2,166 | Yes | Recon | Diabetic foot ulcer |
+| 5 | [Human Activity Classification with Radar](https://humanactivitiyclassificationwithradar.grand-challenge.org) | 2019 | 2D | Others | NA | 1,854 | Yes | Cls | NA |
+| 6 | [KvasirCapsule-SEG](https://www.kaggle.com/datasets/debeshjha1/kvasircapsuleseg) | 2021 | 2D | Colposcopy (Capsule) | Polyp | 55 | Yes | Seg | Polyp |
+| 7 | [SCDB](https://opendatalab.org.cn/SCDB) | 2020 | 2D | Others | Skin | 4 | Yes | Cls | Skin lesion |
+| 8 | [ROSE](https://imed.nimte.ac.cn/dataofrose.html) | NA | 2D | OCTA (CT) | Eye | 229 | Yes | Seg | NA |
+| 9 | [CMMD](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70230508) | 2021 | 2D | Mammography | Breast | 1,775 | Yes | Seg, Cls | Breast Cancer |
+| 10 | [Br35H](https://www.heywhale.com/mw/dataset/61d3e5682d30dc001701f728) | 2022 | 2D | MR | Brain | 3,000 | Yes | Cls | Brain Tumor |
+| 11 | [CDD-CESM](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=109379611) | 2021 | 2D | Mammography | NA | 2,006 | Yes | Seg, Cls | Breast Cancer |
+| 12 | [OralCancer](https://www.kaggle.com/datasets/shivam17299/oral-cancer-lips-and-tongue-images) | 2020 | 2D | Digital Photography | Lip, Tongue | 131 | Yes | Cls | Oral Cancer |
+| 13 | [Oral_Diseases](https://www.kaggle.com/datasets/salmansajid05/oral-diseases) | 2023 | 2D | Digital Photography | NA | 12,944 | Yes | Cls, Det | Dental conditions |
+| 14 | [MRL Eye Gender](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared Reflectance Imaging | Retina | 84,898 | Yes | Cls | NA |
+| 15 | [MITOS-ATYPIA-14](https://mitos-atypia-14.grand-challenge.org/) | 2013 | 2D | Biopsy slides | Breast | 1,420 | Yes | Cls | Breast Cancer |
+| 16 | [VinDr-Mammo](https://www.physionet.org/content/vindr-mammo/1.0.0/) | NA | 2D | Mammography | Breast | 19,992 | Yes | Det | Breast Cancer |
+| 17 | [VinDr-SpineXR](https://vindr.ai/datasets/spinexr==) | NA | 2D | X-ray | Spine | 10,469 | Yes | NA | Spinal Lesions |
+| 18 | [VinDr-PCXR](https://physionet.org/content/vindr-pcxr/1.0.0/) | NA | 2D | X-ray | Chest | 9,125 | Yes | NA | NA |
+| 19 | [VinDr-CXR](https://physionet.org/content/vindr-cxr/1.0.0/) | NA | 2D | X-ray | Chest | 18,000 | Yes | NA | NA |
 | 20 | [HAM10000](https://www.isic-archive.com/) | NA | 2D | Dermoscopy | Skin | 10,015 | Yes | Cls | Skin Cancer |
 | 21 | [RFMiD](https://riadd.grand-challenge.org/download-all-classes/) | NA | 2D | Fundus | Retina | 3,200 | Yes | Cls | Ophthalmic Diseases |
 | 22 | [Chaksu](https://doi.org/10.6084/m9.figshare.20123135) | NA | 2D | Fundus | Retina | 1,345 | Yes | Seg | Glaucoma |
@@ -211,21 +211,21 @@ These datasets form the foundation for training next-generation medical AI model
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | [LoDoPaB-CT {leuschner2021lodopab-ct](https://lodopab.grand-challenge.org/) | 2020 | 2D | CT | Lung | 28 | Yes | Recon | NA |
-| 2 | [5K+ CT Images on Fractured Limbs {ruikar20215k+](https://github.com/kc-santosh/medical-imaging-datasets) | 2021 | 2D | CT | Limbs | 24 | Yes | Seg | Bone Fracture |
-| 3 | [AREN0534 {ehrlich2021aren0534](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=91357265) | 2021 | 3D, 2D | Multi | Kidney, Lung | 239 | No | Est | Kidney Tumor |
-| 4 | [CT Medical Images {kohli2018creation](https://www.kaggle.com/kmader/siim-medical-images) | 2017 | 2D | CT | Lung | 475 | Yes | Seg | NA |
-| 5 | [National Lung Screening Trial {nationallungscreeningtrialresearchteam2013data](https://wiki.cancerimagingarchive.net/display/NLST/National+Lung+Screening+Trial) | 2013 | 3D, 2D | CT, Pathology | Lung | 26.7k | No | Cls | Lung Cancer |
-| 6 | [RSNA Intracranial Hemorrhage Detection {flanders2020construction](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/data) | 2019 | 2D | CT | Brain | 874k | Yes | Loc | Intracranial Hemorrhage |
-| 7 | [CT diagnosis of COVID-19 {yang2020covid-ct-dataset](https://covid-ct.grand-challenge.org/) | 2021 | 2D | CT | Lung | 275 | Yes | Cls | Lung COVID-19 |
-| 8 | [COVID-19-CT SCAN IMAGES {wjxiaochuangw2021covid-19-ct](https://tianchi.aliyun.com/dataset/dataDetail?dataId=93666) | 2021 | 2D | CT | Lung | 1.4k | Yes | Cls | Lung COVID-19 |
-| 9 | [COVID_CT_COVID-CT {yang2020covid-ct-dataset](https://tianchi.aliyun.com/dataset/dataDetail?dataId=106604) | 2021 | 2D | CT | Lung | 746 | Yes | Cls | Lung COVID-19 |
-| 10 | [Chest CT-Scan images Dataset {sunneyi2025chest](https://tianchi.aliyun.com/dataset/93929) | 2021 | 2D | CT | Lung | 1k | Yes | Cls | Lung Cancer |
-| 11 | [Cranium Image Dataset {hssayeni2020intracranial](https://tianchi.aliyun.com/dataset/dataDetail?dataId=82967) | 2020 | 2D | CT | Brain | 50 | Yes | Det | Intracranial Hemorrhage |
-| 12 | [SARS-COV-2 Ct-Scan Dataset {soares2020sars](https://tianchi.aliyun.com/dataset/dataDetail?dataId=93874) | 2021 | 2D | CT | Lung | 2.5k | Yes | Cls | Lung Disease |
-| 13 | [MedMNIST {yang2021medmnist](https://medmnist.com/v1) | 2020 | 2D | Multi | Retina, Breast, Lung | 100k | Yes | Cls | Multi-disease |
-| 14 | [The Visible Human Project {nlm1994visible](https://www.nlm.nih.gov/research/visible/visible_human.html) | 1994 | 3D, 2D | CT, MR, | Full Body | 2 | No | NA | Skin Lesion |
-| 15 | [ImageCLEF 2016 {deherrera2016imageclef](https://www.imageclef.org/2016/medical) | 2015 | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | Head |
+| 1 | [LoDoPaB-CT](https://lodopab.grand-challenge.org/) | 2020 | 2D | CT | Lung | 28 | Yes | Recon | NA |
+| 2 | [5K+ CT Images on Fractured Limbs](https://github.com/kc-santosh/medical-imaging-datasets) | 2021 | 2D | CT | Limbs | 24 | Yes | Seg | Bone Fracture |
+| 3 | [AREN0534](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=91357265) | 2021 | 3D, 2D | Multi | Kidney, Lung | 239 | No | Est | Kidney Tumor |
+| 4 | [CT Medical Images](https://www.kaggle.com/kmader/siim-medical-images) | 2017 | 2D | CT | Lung | 475 | Yes | Seg | NA |
+| 5 | [National Lung Screening Trial](https://wiki.cancerimagingarchive.net/display/NLST/National+Lung+Screening+Trial) | 2013 | 3D, 2D | CT, Pathology | Lung | 26.7k | No | Cls | Lung Cancer |
+| 6 | [RSNA Intracranial Hemorrhage Detection](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/data) | 2019 | 2D | CT | Brain | 874k | Yes | Loc | Intracranial Hemorrhage |
+| 7 | [CT diagnosis of COVID-19](https://covid-ct.grand-challenge.org/) | 2021 | 2D | CT | Lung | 275 | Yes | Cls | Lung COVID-19 |
+| 8 | [COVID-19-CT SCAN IMAGES](https://tianchi.aliyun.com/dataset/dataDetail?dataId=93666) | 2021 | 2D | CT | Lung | 1.4k | Yes | Cls | Lung COVID-19 |
+| 9 | [COVID_CT_COVID-CT](https://tianchi.aliyun.com/dataset/dataDetail?dataId=106604) | 2021 | 2D | CT | Lung | 746 | Yes | Cls | Lung COVID-19 |
+| 10 | [Chest CT-Scan images Dataset](https://tianchi.aliyun.com/dataset/93929) | 2021 | 2D | CT | Lung | 1k | Yes | Cls | Lung Cancer |
+| 11 | [Cranium Image Dataset](https://tianchi.aliyun.com/dataset/dataDetail?dataId=82967) | 2020 | 2D | CT | Brain | 50 | Yes | Det | Intracranial Hemorrhage |
+| 12 | [SARS-COV-2 Ct-Scan Dataset](https://tianchi.aliyun.com/dataset/dataDetail?dataId=93874) | 2021 | 2D | CT | Lung | 2.5k | Yes | Cls | Lung Disease |
+| 13 | [MedMNIST](https://medmnist.com/v1) | 2020 | 2D | Multi | Retina, Breast, Lung | 100k | Yes | Cls | Multi-disease |
+| 14 | [The Visible Human Project](https://www.nlm.nih.gov/research/visible/visible_human.html) | 1994 | 3D, 2D | CT, MR, | Full Body | 2 | No | NA | Skin Lesion |
+| 15 | [ImageCLEF 2016](https://www.imageclef.org/2016/medical) | 2015 | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | Head |
 | 16 | [RadImageNet (Subset: CT) {mei2022radimagenet](https://www.radimagenet.com/) | 2022 | 2D | CT | Full Body | 292.4k | Yes | Cls | Abdomen, lung, |
 | 17 | [Brain CT Images with ICH Masks {hssayeni2020intracranial](https://www.kaggle.com/datasets/vbookshelf/computed-tomography-ct-images) | 2019 | 2D | CT | Brain | 82 | Yes | Seg | Intracranial Hemorrhage |
 | 18 | [CMB-CRC {cmbcrc2022](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93257955) | 2022 | 3D, 2D | Multi | Colon | 472 | No | Seg, Cls | Colorectal Cancer |
@@ -650,8 +650,8 @@ These datasets form the foundation for training next-generation medical AI model
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | [AREN0534 {ehrlich2021aren0534](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=91357265) | 2021 | 3D, 2D | Multi | Kidney, Lung | 239 | No | Est | Kidney |
-| 2 | [ImageCLEF 2016 {deherrera2016imageclef](https://www.imageclef.org/2016/medical) | 2015 | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | H |
+| 1 | [AREN0534](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=91357265) | 2021 | 3D, 2D | Multi | Kidney, Lung | 239 | No | Est | Kidney |
+| 2 | [ImageCLEF 2016](https://www.imageclef.org/2016/medical) | 2015 | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | H |
 | 3 | [CMB-CRC {cmbcrc2022](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93257955) | 2022 | 3D, 2D | Multi | Colon | 472 | No | Seg, Cls | Colorectal Cancer (H |
 | 4 | [CMB-GEC {cmbgec2022](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=127665431) | 2022 | 3D, 2D | CT, WSI, PET | Brain | 14 | No | Seg, Cls | Melanoma (Cerebral microbleeds) |
 | 5 | [CMB-MEL {cmbmel2022](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93258432) | 2022 | 3D, 2D | Multi | Brain | 255 | No | Seg | Melanoma (Cerebral microbleeds) |
