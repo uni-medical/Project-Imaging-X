@@ -42,7 +42,7 @@ These datasets form the foundation for training next-generation medical AI model
 
 ## 🔍 Taxonomy and Retrieval System
 
-![Taxonomy](assets/Taxonomy.pdf)
+![Taxonomy](assets/Taxonomy.png)
 
 Our systematic categorization enables efficient dataset discovery based on:
 - **Medical Domain**: Radiology, Pathology, Ophthalmology, etc.
