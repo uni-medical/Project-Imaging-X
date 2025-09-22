@@ -1,4 +1,4 @@
-# Awesome Medical Datasets
+# Project Imaging-X
 
 A comprehensive survey of 1,000+ open-access medical image datasets with systematic analysis of their modalities, tasks, anatomies, and potential for integration into foundation models.
 
