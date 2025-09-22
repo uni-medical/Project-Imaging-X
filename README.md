@@ -392,13 +392,13 @@ These datasets form the foundation for training next-generation medical AI model
 | 47 | [Retinal Img Quality Assess](https://www.heywhale.com/mw/dataset/5e95d871e7ec38002d034efe) | 2020 | 2D | Fundus | Retina | 216 | Yes | Cls | NA |
 | 48 | [iChallenge-GAMMA_3D-OCT](https://gamma.grand-challenge.org/) | 2021 | 2D | Fundus | Retina | 300 | Yes | Seg | Glaucoma |
 | 49 | [DeepDR-Task2](https://isbi.deepdr.org/) | 2020 | 2D | Fundus | NA | 2k | Yes | Reg | NA |
-| 50 | [DeepDR-Task3 {liu2022deepdrid](https://isbi.deepdr.org/) | 2020 | 2D | Fundus | NA | 246 | Yes | Cls | NA |
-| 51 | [MMAC2023 {li2023automated](https://codalab.lisn.upsaclay.fr/competitions/12441) | 2023 | 2D | Fundus | NA | 0 | Yes | Cls | NA |
-| 52 | [RFMiD 2.0 {pachade2021retinal](https://zenodo.org/record/7505822) | 2023 | 2D | Fundus Photo | NA | 860 | Yes | Cls | Retinal Fundus Multi-Disease |
+| 50 | [DeepDR-Task3](https://isbi.deepdr.org/) | 2020 | 2D | Fundus | NA | 246 | Yes | Cls | NA |
+| 51 | [MMAC2023](https://codalab.lisn.upsaclay.fr/competitions/12441) | 2023 | 2D | Fundus | NA | 0 | Yes | Cls | NA |
+| 52 | [RFMiD 2.0](https://zenodo.org/record/7505822) | 2023 | 2D | Fundus Photo | NA | 860 | Yes | Cls | Retinal Fundus Multi-Disease |
 | 53 | [MuReD](https://data.mendeley.com/datasets/pc4mb3h8hz/1) | 2022 | 2D | Fundus Photo | NA | 2.2k | Yes | Cls | Retinal Diseases |
 | 54 | [Retinal Vessel Tortuosity](http://bioimlab.dei.unipd.it/Retinal Vessel Tortuosity.htm) | 2008 | 2D | Fundus Photo | Retina | 60 | Yes | Reg | NA |
 | 55 | ImageCLEF 2016 | NA | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | NA |
-| 56 | [PARAGUAY {benitez2021dataset](https://zenodo.org/record/3872227) | NA | 2D | Fundus Photo | NA | 0 | Yes | Cls | Diabetic Retinopathy |
+| 56 | [PARAGUAY](https://zenodo.org/record/3872227) | NA | 2D | Fundus Photo | NA | 0 | Yes | Cls | Diabetic Retinopathy |
 | 57 | [BEH](https://github.com/mirtanvirislam/Deep-Learning-Based-Glaucoma-Detection-with-Cropped-Optic-Cup-and-Disc-and-Blood-Vessel-Segmentation) | NA | 2D | Fundus Photo | NA | 0 | Yes | NA | Glaucoma |
 | 58 | [BiDR](https://www.kaggle.com/datasets/pkdarabi/diagnosis-of-diabetic-retinopathy) | NA | 2D | Fundus Photo | NA | 0 | Yes | NA | Diabetic Retinopathy |
 | 59 | [HarvardGlaucoma](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/2EVN4B) | NA | 2D | Fundus Photo | NA | 0 | Yes | NA | Glaucoma |
@@ -406,14 +406,14 @@ These datasets form the foundation for training next-generation medical AI model
 | 61 | [LAG](https://github.com/smilell/AG-CNN) | NA | 2D | Fundus Photo | NA | 0 | Yes | NA | Glaucoma |
 | 62 | [DHRF](https://www.kaggle.com/datasets/nikkich9/derbi-hackathon-retinal-fundus-image-dataset) | NA | 2D | Fundus Photo | Retina | 6.2k | Yes | Cls | Diabetic Retinopathy |
 | 63 | E-ophta | NA | 2D | Fundus Photo | Retina | 926 | Yes | Seg | NA |
-| 64 | [FIVES {jin2022fives](https://figshare.com/articles/dataset/FIVES_A_Fundus_Image_Dataset_for_AI-based_Vessel_Segmentation/21727913) | NA | 2D | Fundus Photo | Retina | 800 | Yes | Seg | Vessel |
+| 64 | [FIVES](https://figshare.com/articles/dataset/FIVES_A_Fundus_Image_Dataset_for_AI-based_Vessel_Segmentation/21727913) | NA | 2D | Fundus Photo | Retina | 800 | Yes | Seg | Vessel |
 | 65 | [OcularD](https://www.nature.com/articles/s41598-024-84922-y) | NA | 2D | Fundus Photo | Retina | 6.4k | Yes | Cls | NA |
 | 66 | [PAPILA](https://doi.org/10.6084/m9.figshare.14798004.v1) | NA | 2D | Fundus Photo | Retina | 488 | Yes | Seg | NA |
 | 67 | [Papilledema](https://www.kaggle.com/datasets/shashwatwork/identification-of-pseudopapilledema) | 2018 | 2D | Fundus Photo | Retina | 1.4k | Yes | Cls | Papilledema |
 | 68 | [ROD](https://www.kaggle.com/datasets/gracemariabinu/retinal-occlusion-dataset/data) | 2023 | 2D | Fundus Photo | Retina | 281 | Yes | Cls | Retinal Occlusion |
-| 69 | [ToxoFundus {CARDOZO2023109056](https://www.kaggle.com/datasets/andrewmvd/ocular-toxoplasmosis-fundus-images-dataset) | 2023 | 2D | Fundus Photo | Retina | 411 | Yes | Cls | Ocular Toxoplasmosis |
-| 70 | [GAMMA (Task3, CFP) {wu2023gamma](https://gamma.grand-challenge.org/) | 2021 | 2D | Fundus (CFP) | Retina | 200 | Yes | Seg | Optic Disc and Cup |
-| 71 | [iChallenge-GAMMA_2D-Fundus {wu2023gamma](https://gamma.grand-challenge.org/) | 2021 | 2D | Fundus | Retina | 300 | Yes | Seg | Glaucoma |
+| 69 | [ToxoFundus](https://www.kaggle.com/datasets/andrewmvd/ocular-toxoplasmosis-fundus-images-dataset) | 2023 | 2D | Fundus Photo | Retina | 411 | Yes | Cls | Ocular Toxoplasmosis |
+| 70 | [GAMMA (Task3, CFP)](https://gamma.grand-challenge.org/) | 2021 | 2D | Fundus (CFP) | Retina | 200 | Yes | Seg | Optic Disc and Cup |
+| 71 | [iChallenge-GAMMA_2D-Fundus](https://gamma.grand-challenge.org/) | 2021 | 2D | Fundus | Retina | 300 | Yes | Seg | Glaucoma |
 
 ### 🧫 Histopathology
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
@@ -421,33 +421,33 @@ These datasets form the foundation for training next-generation medical AI model
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | [PANDA_radboud](https://www.kaggle.com/c/prostate-cancer-grade-assessment/data?select=train.csv) | 2020 | 2D | Histopathology (Patch) | Prostate | 5.1k | Yes | Seg | Prostate Cancer |
-| 2 | [Gleason {nir2018automatic](https://gleason2019.grand-challenge.org/Home/) | 2019 | 2D | Histopathology (Patch) | Prostate | 331 | Yes | Seg | Prostate Cancer |
-| 3 | [PathologyVQA {he2020pathvqa](https://pathvqachallenge.grand-challenge.org) | 2020 | 2D | Histopathology (Patch) | Full Body | 5.0k | Yes | VQA | NA |
-| 4 | [SLN-Breast {campanella2019breast](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52763339) | 2019 | 2D | Histopathology (WSI) | Lymph | 166 | Yes | Cls | Breast Lymph Node |
-| 5 | [MoNuSeg {kumar2019multi](https://monuseg.grand-challenge.org/Home/) | 2018 | 2D | Histopathology (Patch) | Nuclei | 51 | Yes | Seg | NA |
-| 6 | [MoNuSAC2020 {verma2021monusac2020](https://monusac-2020.grand-challenge.org/) | 2019 | 2D | Histopathology (Patch) | Lung, Prostate, | 914 | Yes | Seg | NA |
-| 7 | [DigestPath19 {da2022digestpath](https://digestpath2019.grand-challenge.org/Home/) | 2019 | 2D | Histopathology (WSI) | Colon | 212 | Yes | Det | Signet Ring Cell |
-| 8 | [CAMELYON17 {litjens20181399](https://camelyon17.grand-challenge.org/Data/) | 2016 | 2D | Histopathology (WSI) | Breast | 500 | Yes | Cls | Breast Cancer |
-| 9 | [ANHIR {borovec2020anhir](https://anhir.grand-challenge.org/) | 2018 | 2D | Histopathology (WSI) | Kidney, Breast, | 481 | Yes | Reg | NA |
-| 10 | [Overlapping Cervical Cells {lu2016evaluation](https://cs.adelaide.edu.au/~carneiro/isbi14_challenge/) | 2015 | 2D | Histopathology (Patch) | Cervix | 17 | Yes | Seg | Cervical Cells |
-| 11 | [MIDOG2022 {aubreville2023mitosis](https://imig.science/midog/) | 2022 | 2D | Histopathology (Patch) | Lung, Breast, Skin | 405 | Yes | Det | Mitotic Figure |
-| 12 | [ACROBAT {bulten2019epithelium](https://acrobat.grand-challenge.org/) | 2023 | 2D | Histopathology (WSI) | Breast | 750 | Yes | Reg | NA |
-| 13 | [BRIGHT {allison2014understanding](https://research.ibm.com/haifa/Workshops/BRIGHT/) | 2021 | 2D | Histopathology (Patch) | Breast | 5.1k | Yes | Cls | Pathological Benign |
-| 14 | [CoNIC2022 {graham2021conic](https://conic-challenge.grand-challenge.org/) | 2022 | 2D | Histopathology (Patch) | Colon | 5.0k | Yes | Seg | Colon Nuclei |
-| 15 | [PanNuke {gamper2019pannuke](https://warwick.ac.uk/fac/sci/dcs/research/tia/data/pannuke) | 2021 | 2D | Histopathology (WSI) | Multi-organ | 481 | Yes | Seg, Cls | Multiple Cancers |
-| 16 | [Malignant Lymphoma Cls {orlov2010automatic](https://tianchi.aliyun.com/dataset/dataDetail?dataId=94414) | 2021 | 2D | Histopathology (Patch) | Lymph | 374 | Yes | Cls | Lymphoma |
-| 17 | [PAIP2021 {paip2021_challenge](https://paip2021.grand-challenge.org/) | 2021 | 2D | Histopathology (WSI) | Colon, Prostate | 150 | Yes | Det | Colon/Prostate Cancer |
-| 18 | [Breast Cancer Cell Seg {gelasca2008evaluation](https://tianchi.aliyun.com/dataset/dataDetail?dataId=90152) | 2021 | 2D | Histopathology (Patch) | Breast | 58 | Yes | Seg | Breast Cancer |
-| 19 | [MedMNIST {medmnistv1](https://medmnist.com/v1) | 2020 | 2D | Multi | Retina, Breast, Lung | 100k | Yes | Cls | Multi-disease |
-| 20 | [Histopathologic Cancer Det {histopathologic_cancer_detection_kaggle](https://www.kaggle.com/competitions/histopathologic-cancer-detection) | 2018 | 2D | Histopathology (Patch) | Lymph | 220k | Yes | Cls | Breast Cancer |
-| 21 | [HuBMAP {hubmap-kidney-segmentation](https://www.kaggle.com/competitions/hubmap-kidney-segmentation/overview) | 2020 | 2D | Histopathology (Patch) | Kidney | 15 | Yes | Seg | Kidney Tissue |
-| 22 | [ACDC-LungHP {li2020deep](https://acdc-lunghp.grand-challenge.org/) | 2019 | 2D | Histopathology (WSI) | Lung | 200 | Yes | Seg | Lung Cancer |
-| 23 | [SegPC 2021 {gupta10segpc](https://segpc-2021.grand-challenge.org/SegPC-2021/) | 2021 | 2D | Histopathology (Patch) | Blood | 498 | Yes | Seg | Plasma Cells |
-| 24 | [MIDOG2021 {aubreville2023mitosis](https://imi.thi.de/midog/) | 2021 | 2D | Histopathology (Patch) | Full Body | 200 | Yes | Det | Prostate Cancer |
+| 2 | [Gleason](https://gleason2019.grand-challenge.org/Home/) | 2019 | 2D | Histopathology (Patch) | Prostate | 331 | Yes | Seg | Prostate Cancer |
+| 3 | [PathologyVQA](https://pathvqachallenge.grand-challenge.org) | 2020 | 2D | Histopathology (Patch) | Full Body | 5.0k | Yes | VQA | NA |
+| 4 | [SLN-Breast](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52763339) | 2019 | 2D | Histopathology (WSI) | Lymph | 166 | Yes | Cls | Breast Lymph Node |
+| 5 | [MoNuSeg](https://monuseg.grand-challenge.org/Home/) | 2018 | 2D | Histopathology (Patch) | Nuclei | 51 | Yes | Seg | NA |
+| 6 | [MoNuSAC2020](https://monusac-2020.grand-challenge.org/) | 2019 | 2D | Histopathology (Patch) | Lung, Prostate, | 914 | Yes | Seg | NA |
+| 7 | [DigestPath19](https://digestpath2019.grand-challenge.org/Home/) | 2019 | 2D | Histopathology (WSI) | Colon | 212 | Yes | Det | Signet Ring Cell |
+| 8 | [CAMELYON17](https://camelyon17.grand-challenge.org/Data/) | 2016 | 2D | Histopathology (WSI) | Breast | 500 | Yes | Cls | Breast Cancer |
+| 9 | [ANHIR](https://anhir.grand-challenge.org/) | 2018 | 2D | Histopathology (WSI) | Kidney, Breast, | 481 | Yes | Reg | NA |
+| 10 | [Overlapping Cervical Cells](https://cs.adelaide.edu.au/~carneiro/isbi14_challenge/) | 2015 | 2D | Histopathology (Patch) | Cervix | 17 | Yes | Seg | Cervical Cells |
+| 11 | [MIDOG2022](https://imig.science/midog/) | 2022 | 2D | Histopathology (Patch) | Lung, Breast, Skin | 405 | Yes | Det | Mitotic Figure |
+| 12 | [ACROBAT](https://acrobat.grand-challenge.org/) | 2023 | 2D | Histopathology (WSI) | Breast | 750 | Yes | Reg | NA |
+| 13 | [BRIGHT](https://research.ibm.com/haifa/Workshops/BRIGHT/) | 2021 | 2D | Histopathology (Patch) | Breast | 5.1k | Yes | Cls | Pathological Benign |
+| 14 | [CoNIC2022](https://conic-challenge.grand-challenge.org/) | 2022 | 2D | Histopathology (Patch) | Colon | 5.0k | Yes | Seg | Colon Nuclei |
+| 15 | [PanNuke](https://warwick.ac.uk/fac/sci/dcs/research/tia/data/pannuke) | 2021 | 2D | Histopathology (WSI) | Multi-organ | 481 | Yes | Seg, Cls | Multiple Cancers |
+| 16 | [Malignant Lymphoma Cls](https://tianchi.aliyun.com/dataset/dataDetail?dataId=94414) | 2021 | 2D | Histopathology (Patch) | Lymph | 374 | Yes | Cls | Lymphoma |
+| 17 | [PAIP2021](https://paip2021.grand-challenge.org/) | 2021 | 2D | Histopathology (WSI) | Colon, Prostate | 150 | Yes | Det | Colon/Prostate Cancer |
+| 18 | [Breast Cancer Cell Seg](https://tianchi.aliyun.com/dataset/dataDetail?dataId=90152) | 2021 | 2D | Histopathology (Patch) | Breast | 58 | Yes | Seg | Breast Cancer |
+| 19 | [MedMNIST](https://medmnist.com/v1) | 2020 | 2D | Multi | Retina, Breast, Lung | 100k | Yes | Cls | Multi-disease |
+| 20 | [Histopathologic Cancer Det](https://www.kaggle.com/competitions/histopathologic-cancer-detection) | 2018 | 2D | Histopathology (Patch) | Lymph | 220k | Yes | Cls | Breast Cancer |
+| 21 | [HuBMAP](https://www.kaggle.com/competitions/hubmap-kidney-segmentation/overview) | 2020 | 2D | Histopathology (Patch) | Kidney | 15 | Yes | Seg | Kidney Tissue |
+| 22 | [ACDC-LungHP](https://acdc-lunghp.grand-challenge.org/) | 2019 | 2D | Histopathology (WSI) | Lung | 200 | Yes | Seg | Lung Cancer |
+| 23 | [SegPC 2021](https://segpc-2021.grand-challenge.org/SegPC-2021/) | 2021 | 2D | Histopathology (Patch) | Blood | 498 | Yes | Seg | Plasma Cells |
+| 24 | [MIDOG2021](https://imi.thi.de/midog/) | 2021 | 2D | Histopathology (Patch) | Full Body | 200 | Yes | Det | Prostate Cancer |
 | 25 | [Dermofit Image Library](https://workshop2021.isic-archive.com/) | 2021 | 2D | Histopathology (Patch) | Skin | 1.3k | Yes | Cls | Lung Adenocarcinoma |
-| 26 | [Weakly Supervised Cell Seg {ma2024multimodality](https://neurips22-cellseg.grand-challenge.org/) | 2022 | 2D | Histopathology (Patch) | Full Body | 30 | Yes | Seg | Prostate Cancer |
-| 27 | [TIGER-wsibulk {vanrijthoven2022tiger_roi](https://tiger.grand-challenge.org/Home/) | 2022 | 2D | Histopathology (WSI) | Breast | 93 | Yes | Seg | Pneumothorax |
-| 28 | [BCI {liu2022bci](https://bci.grand-challenge.org/) | 2022 | 2D | Histopathology (Patch) | Breast | 4.9k | Yes | Gen | Lesion |
+| 26 | [Weakly Supervised Cell Seg](https://neurips22-cellseg.grand-challenge.org/) | 2022 | 2D | Histopathology (Patch) | Full Body | 30 | Yes | Seg | Prostate Cancer |
+| 27 | [TIGER-wsibulk](https://tiger.grand-challenge.org/Home/) | 2022 | 2D | Histopathology (WSI) | Breast | 93 | Yes | Seg | Pneumothorax |
+| 28 | [BCI](https://bci.grand-challenge.org/) | 2022 | 2D | Histopathology (Patch) | Breast | 4.9k | Yes | Gen | Lesion |
 | 29 | [WSSS4LUAD](https://wsss4luad.grand-challenge.org) | 2021 | 2D | Histopathology (Patch) | Lung | 10.2k | Yes | Seg | Coronary Artery |
 | 30 | [Breast Cancer Seg](https://bcsegmentation.grand-challenge.org) | 2019 | 2D | Histopathology (Patch) | Breast | 151 | Yes | Seg | Neurons |
 | 31 | [NuCLS](https://nucls.grand-challenge.org/NuCLS/) | 2021 | 2D | Histopathology (Patch) | Nuclei | 3.1k | Yes | Seg | Kidney |
@@ -477,22 +477,22 @@ These datasets form the foundation for training next-generation medical AI model
 | 55 | [CMB-PCA](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=95224082) | 2022 | 2D, 3D | CT, MR, Histopathology (WSI) | Prostate | 31 | No | Cls, Pred | Prostate Cancer |
 | 56 | [AGGC22](https://aggc22.grand-challenge.org/) | 2022 | 2D | Histopathology (Patch) | Gland | 150 | Yes | Seg | Gland Segmentation |
 | 57 | [TUPAC](https://tupac.grand-challenge.org/TUPAC/) | 2015 | 2D | Histopathology (Patch) | Brain | 573 | Yes | Reg | Breast Cancer |
-| 58 | [Prostate Fused-MRI-Pathology {madabhushi2016fused](https://www.cancerimagingarchive.net/collection/prostate-fused-mri-pathology/) | 2016 | 2D, 3D | MR, Histopathology (WSI) | Prostate | 29 | No | NA | Prostate Cancer |
-| 59 | [Malaria Cell Image Dataset {yang2019deep](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html\#malaria-datasets) | 2021 | 2D | Histopathology (Patch) | Cell | 27.6k | Yes | Cls | Malaria |
-| 60 | [HEp-2 Cell Classification {larsen2014hep](https://www.heywhale.com/mw/dataset/5ec3c6883241a100378d5d4a) | 2020 | 2D | Histopathology (Patch) | Cell | 13.6k | Yes | Cls | HEp-2 Cells |
+| 58 | [Prostate Fused-MRI-Pathology](https://www.cancerimagingarchive.net/collection/prostate-fused-mri-pathology/) | 2016 | 2D, 3D | MR, Histopathology (WSI) | Prostate | 29 | No | NA | Prostate Cancer |
+| 59 | [Malaria Cell Image Dataset](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html\#malaria-datasets) | 2021 | 2D | Histopathology (Patch) | Cell | 27.6k | Yes | Cls | Malaria |
+| 60 | [HEp-2 Cell Classification](https://www.heywhale.com/mw/dataset/5ec3c6883241a100378d5d4a) | 2020 | 2D | Histopathology (Patch) | Cell | 13.6k | Yes | Cls | HEp-2 Cells |
 | 61 | [Breast Cancer Cell Seg Dataset](https://www.heywhale.com/mw/dataset/5e9c625bebb37f002c61526a) | 2020 | 2D | Histopathology (Patch) | Breast, Cell | 58 | Yes | Seg | Breast Cancer |
 | 62 | [TIGER-wsirois](https://tiger.grand-challenge.org/Home/) | 2022 | 2D | Histopathology (Patch) | Breast | 2.0k | Yes | Seg | Breast Cancer |
 | 63 | [TIGER-wsitils](https://tiger.grand-challenge.org/Home/) | 2022 | 2D | Histopathology (Patch) | Breast | 82 | Yes | Reg | Breast Cancer |
 | 64 | [Breast Cancer Cell Seg 2](https://www.heywhale.com/mw/dataset/5e9e9b35ebb37f002c625423) | 2020 | 2D | Histopathology (Patch) | Breast | 58 | Yes | Seg | Breast cancer |
 | 65 | [Malignant Lymphoma Cls Dataset](https://www.heywhale.com/mw/dataset/5e9d607febb37f002c61ad3a) | 2020 | 2D | Histopathology (Patch) | Lymph | 374 | Yes | Cls | Lymphoma |
 | 66 | [Lung and Colon Histopathology](https://www.heywhale.com/mw/dataset/5e956c33e7ec38002d03132c) | 2020 | 2D | Histopathology (Patch) | Lung, Colon | 25k | Yes | Cls | Lung and Colon Cancer |
-| 67 | [FocusPath {Hosseini_2019](https://www.heywhale.com/mw/dataset/5e85dc8b95b029002ca7ea03) | 2020 | 2D | Histopathology (Patch) | NA | 864 | Yes | IQA | Histopathology Image |
+| 67 | [FocusPath](https://www.heywhale.com/mw/dataset/5e85dc8b95b029002ca7ea03) | 2020 | 2D | Histopathology (Patch) | NA | 864 | Yes | IQA | Histopathology Image |
 | 68 | [Blood Cell Images](https://www.heywhale.com/mw/dataset/5d9ea5a9037db3002d3ec502) | 2019 | 2D | Histopathology (Patch) | Blood | 12.5k | Yes | Det | Blood Cell |
 | 69 | [Colorectal Histology MNIST](https://zenodo.org/record/53169) | 2016 | 2D | Histopathology (Patch) | Colon | 5.0k | Yes | Cls | Colorectal Tissue |
 | 70 | [BreakHis 100x](https://opendatalab.com/BreakHis) | 2016 | 2D | Histopathology (Patch) | Breast | 9.1k | Yes | Cls | Breast Cancer |
 | 71 | [BreakHis 200x](https://opendatalab.com/BreakHis) | 2016 | 2D | Histopathology (Patch) | Breast | 9.1k | Yes | Cls | Breast Cancer |
 | 72 | [BreakHis 400x](https://opendatalab.com/BreakHis) | 2016 | 2D | Histopathology (Patch) | Breast | 9.1k | Yes | Cls | Breast Cancer |
-| 73 | [BCNB Task-1 {xu2021predicting](https://bcnb.grand-challenge.org/Home/) | 2021 | 2D | Histopathology (WSI) | Breast | 1.1k | Yes | Cls | Leukemia |
+| 73 | [BCNB Task-1](https://bcnb.grand-challenge.org/Home/) | 2021 | 2D | Histopathology (WSI) | Breast | 1.1k | Yes | Cls | Leukemia |
 | 74 | [BCNB Task-2](https://bcnb.grand-challenge.org/Home/) | 2021 | 2D | Histopathology (WSI) | Breast | 1.1k | Yes | Cls | Breast Cancer |
 | 75 | [BCNB Task-3](https://bcnb.grand-challenge.org/Home/) | 2021 | 2D | Histopathology (WSI) | Breast | 1.1k | Yes | Cls | Breast Cancer |
 | 76 | [BCNB Task-4](https://bcnb.grand-challenge.org/Home/) | 2021 | 2D | Histopathology (WSI) | Breast | 1.1k | Yes | Cls | Breast Cancer |
@@ -500,29 +500,29 @@ These datasets form the foundation for training next-generation medical AI model
 | 78 | [BCNB Task-6](https://bcnb.grand-challenge.org/Home/) | 2021 | 2D | Histopathology (WSI) | Breast | 1.1k | Yes | Cls | Breast Cancer |
 | 79 | [PANDA](https://www.kaggle.com/c/prostate-cancer-grade-assessment/data?select=train.csv) | 2020 | 2D | Histopathology (Patch) | Prostate | 10.6k | Yes | Cls | Prostate Cancer |
 | 80 | [PANDA_karolinska](https://www.kaggle.com/c/prostate-cancer-grade-assessment/data?select=train.csv) | 2020 | 2D | Histopathology (Patch) | Prostate | 5.5k | Yes | Seg | Prostate Cancer |
-| 81 | [PAIP 2023 {akbar2019automated](https://2023paip.grand-challenge.org/) | 2022 | 2D | Histopathology (Patch) | Pancreas | 103 | Yes | Seg | Liver Cancer |
+| 81 | [PAIP 2023](https://2023paip.grand-challenge.org/) | 2022 | 2D | Histopathology (Patch) | Pancreas | 103 | Yes | Seg | Liver Cancer |
 | 82 | [ATEC23](https://github.com/cwwang1979/MICCAI_ATEC23challenge) | 2023 | 2D | Histopathology (WSI) | Ovary | 468 | Yes | Cls | Ovarian Cancer |
 | 83 | [ACROBAT2023](https://acrobat.grand-challenge.org/overview/) | 2023 | 2D | Histopathology (WSI) | Breast | 1.2k | Yes | Reg | Breast Cancer |
 | 84 | [OCELOT2023](https://ocelot2023.grand-challenge.org/) | 2023 | 2D | Histopathology (WSI) | Colon | 667 | Yes | Det | Colon Cancer |
 | 85 | [OCEAN](https://zenodo.org/record/7844718) | 2023 | 2D | Histopathology (WSI) | Ovary | 1.6k | Yes | Cls | Ovarian Cancer |
 | 86 | [Endo-Aid](https://endo-aid.grand-challenge.org/) | 2022 | 2D | Histopathology (WSI) | GI Tract | 91 | No | Cls | GI Polyps |
-| 87 | [PAIP2023 {akbar2019automated](https://2023paip.grand-challenge.org/) | 2022 | 2D | Histopathology (Patch) | Pancreas | 103 | Yes | Seg | Pancreatic Cancer |
-| 88 | [PatchCamelyon{gc_patchcamelyon_2018](https://patchcamelyon.grand-challenge.org/) | 2018 | 2D | Histopathology (Patch) | Lymph Node | 295k | Yes | Cls | Metastatic Tissue |
-| 89 | [Bone Marrow Cytomorphology{tcia_bone_marrow_cytomorphology_2021](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=101941770) | 2021 | 2D | Histopathology (Patch) | Bone Marrow | 171k | Yes | Cls | Blood Cells |
-| 90 | [Lung-Fused-CT-Pathology{Rusu2017EurRadiol_LungFused](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=39878702) | 2018 | 2D, 3D | CT, Histopathology (WSI) | Lung | 36 | Yes | Seg | Lung Cancer |
-| 91 | [HNSCC-mIF-mIHC{Ghahremani2023MICCAI_HNSCCmIFmIHC](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226184) | 2020 | 2D | Histopathology (Patch) | Head | Neck | 3.2k | No | NA |
-| 92 | [SN-AM{Gupta2020MedIA_SNAM](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52757009) | 2019 | 2D | Histopathology (Patch) | Lymph Node | 190 | Yes | Seg | Melanoma |
-| 93 | [Ovarian Bevacizumab Response{tcia_ovarian_bev_response_2023](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=83593077) | 2023 | 2D | Histopathology (WSI) | Ovary | 285 | No | NA | Ovarian Cancer |
-| 94 | [CMB-LCA{tcia_cmb_lca_2022](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93258420) | 2022 | 2D, 3D | Multi | Lung | 0 | No | NA | Lung Cancer |
-| 95 | [CPTAC-COAD{tcia_cptac_coad_2021](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70227852) | 2021 | 2D | Histopathology (WSI) | Colon | 373 | Yes | Cls | Colon Adenocarcinoma |
-| 96 | [Hungarian-Colorectal-Screening{tcia_hungarian_crc_2022](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=91357370) | 2022 | 2D | Histopathology (WSI) | Colorectal | 200 | No | NA | Colorectal Polyps |
-| 97 | [DLBCL-Morphology{tcia_dlbcl_morphology_2022](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=119702520) | 2022 | 2D | Histopathology (Patch) | Lymph Node | 246 | Yes | Seg | DLBCL |
-| 98 | [CPTAC-OV{tcia_cptac_ov_2021](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70227856) | 2021 | 2D | Histopathology (WSI) | Ovary | 222 | No | NA | Ovarian Cancer |
-| 99 | [CODEX imaging of HCC{tcia_codex_hcc_2023](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=140313174) | 2023 | 2D | Histopathology (WSI) | Liver | 646 | No | NA | Liver HCC |
-| 100 | [Prostate-MRI{tcia_prostate_mri_2011](https://wiki.cancerimagingarchive.net/display/Public/PROSTATE-MRI) | 2011 | 3D, 2D | Multi | Prostate | 26 | No | NA | Prostate Cancer |
-| 101 | [CPTAC-BRCA{tcia_cptac_brca_2021](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70227748) | 2021 | 2D | Histopathology (WSI) | Breast | 642 | No | NA | Breast Cancer |
-| 102 | [AML-Cytomorphology_LMU{Matek2019NatMI_AML](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=61080958) | 2019 | 2D | Histopathology (WSI) | Blood | 18.4k | Yes | Cls | Acute Myeloid Leukemia |
-| 103 | [MiMM_SBILab {gupta2019mimm_sbilab](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52756988) | 2019 | 2D | Histopathology (WSI) | Bone Marrow | 85 | Yes | Loc | Multiple Myeloma |
+| 87 | [PAIP2023](https://2023paip.grand-challenge.org/) | 2022 | 2D | Histopathology (Patch) | Pancreas | 103 | Yes | Seg | Pancreatic Cancer |
+| 88 | [PatchCamelyon](https://patchcamelyon.grand-challenge.org/) | 2018 | 2D | Histopathology (Patch) | Lymph Node | 295k | Yes | Cls | Metastatic Tissue |
+| 89 | [Bone Marrow Cytomorphology](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=101941770) | 2021 | 2D | Histopathology (Patch) | Bone Marrow | 171k | Yes | Cls | Blood Cells |
+| 90 | [Lung-Fused-CT-Pathology](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=39878702) | 2018 | 2D, 3D | CT, Histopathology (WSI) | Lung | 36 | Yes | Seg | Lung Cancer |
+| 91 | [HNSCC-mIF-mIHC](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70226184) | 2020 | 2D | Histopathology (Patch) | Head | Neck | 3.2k | No | NA |
+| 92 | [SN-AM](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52757009) | 2019 | 2D | Histopathology (Patch) | Lymph Node | 190 | Yes | Seg | Melanoma |
+| 93 | [Ovarian Bevacizumab Response](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=83593077) | 2023 | 2D | Histopathology (WSI) | Ovary | 285 | No | NA | Ovarian Cancer |
+| 94 | [CMB-LCA](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93258420) | 2022 | 2D, 3D | Multi | Lung | 0 | No | NA | Lung Cancer |
+| 95 | [CPTAC-COAD](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70227852) | 2021 | 2D | Histopathology (WSI) | Colon | 373 | Yes | Cls | Colon Adenocarcinoma |
+| 96 | [Hungarian-Colorectal-Screening](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=91357370) | 2022 | 2D | Histopathology (WSI) | Colorectal | 200 | No | NA | Colorectal Polyps |
+| 97 | [DLBCL-Morphology](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=119702520) | 2022 | 2D | Histopathology (Patch) | Lymph Node | 246 | Yes | Seg | DLBCL |
+| 98 | [CPTAC-OV](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70227856) | 2021 | 2D | Histopathology (WSI) | Ovary | 222 | No | NA | Ovarian Cancer |
+| 99 | [CODEX imaging of HCC](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=140313174) | 2023 | 2D | Histopathology (WSI) | Liver | 646 | No | NA | Liver HCC |
+| 100 | [Prostate-MRI](https://wiki.cancerimagingarchive.net/display/Public/PROSTATE-MRI) | 2011 | 3D, 2D | Multi | Prostate | 26 | No | NA | Prostate Cancer |
+| 101 | [CPTAC-BRCA](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70227748) | 2021 | 2D | Histopathology (WSI) | Breast | 642 | No | NA | Breast Cancer |
+| 102 | [AML-Cytomorphology_LMU](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=61080958) | 2019 | 2D | Histopathology (WSI) | Blood | 18.4k | Yes | Cls | Acute Myeloid Leukemia |
+| 103 | [MiMM_SBILab](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52756988) | 2019 | 2D | Histopathology (WSI) | Bone Marrow | 85 | Yes | Loc | Multiple Myeloma |
 | 104 | [Pan-Cancer-Nuclei-Seg](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=64685083) | 2020 | 2D | Histopathology (WSI) | Multi-organ | 5.1k | Yes | Seg | Pan-Cancer |
 | 105 | [TIL-WSI-TCGA](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=33948919) | 2018 | 2D | Histopathology (WSI) | Multi-organ | 5.2k | Yes | Cls | Pan-Cancer |
 | 106 | [C-NMC 2019](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52758223) | 2019 | 2D | Histopathology (WSI) | Blood | 15.1k | Yes | Cls | Leukemia |
@@ -531,9 +531,9 @@ These datasets form the foundation for training next-generation medical AI model
 | 109 | [NADT-Prostate](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=91357374) | 2021 | 2D | Histopathology (WSI) | Prostate | 1.4k | No | NA | Prostate Cancer |
 | 110 | [HER2 tumor ROIs](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=119702524) | 2022 | 2D | Histopathology (WSI) | Breast | 273 | Yes | Seg | HER2+ Breast Cancer |
 | 111 | [CRC_FFPE-CODEX_CellNeighs](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70227790) | 2020 | 2D | Histopathology (WSI) | Colorectal | 200 | No | NA | Colorectal Cancer |
-| 112 | [Post-NAT-BRCA {martel2019assessment](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52758117) | 2019 | 2D | Histopathology (WSI) | Breast | 96 | Yes | Cls | Breast Cancer |
+| 112 | [Post-NAT-BRCA](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52758117) | 2019 | 2D | Histopathology (WSI) | Breast | 96 | Yes | Cls | Breast Cancer |
 | 113 | [Osteosarcoma Tumor Assessment](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52756935) | 2019 | 2D | Histopathology (WSI) | Bone | 1.1k | Yes | Cls | Osteosarcoma |
-| 114 | [Quilt-1M {ikezogwo2023quilt1m](https://github.com/wisdomikezogwo/quilt1m) | 2023 | 2D | Histopathology (Patch) | Multi-organ | 1M | Yes | VQA | Multi-organ Pathology |
+| 114 | [Quilt-1M](https://github.com/wisdomikezogwo/quilt1m) | 2023 | 2D | Histopathology (Patch) | Multi-organ | 1M | Yes | VQA | Multi-organ Pathology |
 
 ### 🩺 Ultrasound
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
@@ -560,49 +560,49 @@ These datasets form the foundation for training next-generation medical AI model
 | 18 | [AREN0532](https://www.cancerimagingarchive.net/collection/aren0532/) | 2022 | 2D, 3D | Multi | NA | 1k | No | NA | Wilms Tumor |
 | 19 | [TN3K](https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation) | 2021 | 2D | US | Head and Neck | 3.5k | Yes | Seg | Thyroid Nodules |
 | 20 | [CAMUS](http://camus.creatis.insa-lyon.fr/challenge/) | 2019 | 2D | US | Heart | 1.8k | Yes | Seg | Cardiac Disease |
-| 21 | [DDTI {gong2021multi-task](https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation) | 2020 | 2D | US | Thyroid | 637 | Yes | Seg | Thyroid Nodule |
+| 21 | [DDTI](https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation) | 2020 | 2D | US | Thyroid | 637 | Yes | Seg | Thyroid Nodule |
 
 ### 📹 Endoscopy
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | [Kavsir{pogorelov2017kvasir](https://datasets.simula.no/kvasir/) | 2017 | 2D | Endoscopy | Colon | 14k | Yes | Cls | NA |
-| 2 | [EndoSlam{ozyoruk2020endoslam](https://github.com/CapsuleEndoscope/EndoSLAM) | 2021 | 2D | Endoscopy | Colon, Liver, Stomach, Kidney | 76.8k | Yes | Recon, Est | NA |
-| 3 | [SARAS-MESAD{bawa2021saras](https://saras-mesad.grand-challenge.org/Home/) | 2021 | 2D | Endoscopy | Prostate | 50.3k | No | Det | GI disease |
-| 4 | [EAD19{ali2019endoscopy](https://ead2019.grand-challenge.org/Data/) | 2018 | 2D | Endoscopy | Stomach, Bladder, Colon | 2.1k | Yes | Det | Endo Artifact |
-| 5 | [EndoCV2020-Sub Challenge1{ali2022endoscopic](https://endocv.grand-challenge.org/) | 2019 | 2D | Endoscopy | Colon | 2.3k | Yes | Det, Seg | Polyp |
-| 6 | [EndoVis15{bernal2017comparative](https://polyp.grand-challenge.org/) | 2015 | 2D | Endoscopy | Colon | 612 | Yes | Seg | Polyp |
-| 7 | [Surgical tool detection challenge (m2cai16-tool){twinanda2016single](http://camma.u-strasbg.fr/m2cai2016/) | 2016 | 2D | Endoscopy | Gallbladder | 15 | Yes | Det | NA |
+| 1 | [Kavsir](https://datasets.simula.no/kvasir/) | 2017 | 2D | Endoscopy | Colon | 14k | Yes | Cls | NA |
+| 2 | [EndoSlam](https://github.com/CapsuleEndoscope/EndoSLAM) | 2021 | 2D | Endoscopy | Colon, Liver, Stomach, Kidney | 76.8k | Yes | Recon, Est | NA |
+| 3 | [SARAS-MESAD](https://saras-mesad.grand-challenge.org/Home/) | 2021 | 2D | Endoscopy | Prostate | 50.3k | No | Det | GI disease |
+| 4 | [EAD19](https://ead2019.grand-challenge.org/Data/) | 2018 | 2D | Endoscopy | Stomach, Bladder, Colon | 2.1k | Yes | Det | Endo Artifact |
+| 5 | [EndoCV2020-Sub Challenge1](https://endocv.grand-challenge.org/) | 2019 | 2D | Endoscopy | Colon | 2.3k | Yes | Det, Seg | Polyp |
+| 6 | [EndoVis15](https://polyp.grand-challenge.org/) | 2015 | 2D | Endoscopy | Colon | 612 | Yes | Seg | Polyp |
+| 7 | [Surgical tool detection challenge (m2cai16-tool)](http://camma.u-strasbg.fr/m2cai2016/) | 2016 | 2D | Endoscopy | Gallbladder | 15 | Yes | Det | NA |
 | 8 | [AIDA-E_1](https://aidasub-cleceliachy.grand-challenge.org/) | 2015 | 2D | Endoscopy | Stomach, Liver | 181 | Yes | Cls | Celiac Disease |
 | 9 | [AIDA-E_2](https://aidasub-clebarrett.grand-challenge.org/home/) | 2015 | 2D | Endoscopy | Esophagus | 157 | Yes | Cls | Barrett's Esophagus |
 | 10 | [AIDA-E_3](https://aidasub-chromogastro.grand-challenge.org/home/) | 2015 | 2D | Endoscopy | Stomach, Colon | 88 | Yes | Cls | Metaplasia, Dysplasia |
-| 11 | [CVC-ClinicDB{vazquez2017benchmark](https://tianchi.aliyun.com/dataset/dataDetail?dataId=93690) | 2021 | 2D | Endoscopy | Bowel | 1.4k | Yes | Seg | Polyp |
-| 12 | [Kvasir-SEG{jha2019kvasir](https://tianchi.aliyun.com/dataset/dataDetail?dataId=84385) | 2020 | 2D | Endoscopy | Bowel | 8k | Yes | Seg | NA |
-| 13 | [FetReg{bano2021fetreg](https://www.synapse.org/\#!Synapse:syn25313156/wiki/610166) | 2022 | 2D | Endoscopy | Uterus | 2.7k | Yes | Seg | Placental Vasculature |
-| 14 | [SARAS-ESAD{bawa2021saras](https://saras-esad.grand-challenge.org) | 2020 | 2D | Endoscopy | Bowel | 33.4k | Yes | Det | Skin lesion |
-| 15 | [ImageCLEF 2016{deherrera2016imageclef](https://www.imageclef.org/2016/medical) | 2015 | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | H |
+| 11 | [CVC-ClinicDB](https://tianchi.aliyun.com/dataset/dataDetail?dataId=93690) | 2021 | 2D | Endoscopy | Bowel | 1.4k | Yes | Seg | Polyp |
+| 12 | [Kvasir-SEG](https://tianchi.aliyun.com/dataset/dataDetail?dataId=84385) | 2020 | 2D | Endoscopy | Bowel | 8k | Yes | Seg | NA |
+| 13 | [FetReg](https://www.synapse.org/\#!Synapse:syn25313156/wiki/610166) | 2022 | 2D | Endoscopy | Uterus | 2.7k | Yes | Seg | Placental Vasculature |
+| 14 | [SARAS-ESAD](https://saras-esad.grand-challenge.org) | 2020 | 2D | Endoscopy | Bowel | 33.4k | Yes | Det | Skin lesion |
+| 15 | [ImageCLEF 2016](https://www.imageclef.org/2016/medical) | 2015 | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | H |
 | 16 | [ISBI-AIDA-CECI](https://aidasub-cleceliachy.grand-challenge.org/) | 2015 | 2D | Endoscopy | Liver, Stomach | 181 | Yes | Cls | Celiac diseases |
-| 17 | [SUN_SEG{ji2022video](https://github.com/GewelsJI/VPS) | 2022 | 2D+Video | Endoscopy | Colon | 49.1k | Yes | Seg, Det, Cls | Polyp |
-| 18 | [HyperKvasir{borgli2020hyperkvasir](https://datasets.simula.no/hyper-kvasir/) | 2020 | 2D+Video | Endoscopy | Esophagus, Stomach, Colon | 6.5k | Yes | Cls, Caption, Loc | GI disease |
+| 17 | [SUN_SEG](https://github.com/GewelsJI/VPS) | 2022 | 2D+Video | Endoscopy | Colon | 49.1k | Yes | Seg, Det, Cls | Polyp |
+| 18 | [HyperKvasir](https://datasets.simula.no/hyper-kvasir/) | 2020 | 2D+Video | Endoscopy | Esophagus, Stomach, Colon | 6.5k | Yes | Cls, Caption, Loc | GI disease |
 | 19 | [Gastrointestinal Image ANAlysis (GIANA)](https://giana.grand-challenge.org/) | 2016 | 2D | Endoscopy | Colon | 600 | Yes | Cls | Vascular Malformation |
 | 20 | [EndoVis 2015 - DAGI](https://endovissub-abnormal.grand-challenge.org/EndoVisSub-Abnormal/) | 2015 | 2D | Endoscopy | NA | 389 | Yes | Det | Cholecystectomy |
 | 21 | [EndoVis 2015 - EBCD](https://endovissub-barrett.grand-challenge.org/) | 2015 | 2D | Endoscopy | NA | 150 | Yes | Seg | Barrett's Epithelium |
-| 22 | [EndoCV2020-Sub Challenge2{ali2020endoscopy](https://edd2020.grand-challenge.org/) | 2019 | 2D | Endoscopy | NA | 386 | Yes | Det | NA |
-| 23 | [EndoVis 2015 - APDCV{bernal2017comparative](https://polyp.grand-challenge.org/) | 2015 | 2D | Endoscopy | NA | 612 | Yes | Seg | Colonic Polyp |
+| 22 | [EndoCV2020-Sub Challenge2](https://edd2020.grand-challenge.org/) | 2019 | 2D | Endoscopy | NA | 386 | Yes | Det | NA |
+| 23 | [EndoVis 2015 - APDCV](https://polyp.grand-challenge.org/) | 2015 | 2D | Endoscopy | NA | 612 | Yes | Seg | Colonic Polyp |
 | 24 | [EndoVis 2015 - IST_2D-Endoscopy](https://endovissub-instrument.grand-challenge.org/EndoVisSub-Instrument/) | 2015 | 2D+Video | Endoscopy | NA | 100 | Yes | Seg | Surgical Instruments |
-| 25 | [EndoVis 2018 - RSS{allan20202018roboticscenesegmentation](https://endovissub2018-roboticscenesegmentation.grand-challenge.org/home/) | 2018 | 2D | Endoscopy | NA | 2.8k | Yes | Seg | Surgical Instruments |
+| 25 | [EndoVis 2018 - RSS](https://endovissub2018-roboticscenesegmentation.grand-challenge.org/home/) | 2018 | 2D | Endoscopy | NA | 2.8k | Yes | Seg | Surgical Instruments |
 | 26 | [ISBI-AIDA-EMIBS](https://isbi-aida.grand-challenge.org) | 2015 | 2D | Endoscopy | NA | 262 | Yes | Cls | Gastric |
 | 27 | [ISBI-AIDA-GCICS](https://isbi-aida.grand-challenge.org) | 2015 | 2D | Endoscopy | NA | 176 | Yes | Cls | Gastric |
 | 28 | [EndoVis2023-SIMS](https://www.synapse.org/\#!Synapse:syn47193563/wiki/620035) | 2023 | 2D | Endoscopy | NA | 0 | Yes | Seg | Endoscopy |
 | 29 | [EndoVis2023-Syn-ISS](https://www.synapse.org/\#!Synapse:syn50908388/wiki/620516) | 2023 | 2D | Endoscopy | NA | 0 | Yes | Seg | NA |
 | 30 | [P2ILF](https://p2ilf.grand-challenge.org/) | 2022 | 2D+3D | Endoscopy | NA | 15 | Yes | Reg | Multi-organ |
-| 31 | [EndoVis2023-SurgRIPE{xu2025surgripe](https://www.synapse.org/\#!Synapse:syn51471789/wiki/622255) | 2023 | 2D | Endoscopy | NA | 0 | Yes | Est | NA |
-| 32 | [m2caiSeg{maqbool2020m2caiseg](https://www.kaggle.com/datasets/salmanmaq/m2caiseg) | 2020 | 2D | Endoscopy | Instrument | 614 | Yes | Seg | NA |
-| 33 | [CVC-EndoSceneStill{vazquez2017benchmark](https://www.biobancovasco.org/en/Sample-and-data-catalog/Databases/PD178-PICCOLO-EN.html) | NA | 2D | Endoscopy | NA | 3.4k | Yes | Seg | Polyp |
-| 34 | [Endo-FM{wang2023foundation](https://github.com/med-air/Endo-FM) | NA | 2D+Video | Endoscopy | NA | 0 | Yes | Seg, Cls, Det | NA |
-| 35 | [SegSTRONG-C{ding2024segstrong](https://github.com/hding2455/CaRTS) | NA | 2D+Video | Endoscopy | NA | 17 | Yes | Seg | NA |
-| 36 | [SegCol{ju2024segcol](https://www.synapse.org/\#!Synapse:syn54124209) | NA | 2D+Video | Colposcopy, Endoscopy | NA | 78 | Yes | Seg | NA |
+| 31 | [EndoVis2023-SurgRIPE](https://www.synapse.org/\#!Synapse:syn51471789/wiki/622255) | 2023 | 2D | Endoscopy | NA | 0 | Yes | Est | NA |
+| 32 | [m2caiSeg](https://www.kaggle.com/datasets/salmanmaq/m2caiseg) | 2020 | 2D | Endoscopy | Instrument | 614 | Yes | Seg | NA |
+| 33 | [CVC-EndoSceneStill](https://www.biobancovasco.org/en/Sample-and-data-catalog/Databases/PD178-PICCOLO-EN.html) | NA | 2D | Endoscopy | NA | 3.4k | Yes | Seg | Polyp |
+| 34 | [Endo-FM](https://github.com/med-air/Endo-FM) | NA | 2D+Video | Endoscopy | NA | 0 | Yes | Seg, Cls, Det | NA |
+| 35 | [SegSTRONG-C](https://github.com/hding2455/CaRTS) | NA | 2D+Video | Endoscopy | NA | 17 | Yes | Seg | NA |
+| 36 | [SegCol](https://www.synapse.org/\#!Synapse:syn54124209) | NA | 2D+Video | Colposcopy, Endoscopy | NA | 78 | Yes | Seg | NA |
 | 37 | [FedSurg](https://www.synapse.org/Synapse:syn53137385/wiki/625370) | 2024 | 2D+Video | Endoscopy | NA | 30 | Yes | Cls | Laparoscopic appendectomy |
 
 ### 🔬 Microscopy
@@ -610,40 +610,40 @@ These datasets form the foundation for training next-generation medical AI model
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | [CellTracking2019 {mavska2023cell](http://celltrackingchallenge.net/) | 2019 | 2D | Microscopy | Cell | 1.4M | Yes | Tracking | NA |
+| 1 | [CellTracking2019](http://celltrackingchallenge.net/) | 2019 | 2D | Microscopy | Cell | 1.4M | Yes | Tracking | NA |
 | 2 | [CREMI](https://cremi.org) | 2016 | 2D | Microscopy | Brain | 375 | Yes | Seg | NA |
-| 3 | [Bacteria Detection {wieczorek2024transformer](https://tianchi.aliyun.com/dataset/dataDetail?dataId=94411) | 2021 | 2D | Microscopy | NA | 366 | Yes | Seg | NA |
+| 3 | [Bacteria Detection](https://tianchi.aliyun.com/dataset/dataDetail?dataId=94411) | 2021 | 2D | Microscopy | NA | 366 | Yes | Seg | NA |
 | 4 | [Blood Cell Images](https://tianchi.aliyun.com/dataset/dataDetail?dataId=89038) | 2021 | 2D | Microscopy | Blood | 12.5k | Yes | Cls | Blood |
-| 5 | [Leukemia Classification {DeepLeukemia2020](https://tianchi.aliyun.com/dataset/dataDetail?dataId=90101) | 2021 | 2D | Microscopy | NA | 15.1k | Yes | Cls | Leukemia |
-| 6 | [CellTracking2021 {mavska2023cell](http://celltrackingchallenge.net/) | 2021 | 2D+3D+Video | Microscopy | Cell | 0 | Yes | Tracking, Seg | Lung Disease |
-| 7 | [B-ALL Classification {gupta2019isbi](https://competitions.codalab.org/competitions/20395) | 2018 | 2D | Microscopy | Cell | 15.1k | Yes | Cls | Brain Tumor |
-| 8 | [2018 Data Science Bowl {caicedo2019nucleus](https://www.kaggle.com/competitions/data-science-bowl-2018) | 2018 | 2D | Microscopy | Nuclei | 670 | Yes | Seg | Skin Lesions |
+| 5 | [Leukemia Classification](https://tianchi.aliyun.com/dataset/dataDetail?dataId=90101) | 2021 | 2D | Microscopy | NA | 15.1k | Yes | Cls | Leukemia |
+| 6 | [CellTracking2021](http://celltrackingchallenge.net/) | 2021 | 2D+3D+Video | Microscopy | Cell | 0 | Yes | Tracking, Seg | Lung Disease |
+| 7 | [B-ALL Classification](https://competitions.codalab.org/competitions/20395) | 2018 | 2D | Microscopy | Cell | 15.1k | Yes | Cls | Brain Tumor |
+| 8 | [2018 Data Science Bowl](https://www.kaggle.com/competitions/data-science-bowl-2018) | 2018 | 2D | Microscopy | Nuclei | 670 | Yes | Seg | Skin Lesions |
 | 9 | [GSB2016](https://www.imageclef.org/2016/medical) | 2015 | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | Head |
-| 10 | [OCCISC (SemSeg) {lu2016evaluation](https://cs.adelaide.edu.au/~carneiro/isbi14_challenge/) | 2014 | 2D | Microscopy | Cell | 945 | Yes | Seg | Cervical Cytology |
-| 11 | [ICIAR 2018 (Microscopy) {aresta2019bach](https://iciar2018-challenge.grand-challenge.org/Dataset/) | 2017 | 2D | Microscopy | Breast | 400 | Yes | Cls | Breast Cancer |
-| 12 | [CBC (Counting) {alam2019machine](https://github.com/MahmudulAlam/Complete-Blood-Cell-Count-Dataset) | 2019 | 2D | Microscopy | Full Body | 420 | Yes | Reg | NA |
-| 13 | [HuSHeM {shaker2017dictionary](https://opendatalab.com/HuSHeM) | 2017 | 2D | Microscopy | Pelvic | 216 | Yes | Cls | Sperm Head Morphology |
-| 14 | [Kaggle-HPA {le2022analysis](https://www.kaggle.com/competitions/hpa-single-cell-image-classification/data) | 2021 | 2D | Microscopy | NA | 89.5k | Yes | Seg | Protein Localization |
+| 10 | [OCCISC (SemSeg)](https://cs.adelaide.edu.au/~carneiro/isbi14_challenge/) | 2014 | 2D | Microscopy | Cell | 945 | Yes | Seg | Cervical Cytology |
+| 11 | [ICIAR 2018 (Microscopy)](https://iciar2018-challenge.grand-challenge.org/Dataset/) | 2017 | 2D | Microscopy | Breast | 400 | Yes | Cls | Breast Cancer |
+| 12 | [CBC (Counting)](https://github.com/MahmudulAlam/Complete-Blood-Cell-Count-Dataset) | 2019 | 2D | Microscopy | Full Body | 420 | Yes | Reg | NA |
+| 13 | [HuSHeM](https://opendatalab.com/HuSHeM) | 2017 | 2D | Microscopy | Pelvic | 216 | Yes | Cls | Sperm Head Morphology |
+| 14 | [Kaggle-HPA](https://www.kaggle.com/competitions/hpa-single-cell-image-classification/data) | 2021 | 2D | Microscopy | NA | 89.5k | Yes | Seg | Protein Localization |
 | 15 | [nanni2016texture](https://figshare.com/s/d6fb591f1beb4f8efa6f) | 2016 | 2D | Microscopy | Retina | 195 | Yes | Cls | Cell Shape |
-| 16 | [Corneal Endothelial Cell {CornealEndothelial2019](https://github.com/daboe01/SREP-18-33533B) | 2019 | 2D | Microscopy | Retina | 385 | Yes | Seg | NA |
-| 17 | [Corneal Nerve {DeBonnay2022](http://bioimlab.dei.unipd.it/Data\%20Sets.htm) | 2008 | 2D | Microscopy | Retina | 90 | Yes | Cls | Corneal Abnormalities |
-| 18 | [Corneal Nerve Tortuosity {scarpa2011automatic](http://bioimlab.dei.unipd.it/Data\%20Sets.htm) | 2011 | 2D | Microscopy | Retina | 30 | Yes | Cls | Nerve Tortuosity |
-| 19 | [Cervix93 Cytology {phoulady2018new](https://github.com/parham-ap/cytology_dataset) | 2018 | 2D | Microscopy | Cervix | 93 | Yes | Cls | Cervical Cancer |
-| 20 | [DLBCL-Morph {vrabac2020dlbclmorph](https://github.com/stanfordmlgroup/DLBCL-Morph) | 2020 | 2D | Microscopy | Retina | 152.2k | Yes | Reg | DLBCL Lymphoma |
-| 21 | [2-PM Vessel Dataset {teikari2016deep](https://opendatalab.org.cn/2-PM_Vessel_Dataset) | 2016 | 2D | Microscopy | Vessel | 12 | Yes | Seg | NA |
-| 22 | [BBBC041 {li2021multi](https://opendatalab.org.cn/BBBC041/download) | 2012 | 2D | Microscopy | Cell | 1.3k | Yes | Seg | Malaria |
-| 23 | [FMD {zhang2018poisson](https://github.com/yinhaoz/denoising-fluorescence) | 2019 | 2D | Microscopy | Surface | 5.1k | Yes | Cls, Seg | Surface Defect |
-| 24 | [Blood Cell Detection {BloodCellDetection2022](https://www.heywhale.com/mw/dataset/62c2af90913a54a66038165a) | 2022 | 2D | Microscopy | NA | 874 | Yes | Det | NA |
-| 25 | [Tuberculosis Image {rahman2020reliable](https://www.heywhale.com/mw/dataset/5efc4de063975d002c9792de) | 2020 | 2D | Microscopy | NA | 1.3k | Yes | Det | Tuberculosis |
-| 26 | [MHSMA {javadi2019novel](https://github.com/soroushj/mhsma-dataset) | 2019 | 2D | Microscopy | NA | 1.5k | Yes | Cls | NA |
-| 27 | [ICIAR 2018 (Microscopy) {aresta2019bach](https://iciar2018-challenge.grand-challenge.org/) | 2017 | 2D | Microscopy, WSI | NA | 400 | Yes | Seg | Breast Cancer |
-| 28 | [ImageCLEF 2016 {GSB2016](https://www.imageclef.org/2016/medical) | 2016 | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | NA |
-| 29 | [CellTracking2024 {mavska2023cell](http://celltrackingchallenge.net/) | 2024 | 2D+3D+Video | Microscopy | Cell | 0 | Yes | Tracking, Seg | NA |
-| 30 | [CellTracking2022 {mavska2023cell](http://celltrackingchallenge.net/) | 2022 | 2D+3D+Video | Microscopy | Cell | 0 | Yes | Tracking, Seg | NA |
-| 31 | [CellTracking2023 {mavska2023cell](http://celltrackingchallenge.net/) | 2023 | 2D+3D+Video | Microscopy | Cell | 0 | Yes | Tracking, Seg | NA |
-| 32 | [OCCISC (InstSeg) {alam2019machine](https://cs.adelaide.edu.au/~carneiro/isbi14_challenge/) | 2014 | 2D | Microscopy | Cell | 945 | Yes | Seg | NA |
-| 33 | [CBC (Detection) {rahman2020reliable](https://github.com/MahmudulAlam/Complete-Blood-Cell-Count-Dataset) | 2019 | 2D | Microscopy | Full Body | 420 | Yes | Det | NA |
-| 34 | [ICIAR 2018 (WSI) {aresta2019bach](https://iciar2018-challenge.grand-challenge.org/) | 2018 | 2D | Microscopy, WSI | NA | 400 | Yes | Seg | Breast Cancer |
+| 16 | [Corneal Endothelial Cell](https://github.com/daboe01/SREP-18-33533B) | 2019 | 2D | Microscopy | Retina | 385 | Yes | Seg | NA |
+| 17 | [Corneal Nerve](http://bioimlab.dei.unipd.it/Data\%20Sets.htm) | 2008 | 2D | Microscopy | Retina | 90 | Yes | Cls | Corneal Abnormalities |
+| 18 | [Corneal Nerve Tortuosity](http://bioimlab.dei.unipd.it/Data\%20Sets.htm) | 2011 | 2D | Microscopy | Retina | 30 | Yes | Cls | Nerve Tortuosity |
+| 19 | [Cervix93 Cytology](https://github.com/parham-ap/cytology_dataset) | 2018 | 2D | Microscopy | Cervix | 93 | Yes | Cls | Cervical Cancer |
+| 20 | [DLBCL-Morph](https://github.com/stanfordmlgroup/DLBCL-Morph) | 2020 | 2D | Microscopy | Retina | 152.2k | Yes | Reg | DLBCL Lymphoma |
+| 21 | [2-PM Vessel Dataset](https://opendatalab.org.cn/2-PM_Vessel_Dataset) | 2016 | 2D | Microscopy | Vessel | 12 | Yes | Seg | NA |
+| 22 | [BBBC041](https://opendatalab.org.cn/BBBC041/download) | 2012 | 2D | Microscopy | Cell | 1.3k | Yes | Seg | Malaria |
+| 23 | [FMD](https://github.com/yinhaoz/denoising-fluorescence) | 2019 | 2D | Microscopy | Surface | 5.1k | Yes | Cls, Seg | Surface Defect |
+| 24 | [Blood Cell Detection](https://www.heywhale.com/mw/dataset/62c2af90913a54a66038165a) | 2022 | 2D | Microscopy | NA | 874 | Yes | Det | NA |
+| 25 | [Tuberculosis Image](https://www.heywhale.com/mw/dataset/5efc4de063975d002c9792de) | 2020 | 2D | Microscopy | NA | 1.3k | Yes | Det | Tuberculosis |
+| 26 | [MHSMA](https://github.com/soroushj/mhsma-dataset) | 2019 | 2D | Microscopy | NA | 1.5k | Yes | Cls | NA |
+| 27 | [ICIAR 2018 (Microscopy)](https://iciar2018-challenge.grand-challenge.org/) | 2017 | 2D | Microscopy, WSI | NA | 400 | Yes | Seg | Breast Cancer |
+| 28 | [ImageCLEF 2016](https://www.imageclef.org/2016/medical) | 2016 | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | NA |
+| 29 | [CellTracking2024](http://celltrackingchallenge.net/) | 2024 | 2D+3D+Video | Microscopy | Cell | 0 | Yes | Tracking, Seg | NA |
+| 30 | [CellTracking2022](http://celltrackingchallenge.net/) | 2022 | 2D+3D+Video | Microscopy | Cell | 0 | Yes | Tracking, Seg | NA |
+| 31 | [CellTracking2023](http://celltrackingchallenge.net/) | 2023 | 2D+3D+Video | Microscopy | Cell | 0 | Yes | Tracking, Seg | NA |
+| 32 | [OCCISC (InstSeg)](https://cs.adelaide.edu.au/~carneiro/isbi14_challenge/) | 2014 | 2D | Microscopy | Cell | 945 | Yes | Seg | NA |
+| 33 | [CBC (Detection)](https://github.com/MahmudulAlam/Complete-Blood-Cell-Count-Dataset) | 2019 | 2D | Microscopy | Full Body | 420 | Yes | Det | NA |
+| 34 | [ICIAR 2018 (WSI)](https://iciar2018-challenge.grand-challenge.org/) | 2018 | 2D | Microscopy, WSI | NA | 400 | Yes | Seg | Breast Cancer |
 
 ### ☢️ PET
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
@@ -667,638 +667,638 @@ These datasets form the foundation for training next-generation medical AI model
 
 | # | Dataset | Year | Dim | Modality | Structure | Volumes | Label | Task | Diseases |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | [TotalSegmentator{wasserthal2023totalsegmentator](https://totalsegmentator.com/) | 2022 | 3D | CT | Full Body | 1204 | Yes | Seg | Varied pathologies |
-| 2 | [AutoPET{gatidis2022a](https://autopet.grand-challenge.org/) | 2022 | 3D | CT/PET | Whole-body | 1014 | Yes | Seg | Cancer |
-| 3 | [AutoPET II{gatidis2023autopetii](https://autopet-ii.grand-challenge.org/) | 2023 | 3D | CT/ PET | Whole-body | 1219 | Yes | Seg | Cancer |
-| 4 | [ULS23{degrauw2025the](https://uls23.grand-challenge.org/uls23/) | 2023 | 3D | CT | Chest, Abdomen, Pelvis | 39468 | Yes | Seg | Oncological lesions |
-| 5 | [DeepLesion{yan2018deeplesion](https://nihcc.app.box.com/v/DeepLesion) | 2018 | 2D/3D | CT | Bone, Abdomen, Mediastinum, Liver, Lung, Kidney... | 32735 | Yes | Det | Various lesions |
-| 6 | [CT-ORG{rister2019ctorg](https://www.cancerimagingarchive.net/collection/ct-org/) | 2019 | 3D | CT | Bladder, Bone, Brain, Kidney, Liver, Lung | 140 | Yes | Seg | Liver lesions, Metastatic disease |
-| 7 | [SegTHOR{lambert2019segthor](https://competitions.codalab.org/competitions/21145) | 2019 | 3D | CT | Heart, Aorta, Trachea, Esophagus | 60 | Yes | Seg | Lung cancer |
-| 8 | [AbdomenAtlas{li2024abdomenatlas](https://www.zongweiz.com/dataset) | 2024 | 3D | CT | Abdomen | 20460 | Yes | Seg | Multi-organ |
-| 9 | [CT-RATE{hamamci2024developing](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE) | 2024 | 3D | CT | Chest | 50188 | Yes | Cls | Chest abnormalities |
-| 10 | [M3D{bai2024md](https://github.com/BAAI-DCAI/M3D) | 2024 | 3D | CT/MR | Whole-body | 120000 | Yes | Seg/Rec/Reg/Loc | Multiple pathologies |
-| 11 | [AMOS22{ji2022amos](https://amos22.grand-challenge.org/) | 2022 | 3D | CT/MR | Abdomen | 600 | Yes | Seg | Multi-disease |
-| 12 | [AMOS-MM{ji2024amosmm](https://doi.org/10.5281/zenodo.10992155) | 2024 | 3D | CT | Abdomen | 2300 | Yes | syn/Rec | Abdominal diseases |
-| 13 | [FLARE21{ma2022fast](https://flare.grand-challenge.org/FLARE21/) | 2021 | 3D | CT | Liver, Kidney, Spleen, Pancreas | 511 | Yes | Seg | Multi-organ |
-| 14 | [FLARE22{ma2023unleashing](https://flare22.grand-challenge.org/) | 2022 | 3D | CT | Abdomen | 2300 | Yes | Seg | Pan-cancer |
-| 15 | [FLARE23{ma2024automatic](https://codalab.lisn.upsaclay.fr/competitions/12239) | 2023 | 3D | CT | Abdomen | 4500 | Yes | Seg | Pan-cancer |
-| 16 | [WORD{luo2022word](https://github.com/HiLab-git/WORD) | 2021 | 3D | CT | Abdomen | 150 | Yes | Seg | Cancer |
-| 17 | [RAOS{luo2024rethinking](https://github.com/Luoxd1996/RAOS) | 2024 | 3D | CT/MR | Abdomen | 4130 | Yes | Seg | Abdominal cancers |
-| 18 | [SLIVER07{heimann2009comparison](https://sliver07.grand-challenge.org/) | 2007 | 3D | CT | Liver | 30 | Yes | Seg | Liver |
-| 19 | [LiTS{bilic2019the](https://competitions.codalab.org/competitions/17094) | 2017 | 3D | CT | Liver | 201 | Yes | Seg | Liver tumors |
-| 20 | [Pancreas-CT{roth2015deeporgan](https://www.cancerimagingarchive.net/collection/pancreas-ct/) | 2016 | 3D | CT | Pancreas | 80 | Yes | Seg | Healthy controls |
-| 21 | [CHAOS CT{kavur2021chaos](https://chaos.grand-challenge.org/) | 2019 | 3D | CT | Liver | 40 | Yes | Seg | Healthy subjects |
-| 22 | [CHAOS MRI{kavur2021chaos](https://chaos.grand-challenge.org/) | 2019 | 3D | CT/MR | Abdomen | 160 | Yes | Seg | Healthy |
-| 23 | [KiTS19{heller2019the](https://kits19.grand-challenge.org/) | 2019 | 3D | CT | Kidneys | 300 | Yes | Seg | Kidney cancer |
-| 24 | [KiTS21{heller2023the](https://kits21.kits-challenge.org/) | 2021 | 3D | CT | Kidneys | 400 | Yes | Seg | Kidney diseases |
-| 25 | [KiTS23{unknown2024kidney](https://kits-challenge.org/kits23/) | 2023 | 3D | CT | Kidneys | 599 | Yes | Seg | Kidney cancer |
-| 26 | [KiPA22{hu2023boundaryaware](https://kipa22.grand-challenge.org/) | 2022 | 3D | CT | Kidney | 130 | Yes | Seg | Renal Cancer |
-| 27 | [AbdomenCT-1K{ma2022abdomenctk](https://github.com/JunMa11/AbdomenCT-1K) | 2021 | 3D | CT | Abdomen | 1062 | Yes | Seg | Multi-disease cases |
-| 28 | [MSD03-Liver{antonelli2022medical](http://medicaldecathlon.com/) | 2018 | 3D | CT | Liver | 210 | Yes | Seg | Liver cancer |
-| 29 | [MSD06-Lung{antonelli2022medical](http://medicaldecathlon.com/) | 2018 | 3D | CT | Lung | 96 | Yes | Seg | Lung cancer |
-| 30 | [MSD07-Pancreas{antonelli2022medical](http://medicaldecathlon.com/) | 2018 | 3D | CT | Pancreas | 420 | Yes | Seg | Pancreatic masses |
-| 31 | [MSD08-HepaticVessel{antonelli2022medical](http://medicaldecathlon.com/dataaws/) | 2018 | 3D | CT | Liver | 443 | Yes | Seg | Liver tumors |
-| 32 | [MSD09-Spleen{antonelli2022medical](http://medicaldecathlon.com/) | 2018 | 3D | CT | Spleen | 61 | Yes | Seg | N/A |
-| 33 | [MSD10-Colon{antonelli2022medical](http://medicaldecathlon.com/) | 2018 | 3D | CT | Colon | 190 | Yes | Seg | Colorectal Cancer |
-| 34 | [EXACT09{lo2012extraction](http://image.diku.dk/exact/information.php) | 2009 | 3D | CT | Lung | 40 | Yes | Seg | Lung diseases |
-| 35 | [LOLA11{vanrikxoort2021lobe](https://lola11.grand-challenge.org) | 2011 | 3D | CT | Chest | 55 | Yes | Seg | Lung abnormalities |
-| 36 | [LUNA16{setio2017validation](https://luna16.grand-challenge.org/) | 2016 | 3D | CT | Lung | 888 | Yes | Det/Cls | Lung cancer |
-| 37 | [ATM'22{zhang2023multisite](https://atm22.grand-challenge.org) | 2022 | 3D | CT | Lung | 500 | Yes | Seg | Pulmonary diseases |
-| 38 | [AIIB23{nan2024hunting](https://codalab.lisn.upsaclay.fr/competitions/13238) | 2023 | 3D | CT | Airway | 312 | Yes | Seg | Fibrotic lung disease |
-| 39 | [BIMCV COVID-19+{delaiglesiavaya2020bimcv](https://bimcv.cipf.es/bimcv-projects/bimcv-covid19/) | 2020 | 2D/ 3D | CT/ X-RAY | Lung | 2428 | Yes | Seg/ Cls/ Loc | COVID-19 pneumonia |
-| 40 | [COVID-19-AR{desai2020chest](https://www.cancerimagingarchive.net/collection/covid-19-ar/) | 2020 | 2D/ 3D | CT/ X-RAY | Chest | 105 | Yes | Cls | COVID-19 |
-| 41 | [CT Images in COVID-19{an2020ct](https://www.cancerimagingarchive.net/collection/ct-images-in-covid-19/) | 2020 | 3D | CT | Chest | 771 | No | Cls | COVID-19 pneumonia |
-| 42 | [Chest CT Scans with COVID-19{morozov2020mosmeddata](https://www.kaggle.com/datasets/soham1024/chest-ct-scans-with-covid19) | 2020 | 3D | CT | Chest | 20 | Yes | Cls | COVID-19 |
-| 43 | [MIDRC-RICORD-1a{tsai2021the](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=133072661) | 2020 | 3D | CT | Chest | 120 | Yes | Seg/Cls | COVID-19 |
-| 44 | [COVID-19-20 Lung CT Lesion Segmentation Challenge{ma2021covid](https://covid-segmentation.grand-challenge.org/COVID-19-20/) | 2020 | 3D | CT | Lung | 295 | Yes | Seg | COVID-19 |
-| 45 | [COVID-19-NY-SBU{saltz2021stony](https://www.cancerimagingarchive.net/collection/covid-19-ny-sbu/) | 2021 | 2D/ 3D | CT/ MR/ PET/ X-RAY | Brain/ Chest | 1384 | No | Cls | COVID-19 |
-| 46 | [COVID19-CT-1000{shakouri2021covidctdataset](https://doi.org/10.7910/DVN/6ACUZJ) | 2021 | 2D/ 3D | CT | Lung | 1000 | Yes | Cls | COVID-19 |
-| 47 | [MIDRC-RICORD-1B{tsai2021medical](https://www.cancerimagingarchive.net/collection/midrc-ricord-1b/) | 2021 | 3D | CT | Chest | 120 | Yes | Cls | COVID-19 negative |
-| 48 | [STOIC2021{revel2021study](https://stoic2021.grand-challenge.org/) | 2021 | 3D | CT | Lung | 10735 | Yes | Cls | COVID-19 |
-| 49 | [COVID-19 CT scans{jun2020covid](https://tianchi.aliyun.com/dataset/dataDetail?dataId=90014) | 2021 | 3D | CT | Lung | 20 | Yes | Seg | COVID-19 infection |
-| 50 | [COV19-CT-DB{kollias2023a](https://mlearn.lincoln.ac.uk/eccv-2022-ai-mia/) | 2022 | 3D | CT | Chest | 7750 | Yes | Cls | COVID-19 |
-| 51 | [LNQ2023{dorent2025lnq](https://lnq2023.grand-challenge.org/) | 2023 | 3D | CT | Chest | 513 | Yes | Seg | Lymph node metastases |
-| 52 | [Parse2022{luo2023efficient](https://parse2022.grand-challenge.org/) | 2022 | 3D | CT | Pulmonary artery | 200 | Yes | Seg | Pulmonary hypertension |
-| 53 | [LNDb{pedrosa2019lndb](https://lndb.grand-challenge.org/) | 2019 | 3D | CT | Lung | 294 | Yes | Cls/Det/Seg | Lung cancer |
-| 54 | [FUMPE{masoudi2018a](https://www.kaggle.com/andrewmvd/pulmonary-embolism-in-ct-images) | 2018 | 3D | CT | Lung | 35 | Yes | Seg/Det | Pulmonary embolism |
-| 55 | [InSTANCE2022{li2023the](https://instance.grand-challenge.org/Instance2022/) | 2022 | 3D | CT | Brain | 200 | Yes | Seg | Intracranial Hemorrhage |
-| 56 | [ISLES 2024{isles2024](https://www.isles-challenge.org/) | 2024 | 3D | CT/MR | Brain | 250 | Yes | Seg | Acute/subacute ischemic stroke |
-| 57 | [HaN-Seg{podobnik2023hanseg](https://han-seg2023.grand-challenge.org/) | 2023 | 3D | CT/MR | Head and Neck | 42 | Yes | Seg | Head and Neck Cancer |
-| 58 | [SegRap2023{luo2023segrap](https://segrap2023.grand-challenge.org/) | 2023 | 3D | CT | Head, Neck | 400 | Yes | Seg | Nasopharyngeal carcinoma |
-| 59 | [PDDCA{raudaschl2017evaluation](https://www.imagenglab.com/newsite/pddca/) | 2015 | 3D | CT | Brainstem, Mandible, Optic nerves, Chiasm, Paro... | 48 | Yes | Seg | Head and neck cancer |
-| 60 | [StructSeg2019 Task 1{shi2023structseg](https://structseg2019.grand-challenge.org/) | 2019 | 3D | CT | Head and Neck | 60 | Yes | Seg | Head and Neck Cancer |
-| 61 | [StructSeg2019 Task 2{shi2023structseg](https://structseg2019.grand-challenge.org/) | 2019 | 3D | CT | Head and Neck | 60 | Yes | Seg | Nasopharyngeal carcinoma |
-| 62 | [StructSeg2019 Task 3{shi2023structseg](https://structseg2019.grand-challenge.org/) | 2019 | 3D | CT | Chest | 60 | Yes | Seg | Lung cancer |
-| 63 | [StructSeg2019 Task 4{shi2023structseg](https://structseg2019.grand-challenge.org/) | 2019 | 3D | CT | Lung | 60 | Yes | Seg | Lung cancer |
-| 64 | [Learn2Reg Lung CT{hering2021learnreg](https://learn2reg.grand-challenge.org/) | 2020 | 3D | CT | Thorax | 30 | Yes | Reg | Respiratory motion |
-| 65 | [Learn2Reg NLST{team2013data](https://learn2reg.grand-challenge.org/) | 2022 | 3D | CT | Thorax | 420 | Yes | Reg | Lung cancer |
-| 66 | [Learn2Reg Abdomen CT-CT{hering2021learnreg](https://learn2reg.grand-challenge.org/) | 2020 | 3D | CT | Abdomen | 50 | Yes | Reg | Multi-organ |
-| 67 | [Learn2Reg Abdomen MR-CT{hering2021learnreg](https://learn2reg.grand-challenge.org/) | 2021 | 3D | CT/MRI | Abdomen | 122 | Yes | Reg | Multi-modal |
-| 68 | [Continuous Registration{marstal2019the](https://continuousregistration.grand-challenge.org/home/) | 2019 | 3D | CT/MR | Lung/Brain | 142 | Yes | Reg | Respiratory motion/COPD |
-| 69 | [Continuous Registration DIRLAB{castillo2009a](https://continuousregistration.grand-challenge.org/data/) | 2018 | 3D | CT | Lungs | 20 | Yes | Reg/lmk | Respiratory-induced motion |
-| 70 | [Continuous Registration EMPIRE{murphy2011evaluation](https://empire10.grand-challenge.org/) | 2010 | 3D | CT | Lungs | 60 | Yes | Reg | Lung conditions |
-| 71 | [HECKTOR 2020{andrearczyk2020overview](https://www.aicrowd.com/challenges/miccai-2020-hecktor) | 2020 | 3D | CT/ PET | Head and Neck | 254 | Yes | Seg | Head and Neck Cancer |
-| 72 | [HECKTOR 2021{unknown2022untitled](https://www.aicrowd.com/challenges/miccai-2021-hecktor) | 2021 | 3D | CT/ PET | Head and Neck | 325 | Yes | Seg/ Reg | Head and Neck Cancer |
-| 73 | [HECKTOR 2022{andrearczyk2023overview](https://www.aicrowd.com/challenges/miccai-2022-hecktor) | 2022 | 3D | CT/ PET | Head and Neck | 883 | Yes | Seg/ Reg | Head and Neck Cancer |
-| 74 | [VerSe19{sekuboyina2021verse](https://verse2019.grand-challenge.org/) | 2019 | 3D | CT | Spine | 160 | Yes | Seg/Lab | Spine diseases |
-| 75 | [VerSe20{liebl2021a](https://verse2020.grand-challenge.org/) | 2020 | 3D | CT | Spine | 300 | Yes | Seg/Lab | Spine diseases |
-| 76 | [CTSpine1K{deng2021ctspinek](https://github.com/MIRACLE-Center/CTSpine1K) | 2021 | 3D | CT | Spine | 1005 | Yes | Seg | Spine diseases |
-| 77 | [CTPelvic1K{liu2021deep](https://github.com/MIRACLE-Center/CTPelvic1K) | 2020 | 3D | CT | Pelvic | 1184 | Yes | Seg | Pelvic bone conditions |
-| 78 | [RibFrac2020{jin2020deeplearningassisted](https://ribfrac.grand-challenge.org/) | 2020 | 3D | CT | Ribs | 660 | Yes | Seg/Cls/Det | Rib fractures |
-| 79 | [BTCV Abdomen{landman2015miccai](https://www.synapse.org/\#!Synapse:syn3193805/wiki/217752) | 2015 | 3D | CT | Abdomen | 50 | Yes | Seg | N/A |
-| 80 | [BTCV Cervical{landman2015miccai](https://www.synapse.org/\#!Synapse:syn3193805/wiki/217752) | 2015 | 3D | CT | Cervix | 50 | Yes | Seg | Cervical cancer |
-| 81 | [ACRIN-HNSCC-FDG-PET-CT (ACRIN 6685){lowe2019multicenter](https://www.cancerimagingarchive.net/collection/acrin-hnscc-fdg-pet-ct/) | 2016 | 3D | CT/MR/NM/PET | Head and Neck | 260 | Yes | Cls | Head and Neck Cancer |
-| 82 | [ACRIN-DSC-MR-Brain (ACRIN 6677){kinahan2019data](https://www.cancerimagingarchive.net/collection/acrin-dsc-mr-brain/) | 2019 | 2D/3D | CT/MR | Brain | 123 | Yes | Cls | Glioblastoma |
-| 83 | [ACRIN-FLT-Breast (ACRIN 6688){kostakoglu2015a](https://www.cancerimagingarchive.net/collection/acrin-flt-breast/) | 2017 | 3D | CT/ PET | Breast | 83 | Yes | Cls | Breast Cancer |
-| 84 | [ACRIN-FMISO-Brain (ACRIN 6684){kinahan2018data](https://www.cancerimagingarchive.net/collection/acrin-fmiso-brain/) | 2016 | 3D | CT/MR/ PET | Brain | 45 | Yes | Seg/Cls | Glioblastoma |
-| 85 | [ACRIN-NSCLC-FDG-PET (ACRIN 6668){kinahan2019data](https://www.cancerimagingarchive.net/collection/acrin-nsclc-fdg-pet/) | 2020 | 3D | CT/ PET | Lung | 242 | Yes | Cls | Lung cancer |
-| 86 | [AREN0532{aren0532dataset](https://www.cancerimagingarchive.net/collection/aren0532/) | 2022 | 2D/3D | CR/ CT/ MR/ PET/ RTIMAGE/ US | Kidney | 544 | No | Cls | Wilms tumor |
-| 87 | [AREN0532-Tumor-Annotations{rozenfeld2023aren0532annotations](https://www.cancerimagingarchive.net/analysis-result/aren0532-tumor-annotations/) | 2023 | 3D | CT/MR | Kidney | 543 | Yes | Seg | Wilms' Tumor |
-| 88 | [AREN0533{aren0533dataset](https://www.cancerimagingarchive.net/collection/aren0533/) | 2022 | 3D | CR/ CT/ MR/ US | Kidney | 294 | No | Cls | Wilms tumor |
-| 89 | [AREN0533-Tumor-Annotations{rozenfeld2023aren0533annotations](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=140312904) | 2023 | 3D | CR/ CT/ MR/ US | Kidney | 294 | Yes | Seg | Wilms tumor |
-| 90 | [AREN0534{aren0534dataset](https://www.cancerimagingarchive.net/collection/aren0534/) | 2021 | 2D/ 3D | CT/ MR/ PET/ US | Kidney | 239 | Yes | Seg | Wilms tumor |
-| 91 | [AHOD0831{kelly2022combination](https://www.cancerimagingarchive.net/collection/ahod0831/) | 2022 | 2D/3D | CR/ CT/ DX/ MR/ NM/ OT/ PET/ SC/ XA | Lymphatic | 165 | Yes | Seg | Hodgkin Lymphoma |
-| 92 | [AHOD0831-Tumor-Annotations{rozenfeld2023annotations](https://doi.org/10.7937/4QAD-4280) | 2023 | 3D | CT/ PET | Lymph nodes, spleen, salivary glands, Waldeyer'... | 165 | Yes | Seg | Hodgkin Lymphoma |
-| 93 | [HNSCC-3DCT-RT{bejarano2018headandneck](https://www.cancerimagingarchive.net/collection/hnscc-3dct-rt/) | 2018 | 3D | CT | Head and Neck | 31 | Yes | Seg | Head and Neck Cancer |
-| 94 | [HNSCC{grossberg2018imaging](https://www.cancerimagingarchive.net/collection/hnscc/) | 2020 | 3D | CT/MR/PET | Head and Neck | 627 | Yes | Seg | Head and Neck Cancer |
-| 95 | [CT COLONOGRAPHY{smith2015data](https://www.cancerimagingarchive.net/collection/ct-colonography/) | 2015 | 3D | CT | Colon | 825 | Yes | Cls | Colon Cancer |
-| 96 | [CT-Lymph-Nodes{roth2015a](https://www.cancerimagingarchive.net/collection/ct-lymph-nodes/) | 2015 | 2D/3D | CT | Mediastinum / Abdomen | 176 | Yes | Det/Seg | Lymphadenopathy |
-| 97 | [CC-Radiomics-Phantom{mackin2017data](https://www.cancerimagingarchive.net/collection/cc-radiomics-phantom/) | 2017 | 3D | CT | Phantom | 17 | No | Cls | Lung cancer |
-| 98 | [CC-Radiomics-Phantom-2{hassan2019computed](https://www.cancerimagingarchive.net/collection/cc-radiomics-phantom-2/) | 2019 | 3D | CT | Phantom | 251 | No | - | Phantom study |
-| 99 | [CC-Radiomics-Phantom-3{ger2019data](https://www.cancerimagingarchive.net/collection/cc-radiomics-phantom-3/) | 2019 | 3D | CT | Head/Chest | 275 | Yes | Seg | N/A |
-| 100 | [CC-Tumor Heterogeneity{mayr2023cervical](https://www.cancerimagingarchive.net/collection/cc-tumor-heterogeneity/) | 2023 | 3D | CT/MR/ PET | Cervix | 23 | Yes | Seg/Cls | Cervical cancer |
-| 101 | [TCGA-BLCA{kirk2016blca](https://www.cancerimagingarchive.net/collection/tcga-blca/) | 2014 | 3D | CT/ MR/ PET/ X-RAY | Bladder | 120 | No | Cls | Bladder carcinoma |
-| 102 | [TCGA-COAD{kirk2016coad](https://www.cancerimagingarchive.net/collection/tcga-coad/) | 2014 | 3D | CT | Colon | 25 | No | Cls | Colon cancer |
-| 103 | [TCGA-ESCA{lucchesi2016the](https://www.cancerimagingarchive.net/collection/tcga-esca/) | 2014 | 3D | CT | Esophagus | 16 | No | Cls | Esophageal carcinoma |
-| 104 | [TCGA-GBM{scarpace2016the](https://www.cancerimagingarchive.net/collection/tcga-gbm/) | 2014 | 3D | CT/ DX/ MR | Brain | 575 | No | Cls | Glioblastoma Multiforme |
-| 105 | [TCGA-HNSC{zuley2016the](https://www.cancerimagingarchive.net/collection/tcga-hnsc/) | 2014 | 3D | CT/ MR/ PET | Head and Neck | 479 | No | Cls | Head and Neck Cancer |
-| 106 | [TCGA-KICH{linehan2016the](https://www.cancerimagingarchive.net/collection/tcga-kich/) | 2016 | 3D | CT/MR | Kidney | 15 | No | Cls | Kidney cancer |
-| 107 | [TCGA-KIRC{akin2016the](https://www.cancerimagingarchive.net/collection/tcga-kirc/) | 2016 | 3D | CR/CT/MR | Kidney | 2654 | Yes | Cls | Kidney cancer |
-| 108 | [TCGA-KIRC-Radiogenomics{shinagare2015radiogenomics](https://www.cancerimagingarchive.net/analysis-result/tcga-kirc-radiogenomics/) | 2015 | 3D | CT/MR | Kidney | 103 | Yes | Cls | Renal cell carcinoma |
-| 109 | [TCGA-KIRP{linehan2016the](https://www.cancerimagingarchive.net/collection/tcga-kirp/) | 2014 | 3D | CT/ MR/ PET | Kidney | 33 | No | Cls | Kidney cancer |
-| 110 | [TCGA-LGG{bakas2017advancing](https://www.cancerimagingarchive.net/collection/tcga-lgg/) | 2014 | 3D | CT/MR | Brain | 199 | Yes | Cls | Lower Grade Glioma |
-| 111 | [TCGA-LIHC{erickson2016the](https://www.cancerimagingarchive.net/collection/tcga-lihc/) | 2014 | 2D/3D | CT/MR/ PET | Liver | 97 | No | Cls | Liver cancer |
-| 112 | [TCGA-LUAD{albertina2016the](https://www.cancerimagingarchive.net/collection/tcga-luad/) | 2016 | 3D | CT/ NM/ PT | Lung | 69 | No | Cls | Lung cancer |
-| 113 | [TCGA-LUSC{kirk2016lusc](https://www.cancerimagingarchive.net/collection/tcga-lusc/) | 2016 | 3D | CT/ PET | Lung | 37 | No | Cls | Lung cancer |
-| 114 | [TCGA-OV{holback2016the](https://www.cancerimagingarchive.net/collection/tcga-ov/) | 2016 | 3D | CT/ MR/ OT | Ovary | 143 | No | Cls | Ovarian cancer |
-| 115 | [TCGA-OV-Radiogenomics{vargas2017radiogenomics](https://www.cancerimagingarchive.net/analysis-result/tcga-ov-radiogenomics/) | 2016 | 3D | CT | Ovary | 93 | Yes | Cls | Ovarian cancer |
-| 116 | [TCGA-OV-Proteogenomics{beer2019data](https://doi.org/10.7937/TCIA.2019.9stoinf1) | 2020 | 3D | CT | Ovary | 20 | No | Seg | Ovarian cancer |
-| 117 | [TCGA-PRAD{zuley2016the](https://www.cancerimagingarchive.net/collection/tcga-prad/) | 2015 | 3D | CT/MR/PET | Prostate | 14 | No | Cls | Prostate cancer |
-| 118 | [TCGA-READ{kirk2016read](https://www.cancerimagingarchive.net/collection/tcga-read/) | 2014 | 3D | CT/MR | Rectum | 3 | No | Cls | Rectum adenocarcinoma |
-| 119 | [TCGA-SARC{roche2016the](https://www.cancerimagingarchive.net/collection/tcga-sarc/) | 2014 | 3D | CT/MR | Chest/ Abdomen/ Leg/ Spine | 33 | No | Cls | Sarcoma |
-| 120 | [TCGA-UCEC{erickson2016the](https://www.cancerimagingarchive.net/collection/tcga-ucec/) | 2020 | 3D | CT/ MR/ PET/ X-RAY | Uterus | 65 | No | Cls | Uterine cancer |
-| 121 | [CPTAC-CCRCC{cptac2018the](https://www.cancerimagingarchive.net/collection/cptac-ccrcc/) | 2018 | 2D/ 3D | CT/ MICROSCOPY/ MR | Kidney | 262 | Yes | Cls | Renal cell carcinoma |
-| 122 | [CPTAC-CM{cptac2018the](https://www.cancerimagingarchive.net/collection/cptac-cm/) | 2018 | 2D/ 3D | CT/ MR/ PT | Skin | 95 | No | Cls/ Seg | Cutaneous Melanoma |
-| 123 | [CPTAC-GBM{cptac2018the](https://www.cancerimagingarchive.net/collection/cptac-gbm/) | 2018 | 2D/ 3D | CT/ MICROSCOPY/ MR | Brain | 200 | No | Cls | Glioblastoma |
-| 124 | [CPTAC-HNSCC{cptac2018the](https://www.cancerimagingarchive.net/collection/cptac-hnscc/) | 2018 | 3D | CT/MR/WSI | Head and Neck | 207 | Yes | Cls | Head and Neck Cancer |
-| 125 | [CPTAC-LSCC{cptac2018the](https://www.cancerimagingarchive.net/collection/cptac-lscc/) | 2018 | 2D/3D | CT/ MICROSCOPY/ PET | Lung | 212 | No | Cls | Lung cancer |
-| 126 | [CPTAC-LUAD{cptac2018luad](https://www.cancerimagingarchive.net/collection/cptac-luad/) | 2018 | 2D/ 3D | CT/ MR/ PET | Lung | 244 | No | Cls | Lung cancer |
-| 127 | [CPTAC-PDA{cptac2018pda](https://www.cancerimagingarchive.net/collection/cptac-pda/) | 2018 | 3D | CT/ MR/ PET/ US | Pancreas | 168 | No | Cls | Pancreatic cancer |
-| 128 | [CPTAC-SAR{cptac2019the](https://www.cancerimagingarchive.net/collection/cptac-sar/) | 2019 | 2D/ 3D | CT/ MR/ PET/ US | Abdomen/ Arm/ Bladder/ Chest/ Head–Neck/ Kidney/ Leg/... | 88 | No | Cls | Sarcomas |
-| 129 | [CPTAC-UCEC{cptac2019the](https://www.cancerimagingarchive.net/collection/cptac-ucec/) | 2019 | 2D/ 3D | CT/ MR/ PET/ US | Uterus | 250 | No | Cls | Endometrial Carcinoma |
-| 130 | [NSCLC-Radiomics{aerts2014decoding](https://www.cancerimagingarchive.net/collection/nsclc-radiomics/) | 2014 | 3D | CT | Lung | 422 | Yes | Seg/Cls | Lung cancer |
-| 131 | [NSCLC-Radiomics-Genomics{aerts2014decoding](https://www.cancerimagingarchive.net/collection/nsclc-radiomics-genomics/) | 2014 | 3D | CT | Lung | 89 | Yes | Cls | Lung cancer |
-| 132 | [NSCLC-Radiogenomics{bakr2018a](https://www.cancerimagingarchive.net/collection/nsclc-radiogenomics/) | 2015 | 3D | CT/ PET | Chest | 211 | Yes | Seg/ Cls | Lung cancer |
-| 133 | [NSCLC-Cetuximab (RTOG-0617){bradley2018data](https://www.cancerimagingarchive.net/collection/nsclc-cetuximab/) | 2018 | 3D | CT | Chest | 490 | No | Cls | Lung cancer |
-| 134 | [NSCLC-Radiomics-Interobserver1{wee2019data](https://www.cancerimagingarchive.net/collection/nsclc-radiomics-interobserver1/) | 2019 | 3D | CT | Lung | 22 | Yes | Seg | Lung cancer |
-| 135 | [CMB-CRC{biobank2022cancer](https://doi.org/10.7937/DJG7-GZ87) | 2022 | 2D/3D | CT/ MR/ PET/ US/ WSI | Colon | 12 | No | Cls | Colorectal Cancer |
-| 136 | [CMB-GEC{biobank2022cancer](https://www.cancerimagingarchive.net/collection/cmb-gec/) | 2022 | 2D/3D | CT/ MICROSCOPY/ MR/ PET | Esophagus | 17 | No | Seg/Cls | Gastroesophageal Cancer |
-| 137 | [CMB-LCA{biobank2022cancer](https://www.cancerimagingarchive.net/collection/cmb-lca/) | 2022 | 2D/3D | CT/ DX/ MR/ NM/ PT/ US | Lung | 16 | No | Cls | Lung cancer |
-| 138 | [CMB-MEL{biobank2022cancer](https://doi.org/10.7937/GWSP-WH72) | 2022 | 2D/ 3D | CT/ PET/ US/ WSI | Skin | 40 | No | Cls | Melanoma |
-| 139 | [CMB-MML{biobank2022cancer](https://www.cancerimagingarchive.net/collection/cmb-mml/) | 2022 | 2D/3D | CR/ CT/ DX/ HISTOPATHOLOGY/ MR/ PET/ XA | Blood/Bone | 138 | No | Cls | Multiple Myeloma |
-| 140 | [CMB-PCA{biobank2022cancer](https://www.cancerimagingarchive.net/collection/cmb-pca/) | 2022 | 2D/3D | CT/ DX/ MR/ NM/ PET/ RF | Prostate | 50 | No | Cls | Prostate cancer |
-| 141 | [Crowds-Cure-2017{kalpathycramer2019crowds](https://www.cancerimagingarchive.net/analysis-result/crowds-cure-2017/) | 2017 | 3D | CT | Lung, Kidney, Liver, Ovary | 352 | Yes | Seg/Det | Cancer |
-| 142 | [Crowds-Cure-2018{urban2019crowds](https://www.cancerimagingarchive.net/analysis-result/crowds-cure-2018/) | 2019 | 3D | CT | Bladder/ Brain/ Colon/ Head-Neck/ Kidney/ Lung/ Pancr | 324 | Yes | Det/Reg | Metastatic diseases |
-| 143 | [QIN-Breast{li2015multiparametric](https://www.cancerimagingarchive.net/collection/qin-breast/) | 2015 | 3D | CT/ MR/ PET | Breast | 68 | Yes | Cls | Breast cancer |
-| 144 | [QIN-HEADNECK{fedorov2016dicom](https://www.cancerimagingarchive.net/collection/qin-headneck/) | 2015 | 3D | CT/ PET | Head and Neck | 279 | Yes | Seg | Head and neck carcinomas |
-| 145 | [QIN LUNG CT{goldgof2015data](https://www.cancerimagingarchive.net/collection/qin-lung-ct/) | 2015 | 3D | CT | Lung | 47 | No | Cls | Lung cancer |
-| 146 | [QIN-LungCT-Seg{kalpathycramer2015multisite](https://www.cancerimagingarchive.net/analysis-result/qin-lungct-seg/) | 2015 | 3D | CT | Chest | 31 | Yes | Seg | Lung cancer |
-| 147 | [QIBA CT-1C{fenimore2016data](https://www.cancerimagingarchive.net/collection/qiba-ct-1c/) | 2011 | 3D | CT | Phantom | 1 | Yes | Seg | N/A |
-| 148 | [QIBA-VolCT-1B{mcnittgray2020qiba](https://www.cancerimagingarchive.net/analysis-result/qiba-volct-1b/) | 2020 | 3D | CT | Lung | 40 | Yes | Seg | Lung cancer |
-| 149 | [QIBA-CT-Liver-Phantom{zhao2021qiba](https://www.cancerimagingarchive.net/collection/qiba-ct-liver-phantom/) | 2021 | 3D | CT | Liver | 684 | No | Seg/Det | Liver pathology |
-| 150 | [Multi-Modality Vertebra Recognition{cai2015multimodality](http://spineweb.digitalimaginggroup.ca/dataset.php) | 2015 | 2D/3D | CT/MR | Spine | 0 | Yes | Loc/Reg/Rec | Spine diseases |
-| 151 | [xVertSeg{korez2015xvertseg](http://lit.fe.uni-lj.si/xVertSeg/) | 2016 | 3D | CT | Lumbar vertebrae | 25 | Yes | Seg/Cls | Vertebral fractures |
-| 152 | [Computational Methods and Clinical Applications for Spine Imaging{vrtovec2016computational](http://csi-workshop.weebly.com/challenges.html) | 2015 | 3D | CT | Spine | 312 | Yes | Seg/Loc | Spinal diseases |
-| 153 | [ACNS0332{hwang2021chemotherapy](https://doi.org/10.7937/TCIA.582B-XZ89) | 2021 | 3D | CT/MR | Brain/Spine | 85 | Yes | Seg | Brain cancer |
-| 154 | [AHEP0731{katzenstein2021riskbased](https://www.cancerimagingarchive.net/collection/ahep0731/) | 2021 | 3D | CT/ MR/ PET/ US/ XA | Liver/ Chest | 190 | No | Seg/ Cls | Liver Cancer |
-| 155 | [Anti-PD-1 Lung{patnana2019data](https://www.cancerimagingarchive.net/collection/anti-pd-1_lung/) | 2019 | 3D | CT/ PET/ SC | Lung | 46 | No | Cls | Lung cancer |
-| 156 | [Anti-PD-1 Immunotherapy Melanoma{patnana2019antipd](https://www.cancerimagingarchive.net/collection/anti-pd-1_melanoma/) | 2019 | 3D | CT/ MR/ PT | Skin | 47 | No | Cls | Melanoma |
-| 157 | [BREAST-DIAGNOSIS{bloch2015breastdiagnosis](https://www.cancerimagingarchive.net/collection/breast-diagnosis/) | 2011 | 2D/ 3D | CT/ MG/ MR/ PT | Breast | 88 | Yes | Cls | Breast cancer |
-| 158 | [CALGB50303{bartlett2020rituximab](https://www.cancerimagingarchive.net/collection/calgb50303/) | 2021 | 3D | CT/ PET | Chest/ Abdomen/ Pelvis | 155 | Yes | Cls | Diffuse Large B-Cell Lymphoma |
-| 159 | [ELCAP Public Lung Image Database{reeves2009a](http://www.via.cornell.edu/lungdb.html) | 2003 | 3D | CT | Lung | 50 | Yes | Det | Lung nodules |
-| 160 | [GLIS-RT{shusharina2020crossmodality](https://www.cancerimagingarchive.net/collection/glis-rt/) | 2021 | 2D/3D | CT/MR | Brain | 230 | Yes | Seg/Reg | Brain tumors |
-| 161 | [HEAR-EU{gerber2017a](https://doi.org/10.1038/sdata.2017.132) | 2017 | 3D | CT | Cochlea | 80 | Yes | Seg | Sensorineural hearing loss |
-| 162 | [Head-Neck Cetuximab (RTOG 0522){ang2014randomized](https://www.cancerimagingarchive.net/collection/head-neck-cetuximab/) | 2013 | 3D | CT/ PET | Head and Neck | 111 | No | Cls | Head and Neck Carcinomas |
-| 163 | [Head-Neck-PET-CT{vallires2017radiomics](https://wiki.cancerimagingarchive.net/display/Public/Head-Neck-PET-CT) | 2017 | 3D | CT/ PET | Head and Neck | 298 | Yes | Seg/ Cls | Head and Neck Cancer |
-| 164 | [Head-Neck-Radiomics-HN1{aerts2014decoding](https://www.cancerimagingarchive.net/collection/head-neck-radiomics-hn1/) | 2019 | 3D | CT/ PET | Head/ Neck | 137 | Yes | Seg | Head and Neck Cancer |
-| 165 | [LCTSC{yang2018autosegmentation](https://www.cancerimagingarchive.net/collection/lctsc/) | 2017 | 3D | CT | Lung | 60 | Yes | Seg | Lung cancer |
-| 166 | [LDCT-and-Projection-data{moen2021lowdose](https://www.cancerimagingarchive.net/collection/ldct-and-projection-data/) | 2020 | 3D | CT | Head, Chest, Abdomen | 299 | Yes | Rec | Various pathologies |
-| 167 | [LIDC-IDRI{iii2011the](https://www.cancerimagingarchive.net/collection/lidc-idri/) | 2011 | 3D | CT | Lung | 1018 | Yes | Seg/Det | Lung cancer |
-| 168 | [Lung-PET-CT-Dx{li2020a](https://www.cancerimagingarchive.net/collection/lung-pet-ct-dx/) | 2020 | 3D | CT/ PET | Lung | 355 | Yes | Cls/ Det | Lung cancer |
-| 169 | [LungCT-Diagnosis{grove2015quantitative](https://www.cancerimagingarchive.net/collection/lungct-diagnosis/) | 2014 | 3D | CT | Lung | 61 | Yes | Cls | Lung cancer |
-| 170 | [National Lung Screening Trial (NLST){team2013data](https://www.cancerimagingarchive.net/collection/nlst/) | 2013 | 3D | CT/ MICROSCOPY | Chest | 26254 | Yes | Cls | Lung cancer |
-| 171 | [OPC-Radiomics{kwan2018radiomic](https://www.cancerimagingarchive.net/collection/opc-radiomics/) | 2020 | 3D | CT | Head and Neck | 606 | Yes | Seg/Cls | Oropharyngeal Carcinoma |
-| 172 | [Parkinson{'](https://www.ppmi-info.org/access-data-specimens/download-data) | 2010 | 3D | MR/ PET/ SPECT | Brain | 683 | Yes | Cls | Parkinson's Disease |
-| 173 | [Pediatric-CT-SEG{jordan2022pediatric](https://www.cancerimagingarchive.net/collection/pediatric-ct-seg/) | 2021 | 3D | CT | Chest/ Abdomen/ Pelvis | 359 | Yes | Seg | Non-cancer pediatric exams |
-| 174 | [Public Lung Database To Address Drug Response{reeves2009a](http://www.via.cornell.edu/crpf.html) | 2009 | 3D | CT | Lung | 93 | Yes | Seg/Det | Lung cancer |
-| 175 | [QIDW{latour2015quantitative](https://qidw.rsna.org/) | 2015 | 3D | CT/ MR/ PET/ US | Lung | 52000 | No | Cls | Quality assurance |
-| 176 | [RIDER Lung PET-CT{muzi2015data](https://www.cancerimagingarchive.net/collection/rider-lung-pet-ct/) | 2015 | 3D | CT/ PET | Lung | 243 | No | Cls | Lung cancer |
-| 177 | [SMIR Full Body CT{kistler2013the](https://www.smir.ch/objects/214315) | 2013 | 3D | CT | Skeleton | 50 | No | Seg | - |
-| 178 | [SPIE-AAPM Lung CT Challenge{armatoiii2015spieaapmnci](https://www.cancerimagingarchive.net/collection/spie-aapm-lung-ct-challenge/) | 2015 | 3D | CT | Lung | 70 | Yes | Cls | Lung cancer |
-| 179 | [Vestibular-Schwannoma-SEG{shapey2021segmentation](https://www.cancerimagingarchive.net/collection/vestibular-schwannoma-seg/) | 2021 | 3D | MR/ RTDOSE/ RTPLAN/ RTSTRUCT | Brain | 242 | Yes | Seg | Vestibular schwannoma |
-| 180 | [MM-WHS{zhuang2019evaluation](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mmwhs/) | 2017 | 3D | CT/MR | Heart | 120 | Yes | Seg | Cardiac conditions |
-| 181 | [Soft-tissue-Sarcoma{vallieres2015a](https://www.cancerimagingarchive.net/collection/soft-tissue-sarcoma/) | 2015 | 3D | CT/ MR/ PET | Extremities | 51 | Yes | Seg/Cls | Soft-tissue sarcoma |
-| 182 | [Seg Soft Tissue{tianchi2021softtissue](https://tianchi.aliyun.com/dataset/dataDetail?dataId=89694) | 2021 | 3D | CT/MR/PET | Soft tissue | 51 | Yes | Seg | Soft-tissue sarcomas (preprocessed) |
-| 183 | [Left Atrial Wall Thickness Challenge{karim2018algorithms](https://www.cardiacatlas.org/challenges/left-atrial-wall-thickness-challenge/) | 2016 | 3D | CT/MR | Heart | 20 | Yes | Seg | Atrial Fibrillation |
-| 184 | [MELA22{song2022mediastinal](https://mela.grand-challenge.org/) | 2022 | 3D | CT | Mediastinum | 1100 | Yes | Det | Mediastinal lesions |
-| 185 | [Head and Neck Auto Segmentation Challenge{raudaschl2017evaluation](http://www.imagenglab.com/wiki/mediawiki/index.php?title=2015_MICCAI_Challenge) | 2015 | 3D | CT | Brainstem, Mandible, Chiasm, Optic Nerves, Paro... | 48 | Yes | Seg | Head and Neck Neoplasms |
-| 186 | [RSNA STR Pulmonary Embolism Detection{colak2021the](https://www.kaggle.com/competitions/rsna-str-pulmonary-embolism-detection) | 2020 | 3D | CT | Lung | 12195 | Yes | Cls/Det | Pulmonary embolism |
-| 187 | [KNIGHT{heller2021nehellerknight](https://research.ibm.com/haifa/Workshops/KNIGHT/) | 2021 | 3D | CT | Kidney | 400 | Yes | Cls | Renal cancer |
-| 188 | [Data Science Bowl 2017{kuan2017deep](https://www.kaggle.com/c/data-science-bowl-2017) | 2017 | 3D | CT | Lungs | 2101 | Yes | Cls | Lung cancer |
-| 189 | [OSIC Pulmonary Fibrosis Progression{consortium2020osic](https://www.kaggle.com/competitions/osic-pulmonary-fibrosis-progression) | 2020 | 3D | CT | Lung | 200 | Yes | Reg | Pulmonary fibrosis |
-| 190 | [The Visible Human Project{banvard2002the](https://www.nlm.nih.gov/research/visible/visible_human.html) | 1994 | 2D/3D | CT/MR | Full Body | 2 | No | Atlas | Anatomical reference |
-| 191 | [ABCs{shusharina2020anatomical](https://abcs.mgh.harvard.edu/index.php/data/data-description) | 2020 | 3D | CT/MR | Brain | 75 | Yes | Seg | Glioma |
-| 192 | [MATCH{mueller2021the](https://www.aapm.org/GrandChallenge/MATCH/) | 2021 | 2D/3D | CT/X-RAY | Lung | 9 | Yes | Loc/Trk | Lung cancer |
-| 193 | [CTVIE19{kipritidis2019the](https://www.aapm.org/GrandChallenge/CTVIE/default.asp) | 2019 | 3D | CT | Lung | 64 | Yes | Seg | Lung cancer |
-| 194 | [ImageCLEFtuberculosis 2018{dicentecid2018overview](https://www.imageclef.org/2018/tuberculosis) | 2018 | 3D | CT | Chest | 1513 | Yes | Cls | Tuberculosis |
-| 195 | [ImageCLEF 2017 Tuberculosis{dicentecid2017overview](https://www.imageclef.org/2017/tuberculosis) | 2017 | 3D | CT | Chest | 944 | Yes | Cls | Tuberculosis |
-| 196 | [fastPET-LD{green2021fastpetld](https://fastpet-ld.grand-challenge.org/) | 2021 | 3D | CT/ PET | Whole Body | 68 | Yes | Det | Oncologic Imaging |
-| 197 | [Low Dose CT{moen2020lowdose](https://www.aapm.org/GrandChallenge/LowDoseCT/) | 2016 | 3D | CT | Liver | 30 | Yes | Det | Liver lesions |
-| 198 | [LUMIC{grob2019accuracy](https://lumic.grand-challenge.org/) | 2018 | 3D | CT | Lung | 13 | Yes | Reg/Seg | Pulmonary perfusion defects |
-| 199 | [CAD-PE{name2020cadpe](https://arxiv.org/abs/2003.13440) | 2013 | 3D | CT | Liver | 91 | Yes | Seg | Pulmonary Embolism |
-| 200 | [ANODE09{vanginneken2010comparing](https://anode09.grand-challenge.org/) | 2009 | 3D | CT | Lung | 55 | Yes | Det | Lung cancer |
-| 201 | [VESSEL12{rudyanto2014comparing](https://vessel12.grand-challenge.org/) | 2012 | 3D | CT | Lung | 20 | Yes | Seg | Respiratory diseases |
-| 202 | [RIDER Lung CT{zhao2015coffeebreak](https://www.cancerimagingarchive.net/collection/rider-lung-ct/) | 2015 | 3D | CT | Lung | 32 | Yes | Seg | Lung cancer |
-| 203 | [OpenKBP{babier2021openkbp](https://www.aapm.org/GrandChallenge/OpenKBP/) | 2020 | 3D | CT | Head and Neck | 340 | Yes | Reg | Head and Neck Cancer |
-| 204 | [CT-vs-PET-Ventilation-Imaging{eslick2022ct](https://www.cancerimagingarchive.net/collection/ct-vs-pet-ventilation-imaging/) | 2022 | 3D | CT/ PET | Lung | 20 | No | Cls | Lung cancer |
-| 205 | [HCC-TACE-Seg{moawad2021multimodality](https://www.cancerimagingarchive.net/collection/hcc-tace-seg/) | 2021 | 3D | CT | Liver | 105 | Yes | Seg | Liver cancer |
-| 206 | [MOOD 2022-abdominal{zimmerer2022medical](http://medicalood.dkfz.de/web/) | 2022 | 3D | CT | Abdomen | 550 | Yes | Seg/Cls | Anomalies |
-| 207 | [StageII-Colorectal-CT{tong2022abdominal](https://www.cancerimagingarchive.net/collection/stageii-colorectal-ct/) | 2022 | 3D | CT | Abdomen | 230 | No | Cls | Colorectal cancer |
-| 208 | [Pseudo-PHI-DICOM-Data{rutherford2021a](https://www.cancerimagingarchive.net/collection/pseudo-phi-dicom-data/) | 2021 | 2D/3D | CT/MR/PET/X-RAY | Various | 21 | No | Reg | Various cancers |
-| 209 | [4D-Lung{hugo2017a](https://www.cancerimagingarchive.net/collection/4d-lung/) | 2016 | 3D | CT | Lung | 20 | Yes | Seg | Lung cancer |
-| 210 | [Lung Phantom{zhao2015lung](https://www.cancerimagingarchive.net/collection/lung-phantom/) | 2015 | 3D | CT | Thorax | 1 | No | Seg | Synthetic lung nodules |
-| 211 | [NaF PROSTATE{kurdziel2015data](https://www.cancerimagingarchive.net/collection/naf-prostate/) | 2013 | 3D | CT/ PET | Prostate | 9 | No | Cls | Prostate cancer |
-| 212 | [EndoVis 2022 - P2ILF 3D-CT{ali2022preoperative](https://p2ilf.grand-challenge.org/Data/) | 2022 | 3D | CT/ENDOSCOPY | Liver | 15 | Yes | Seg | Liver Tumor |
-| 213 | [Finding and Measuring Lungs in CT Data{mader2019finding](https://www.kaggle.com/datasets/kmader/finding-lungs-in-ct-data) | 2019 | 2D/3D | CT | Lungs | 538 | Yes | Seg | Lung diseases |
-| 214 | [SynthRAD2023{thummerer2023synthrad](https://synthrad2023.grand-challenge.org/) | 2023 | 3D | CT/MR | Brain, Pelvis | 1080 | Yes | Syn | Oncological |
-| 215 | [IACTA-EST2023{giancardo2023the](https://lgiancauth.github.io/iacta-est-2023/) | 2023 | 3D | CT | Brain | 402 | Yes | Cls | Acute Ischemic Stroke |
-| 216 | [ISBI2023 challenge - APIS{apis2023isbi](https://bivl2ab.uis.edu.co/challenges/apis) | 2023 | 3D | CT | Brain | 96 | Yes | Seg | N/A |
-| 217 | [AUTO-RTP{gooding2024fully](https://auto-rtp.grand-challenge.org/) | 2022 | 3D | CT | Prostate, Seminal Vesicles, Pelvic Lymph Nodes | 10 | Yes | Seg | Prostate cancer |
-| 218 | [Subsolid Nodules{lassen2015robust](https://subsolidnodules.grand-challenge.org/) | 2025 | 3D | CT | Lung | 59 | Yes | Seg | Lung cancer |
-| 219 | [DICOM-LIDC-IDRI-Nodules{fedorov2020dicom](https://www.cancerimagingarchive.net/analysis-result/dicom-lidc-idri-nodules/) | 2018 | 3D | CT | Lung | 875 | Yes | Seg | Lung cancer |
-| 220 | [Burdenko-GBM-Progression{zolotova2023burdenkos](https://www.cancerimagingarchive.net/collection/burdenko-gbm-progression/) | 2023 | 3D | CT/MR | Brain | 180 | Yes | Seg/Cls | Glioblastoma |
-| 221 | [PDMR-833975-119-R{tatum2020imaging](https://doi.org/10.7937/TCIA.0ECK-C338) | 2020 | 3D | CT/MR/PET | Pancreas | 20 | No | Cls | Pancreatic adenocarcinoma |
-| 222 | [APOLLO-5-LSCC{apollo2021lscc](https://doi.org/10.7937/TCIA.QQ0G-EB24) | 2021 | 3D | CT/PET | Lung | 36 | Yes | Seg | Lung squamous cell carcinoma |
-| 223 | [APOLLO-5-LUAD{apollo2021luad](https://doi.org/10.7937/BDM9-4623) | 2021 | 3D | CT | Lung | 5 | Yes | Seg | Lung adenocarcinoma |
-| 224 | [APOLLO-5-ESCA{apollo2021esca](https://doi.org/10.7937/n69a-7a26) | 2021 | 3D | CT | Esophagus | 4 | Yes | Seg | Esophageal squamous cell carcinoma |
-| 225 | [APOLLO-5-PAAD{apollo2021paad](https://doi.org/10.7937/tcia.1yeg-5740) | 2021 | 3D | CT | Pancreas | 1 | Yes | Seg | Pancreatic adenocarcinoma |
-| 226 | [APOLLO-5-THYM{apollo2021thym](https://doi.org/10.7937/tcia.0pg4-nh82) | 2021 | 3D | CT | Thymus | 4 | Yes | Seg | Thymoma |
-| 227 | [Lung-Fused-CT-Pathology{madabhushi2018fused](https://www.cancerimagingarchive.net/collection/lung-fused-ct-pathology/) | 2018 | 2D/3D | CT/MICROSCOPY | Lung | 6 | Yes | Seg | Lung cancer |
-| 228 | [LUAD-CT-Survival{institute2017long](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=24284406) | 2017 | 3D | CT | Lung (Thorax) | 40 | Yes | Seg | Lung Adenocarcinoma |
-| 229 | [ARAR0331{rodriguezgalindo2022radiation](https://www.cancerimagingarchive.net/collection/arar0331/) | 2022 | 3D | CT/MR/ PET | Head | 108 | Yes | Seg | Nasopharyngeal cancer |
-| 230 | [GammaKnife-Hippocampal{porter2022gamma](https://www.cancerimagingarchive.net/collection/gammaknife-hippocampal/) | 2022 | 3D | CT/ MR/ RTSTRUCT | Hippocampus | 390 | Yes | Seg | Brain conditions |
-| 231 | [A091105{gounder2023sorafenib](https://www.cancerimagingarchive.net/collection/a091105/) | 2023 | 3D | CT/MR | Soft tissue | 83 | No | Seg | Desmoid tumors |
-| 232 | [Colorectal-Liver-Metastases{simpson2024preoperative](https://www.cancerimagingarchive.net/collection/colorectal-liver-metastases/) | 2023 | 3D | CT/SEG | Liver | 197 | Yes | Seg | Colorectal cancer liver metastases |
-| 233 | [Head-Neck-CT-Atlas{grossberg2017data](https://doi.org/10.7937/K9/TCIA.2017.umz8dv6s) | 2017 | 3D | CT/ MR/ PET | Head/Neck | 215 | Yes | Seg | Head and neck cancer |
-| 234 | [NRG-1308 (RTOG 1308){giaddui2016data](https://www.cancerimagingarchive.net/collection/nrg-1308/) | 2015 | 3D | CT | Lung | 12 | Yes | Seg | Lung cancer |
-| 235 | [Phantom FDA{gavrielides2015data](https://www.cancerimagingarchive.net/collection/phantom-fda/) | 2015 | 3D | CT | Lungs | 7 | No | Reg | Lung cancer |
-| 236 | [CTpred-Sunitinib-panNET{chen2023prediction](https://www.cancerimagingarchive.net/collection/ctpred-sunitinib-pannet/) | 2022 | 3D | CT | Pancreas | 38 | Yes | Cls | Pancreatic neuroendocrine tumors |
-| 237 | [CALGB50303-Tumor-Annotations{rozenfeld2023annotations](https://www.cancerimagingarchive.net/analysis-result/calgb50303-tumor-annotations/) | 2023 | 3D | CT/ PET | Lymphatic system | 155 | Yes | Seg/ Cls | Diffuse Large B-Cell Lymphoma |
-| 238 | [RIDER-LungCT-Seg{wee2020rider](https://www.cancerimagingarchive.net/analysis-result/rider-lungct-seg/) | 2020 | 3D | CT | Lung | 31 | Yes | Seg | Lung cancer |
-| 239 | [Radiomic-Feature-Standards{mcnittgray2020standardization](https://www.cancerimagingarchive.net/analysis-result/radiomic-feature-standards/) | 2020 | 3D | CT | Chest | 13 | Yes | Seg | Lung cancer |
-| 240 | [PleThora{kiser2020plethora](https://www.cancerimagingarchive.net/analysis-result/plethora/) | 2020 | 3D | CT | Thoracic | 402 | Yes | Seg | Lung cancer |
-| 241 | [MRI-DIR{ger2018synthetic](https://www.cancerimagingarchive.net/collection/mri-dir/) | 2018 | 3D | CT/MR | Head-Neck | 9 | No | Reg | Head and Neck Cancer |
-| 242 | [Ivy Glioblastoma Atlas Project (IvyGAP){puchalski2018an](https://www.cancerimagingarchive.net/collection/ivygap/) | 2016 | 3D | CT/MR | Brain | 39 | Yes | Seg/Cls | Glioblastoma |
-| 243 | [RIDER Pilot{lidc2023rider](https://www.cancerimagingarchive.net/collection/rider-pilot/) | 2023 | 2D/3D | CR/CT/DX | Lung | 8 | No | Cls | Lung cancer |
-| 244 | [RADCURE{welch2024radcure](https://www.cancerimagingarchive.net/collection/radcure/) | 2024 | 3D | CT | Head and Neck | 3346 | Yes | Seg | Head and Neck Cancer |
-| 245 | [Adrenal-ACC-Ki67-Seg{moawad2023voxellevel](https://www.cancerimagingarchive.net/collection/adrenal-acc-ki67-seg/) | 2023 | 3D | CT | Adrenal | 53 | Yes | Seg | Adrenocortical carcinoma |
-| 246 | [Prostate-Anatomical-Edge-Cases{kanwar2023stresstesting](https://www.cancerimagingarchive.net/collection/prostate-anatomical-edge-cases/) | 2023 | 3D | CT | Prostate, Rectum, Bladder, Femoral Heads | 131 | Yes | Seg | Prostate Cancer |
-| 247 | [3D-IRCADb{ircad2010dircadb](https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/) | 2010 | 3D | CT | Liver | 20 | Yes | Seg | Liver tumors |
-| 248 | [SEG.A. 2023{unknown2024segmentation](https://multicenteraorta.grand-challenge.org/) | 2023 | 3D | CT | Aorta | 56 | Yes | Seg | Aortic diseases |
-| 249 | [P2ILF{ali2025an](https://p2ilf.grand-challenge.org/) | 2022 | 2D/3D | CT/MR | Liver | 186 | Yes | Seg/Reg | Liver cancer |
-| 250 | [SynthStrip{hoopes2022synthstrip](https://w3id.org/synthstrip) | 2022 | 2D/3D | CT/MR/PET | Brain | 622 | Yes | Seg | Glioblastoma |
-| 251 | [MOOD{zimmerer2022mood](https://www.synapse.org/Synapse:syn21343101/wiki/599515) | 2024 | 3D | CT/MR | Brain/Abdomen | 1358 | Yes | Det/Loc | Incidental pathologies |
-| 252 | [PENGWIN2024-Task1{sang2025benchmark](https://pengwin.grand-challenge.org/) | 2024 | 3D | CT | Pelvis | 150 | Yes | Seg | Pelvic fractures |
-| 253 | [TriALS2024-Task1{huang2024triphasicaided](https://github.com/xmed-lab/TriALS) | 2024 | 3D | CT | Liver | 201 | Yes | Seg | Liver tumors |
-| 254 | [TriALS2024-Task2{elbatel2024triphasicaided](https://doi.org/10.5281/zenodo.10992127) | 2024 | 3D | CT | Liver | 240 | Yes | Seg | Hepatocellular carcinoma |
-| 255 | [National Lung Screening Trial (NLST) 2D-Pathology{team2013data](https://www.cancerimagingarchive.net/collection/nlst/) | 2013 | 2D/3D | CT/ MICROSCOPY | Chest | 451 | Yes | Cls | Lung cancer |
-| 256 | [QUBIQ2021 3D CT{li2024qubiq](https://qubiq21.grand-challenge.org/QUBIQ2021/) | 2021 | 3D | CT | Pancreas | 118 | Yes | Seg | Pancreatic lesions |
-| 257 | [orCaScore{wolterink2016an](https://orcascore.grand-challenge.org/) | 2014 | 3D | CT | Heart | 72 | Yes | Det/Seg | Cardiovascular diseases |
-| 258 | [INSPECT{huang2023inspect](https://som-shahlab.github.io/inspect-website/) | 2023 | 3D | CT | Lungs | 23248 | Yes | Cls | Pulmonary embolism |
-| 259 | [BIMCV-R{chen2024bimcvr](https://huggingface.co/datasets/cyd0806/BIMCV-R) | 2024 | 2D/3D | CT | Thoracic | 8069 | Yes | Rec | Multiple diseases |
-| 260 | [Mandibular-CT-Dataset{wallner2019computed](https://figshare.com/articles/dataset/Mandibular_CT_Dataset_Collection/6167726/5) | 2018 | 3D | CT | Mandible | 10 | Yes | Seg | N/A |
-| 261 | [Semi-TeethSeg{wang2023semisupervised](https://zenodo.org/record/7840021) | 2023 | 2D/3D | CT/X-RAY | Teeth | 38000 | Yes | Seg | Dental issues |
+| 1 | [TotalSegmentator](https://totalsegmentator.com/) | 2022 | 3D | CT | Full Body | 1204 | Yes | Seg | Varied pathologies |
+| 2 | [AutoPET](https://autopet.grand-challenge.org/) | 2022 | 3D | CT/PET | Whole-body | 1014 | Yes | Seg | Cancer |
+| 3 | [AutoPET II](https://autopet-ii.grand-challenge.org/) | 2023 | 3D | CT/ PET | Whole-body | 1219 | Yes | Seg | Cancer |
+| 4 | [ULS23](https://uls23.grand-challenge.org/uls23/) | 2023 | 3D | CT | Chest, Abdomen, Pelvis | 39468 | Yes | Seg | Oncological lesions |
+| 5 | [DeepLesion](https://nihcc.app.box.com/v/DeepLesion) | 2018 | 2D/3D | CT | Bone, Abdomen, Mediastinum, Liver, Lung, Kidney... | 32735 | Yes | Det | Various lesions |
+| 6 | [CT-ORG](https://www.cancerimagingarchive.net/collection/ct-org/) | 2019 | 3D | CT | Bladder, Bone, Brain, Kidney, Liver, Lung | 140 | Yes | Seg | Liver lesions, Metastatic disease |
+| 7 | [SegTHOR](https://competitions.codalab.org/competitions/21145) | 2019 | 3D | CT | Heart, Aorta, Trachea, Esophagus | 60 | Yes | Seg | Lung cancer |
+| 8 | [AbdomenAtlas](https://www.zongweiz.com/dataset) | 2024 | 3D | CT | Abdomen | 20460 | Yes | Seg | Multi-organ |
+| 9 | [CT-RATE](https://huggingface.co/datasets/ibrahimhamamci/CT-RATE) | 2024 | 3D | CT | Chest | 50188 | Yes | Cls | Chest abnormalities |
+| 10 | [M3D](https://github.com/BAAI-DCAI/M3D) | 2024 | 3D | CT/MR | Whole-body | 120000 | Yes | Seg/Rec/Reg/Loc | Multiple pathologies |
+| 11 | [AMOS22](https://amos22.grand-challenge.org/) | 2022 | 3D | CT/MR | Abdomen | 600 | Yes | Seg | Multi-disease |
+| 12 | [AMOS-MM](https://doi.org/10.5281/zenodo.10992155) | 2024 | 3D | CT | Abdomen | 2300 | Yes | syn/Rec | Abdominal diseases |
+| 13 | [FLARE21](https://flare.grand-challenge.org/FLARE21/) | 2021 | 3D | CT | Liver, Kidney, Spleen, Pancreas | 511 | Yes | Seg | Multi-organ |
+| 14 | [FLARE22](https://flare22.grand-challenge.org/) | 2022 | 3D | CT | Abdomen | 2300 | Yes | Seg | Pan-cancer |
+| 15 | [FLARE23](https://codalab.lisn.upsaclay.fr/competitions/12239) | 2023 | 3D | CT | Abdomen | 4500 | Yes | Seg | Pan-cancer |
+| 16 | [WORD](https://github.com/HiLab-git/WORD) | 2021 | 3D | CT | Abdomen | 150 | Yes | Seg | Cancer |
+| 17 | [RAOS](https://github.com/Luoxd1996/RAOS) | 2024 | 3D | CT/MR | Abdomen | 4130 | Yes | Seg | Abdominal cancers |
+| 18 | [SLIVER07](https://sliver07.grand-challenge.org/) | 2007 | 3D | CT | Liver | 30 | Yes | Seg | Liver |
+| 19 | [LiTS](https://competitions.codalab.org/competitions/17094) | 2017 | 3D | CT | Liver | 201 | Yes | Seg | Liver tumors |
+| 20 | [Pancreas-CT](https://www.cancerimagingarchive.net/collection/pancreas-ct/) | 2016 | 3D | CT | Pancreas | 80 | Yes | Seg | Healthy controls |
+| 21 | [CHAOS CT](https://chaos.grand-challenge.org/) | 2019 | 3D | CT | Liver | 40 | Yes | Seg | Healthy subjects |
+| 22 | [CHAOS MRI](https://chaos.grand-challenge.org/) | 2019 | 3D | CT/MR | Abdomen | 160 | Yes | Seg | Healthy |
+| 23 | [KiTS19](https://kits19.grand-challenge.org/) | 2019 | 3D | CT | Kidneys | 300 | Yes | Seg | Kidney cancer |
+| 24 | [KiTS21](https://kits21.kits-challenge.org/) | 2021 | 3D | CT | Kidneys | 400 | Yes | Seg | Kidney diseases |
+| 25 | [KiTS23](https://kits-challenge.org/kits23/) | 2023 | 3D | CT | Kidneys | 599 | Yes | Seg | Kidney cancer |
+| 26 | [KiPA22](https://kipa22.grand-challenge.org/) | 2022 | 3D | CT | Kidney | 130 | Yes | Seg | Renal Cancer |
+| 27 | [AbdomenCT-1K](https://github.com/JunMa11/AbdomenCT-1K) | 2021 | 3D | CT | Abdomen | 1062 | Yes | Seg | Multi-disease cases |
+| 28 | [MSD03-Liver](http://medicaldecathlon.com/) | 2018 | 3D | CT | Liver | 210 | Yes | Seg | Liver cancer |
+| 29 | [MSD06-Lung](http://medicaldecathlon.com/) | 2018 | 3D | CT | Lung | 96 | Yes | Seg | Lung cancer |
+| 30 | [MSD07-Pancreas](http://medicaldecathlon.com/) | 2018 | 3D | CT | Pancreas | 420 | Yes | Seg | Pancreatic masses |
+| 31 | [MSD08-HepaticVessel](http://medicaldecathlon.com/dataaws/) | 2018 | 3D | CT | Liver | 443 | Yes | Seg | Liver tumors |
+| 32 | [MSD09-Spleen](http://medicaldecathlon.com/) | 2018 | 3D | CT | Spleen | 61 | Yes | Seg | N/A |
+| 33 | [MSD10-Colon](http://medicaldecathlon.com/) | 2018 | 3D | CT | Colon | 190 | Yes | Seg | Colorectal Cancer |
+| 34 | [EXACT09](http://image.diku.dk/exact/information.php) | 2009 | 3D | CT | Lung | 40 | Yes | Seg | Lung diseases |
+| 35 | [LOLA11](https://lola11.grand-challenge.org) | 2011 | 3D | CT | Chest | 55 | Yes | Seg | Lung abnormalities |
+| 36 | [LUNA16](https://luna16.grand-challenge.org/) | 2016 | 3D | CT | Lung | 888 | Yes | Det/Cls | Lung cancer |
+| 37 | [ATM'22](https://atm22.grand-challenge.org) | 2022 | 3D | CT | Lung | 500 | Yes | Seg | Pulmonary diseases |
+| 38 | [AIIB23](https://codalab.lisn.upsaclay.fr/competitions/13238) | 2023 | 3D | CT | Airway | 312 | Yes | Seg | Fibrotic lung disease |
+| 39 | [BIMCV COVID-19+](https://bimcv.cipf.es/bimcv-projects/bimcv-covid19/) | 2020 | 2D/ 3D | CT/ X-RAY | Lung | 2428 | Yes | Seg/ Cls/ Loc | COVID-19 pneumonia |
+| 40 | [COVID-19-AR](https://www.cancerimagingarchive.net/collection/covid-19-ar/) | 2020 | 2D/ 3D | CT/ X-RAY | Chest | 105 | Yes | Cls | COVID-19 |
+| 41 | [CT Images in COVID-19](https://www.cancerimagingarchive.net/collection/ct-images-in-covid-19/) | 2020 | 3D | CT | Chest | 771 | No | Cls | COVID-19 pneumonia |
+| 42 | [Chest CT Scans with COVID-19](https://www.kaggle.com/datasets/soham1024/chest-ct-scans-with-covid19) | 2020 | 3D | CT | Chest | 20 | Yes | Cls | COVID-19 |
+| 43 | [MIDRC-RICORD-1a](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=133072661) | 2020 | 3D | CT | Chest | 120 | Yes | Seg/Cls | COVID-19 |
+| 44 | [COVID-19-20 Lung CT Lesion Segmentation Challenge](https://covid-segmentation.grand-challenge.org/COVID-19-20/) | 2020 | 3D | CT | Lung | 295 | Yes | Seg | COVID-19 |
+| 45 | [COVID-19-NY-SBU](https://www.cancerimagingarchive.net/collection/covid-19-ny-sbu/) | 2021 | 2D/ 3D | CT/ MR/ PET/ X-RAY | Brain/ Chest | 1384 | No | Cls | COVID-19 |
+| 46 | [COVID19-CT-1000](https://doi.org/10.7910/DVN/6ACUZJ) | 2021 | 2D/ 3D | CT | Lung | 1000 | Yes | Cls | COVID-19 |
+| 47 | [MIDRC-RICORD-1B](https://www.cancerimagingarchive.net/collection/midrc-ricord-1b/) | 2021 | 3D | CT | Chest | 120 | Yes | Cls | COVID-19 negative |
+| 48 | [STOIC2021](https://stoic2021.grand-challenge.org/) | 2021 | 3D | CT | Lung | 10735 | Yes | Cls | COVID-19 |
+| 49 | [COVID-19 CT scans](https://tianchi.aliyun.com/dataset/dataDetail?dataId=90014) | 2021 | 3D | CT | Lung | 20 | Yes | Seg | COVID-19 infection |
+| 50 | [COV19-CT-DB](https://mlearn.lincoln.ac.uk/eccv-2022-ai-mia/) | 2022 | 3D | CT | Chest | 7750 | Yes | Cls | COVID-19 |
+| 51 | [LNQ2023](https://lnq2023.grand-challenge.org/) | 2023 | 3D | CT | Chest | 513 | Yes | Seg | Lymph node metastases |
+| 52 | [Parse2022](https://parse2022.grand-challenge.org/) | 2022 | 3D | CT | Pulmonary artery | 200 | Yes | Seg | Pulmonary hypertension |
+| 53 | [LNDb](https://lndb.grand-challenge.org/) | 2019 | 3D | CT | Lung | 294 | Yes | Cls/Det/Seg | Lung cancer |
+| 54 | [FUMPE](https://www.kaggle.com/andrewmvd/pulmonary-embolism-in-ct-images) | 2018 | 3D | CT | Lung | 35 | Yes | Seg/Det | Pulmonary embolism |
+| 55 | [InSTANCE2022](https://instance.grand-challenge.org/Instance2022/) | 2022 | 3D | CT | Brain | 200 | Yes | Seg | Intracranial Hemorrhage |
+| 56 | [ISLES 2024](https://www.isles-challenge.org/) | 2024 | 3D | CT/MR | Brain | 250 | Yes | Seg | Acute/subacute ischemic stroke |
+| 57 | [HaN-Seg](https://han-seg2023.grand-challenge.org/) | 2023 | 3D | CT/MR | Head and Neck | 42 | Yes | Seg | Head and Neck Cancer |
+| 58 | [SegRap2023](https://segrap2023.grand-challenge.org/) | 2023 | 3D | CT | Head, Neck | 400 | Yes | Seg | Nasopharyngeal carcinoma |
+| 59 | [PDDCA](https://www.imagenglab.com/newsite/pddca/) | 2015 | 3D | CT | Brainstem, Mandible, Optic nerves, Chiasm, Paro... | 48 | Yes | Seg | Head and neck cancer |
+| 60 | [StructSeg2019 Task 1](https://structseg2019.grand-challenge.org/) | 2019 | 3D | CT | Head and Neck | 60 | Yes | Seg | Head and Neck Cancer |
+| 61 | [StructSeg2019 Task 2](https://structseg2019.grand-challenge.org/) | 2019 | 3D | CT | Head and Neck | 60 | Yes | Seg | Nasopharyngeal carcinoma |
+| 62 | [StructSeg2019 Task 3](https://structseg2019.grand-challenge.org/) | 2019 | 3D | CT | Chest | 60 | Yes | Seg | Lung cancer |
+| 63 | [StructSeg2019 Task 4](https://structseg2019.grand-challenge.org/) | 2019 | 3D | CT | Lung | 60 | Yes | Seg | Lung cancer |
+| 64 | [Learn2Reg Lung CT](https://learn2reg.grand-challenge.org/) | 2020 | 3D | CT | Thorax | 30 | Yes | Reg | Respiratory motion |
+| 65 | [Learn2Reg NLST](https://learn2reg.grand-challenge.org/) | 2022 | 3D | CT | Thorax | 420 | Yes | Reg | Lung cancer |
+| 66 | [Learn2Reg Abdomen CT-CT](https://learn2reg.grand-challenge.org/) | 2020 | 3D | CT | Abdomen | 50 | Yes | Reg | Multi-organ |
+| 67 | [Learn2Reg Abdomen MR-CT](https://learn2reg.grand-challenge.org/) | 2021 | 3D | CT/MRI | Abdomen | 122 | Yes | Reg | Multi-modal |
+| 68 | [Continuous Registration](https://continuousregistration.grand-challenge.org/home/) | 2019 | 3D | CT/MR | Lung/Brain | 142 | Yes | Reg | Respiratory motion/COPD |
+| 69 | [Continuous Registration DIRLAB](https://continuousregistration.grand-challenge.org/data/) | 2018 | 3D | CT | Lungs | 20 | Yes | Reg/lmk | Respiratory-induced motion |
+| 70 | [Continuous Registration EMPIRE](https://empire10.grand-challenge.org/) | 2010 | 3D | CT | Lungs | 60 | Yes | Reg | Lung conditions |
+| 71 | [HECKTOR 2020](https://www.aicrowd.com/challenges/miccai-2020-hecktor) | 2020 | 3D | CT/ PET | Head and Neck | 254 | Yes | Seg | Head and Neck Cancer |
+| 72 | [HECKTOR 2021](https://www.aicrowd.com/challenges/miccai-2021-hecktor) | 2021 | 3D | CT/ PET | Head and Neck | 325 | Yes | Seg/ Reg | Head and Neck Cancer |
+| 73 | [HECKTOR 2022](https://www.aicrowd.com/challenges/miccai-2022-hecktor) | 2022 | 3D | CT/ PET | Head and Neck | 883 | Yes | Seg/ Reg | Head and Neck Cancer |
+| 74 | [VerSe19](https://verse2019.grand-challenge.org/) | 2019 | 3D | CT | Spine | 160 | Yes | Seg/Lab | Spine diseases |
+| 75 | [VerSe20](https://verse2020.grand-challenge.org/) | 2020 | 3D | CT | Spine | 300 | Yes | Seg/Lab | Spine diseases |
+| 76 | [CTSpine1K](https://github.com/MIRACLE-Center/CTSpine1K) | 2021 | 3D | CT | Spine | 1005 | Yes | Seg | Spine diseases |
+| 77 | [CTPelvic1K](https://github.com/MIRACLE-Center/CTPelvic1K) | 2020 | 3D | CT | Pelvic | 1184 | Yes | Seg | Pelvic bone conditions |
+| 78 | [RibFrac2020](https://ribfrac.grand-challenge.org/) | 2020 | 3D | CT | Ribs | 660 | Yes | Seg/Cls/Det | Rib fractures |
+| 79 | [BTCV Abdomen](https://www.synapse.org/\#!Synapse:syn3193805/wiki/217752) | 2015 | 3D | CT | Abdomen | 50 | Yes | Seg | N/A |
+| 80 | [BTCV Cervical](https://www.synapse.org/\#!Synapse:syn3193805/wiki/217752) | 2015 | 3D | CT | Cervix | 50 | Yes | Seg | Cervical cancer |
+| 81 | [ACRIN-HNSCC-FDG-PET-CT (ACRIN 6685)](https://www.cancerimagingarchive.net/collection/acrin-hnscc-fdg-pet-ct/) | 2016 | 3D | CT/MR/NM/PET | Head and Neck | 260 | Yes | Cls | Head and Neck Cancer |
+| 82 | [ACRIN-DSC-MR-Brain (ACRIN 6677)](https://www.cancerimagingarchive.net/collection/acrin-dsc-mr-brain/) | 2019 | 2D/3D | CT/MR | Brain | 123 | Yes | Cls | Glioblastoma |
+| 83 | [ACRIN-FLT-Breast (ACRIN 6688)](https://www.cancerimagingarchive.net/collection/acrin-flt-breast/) | 2017 | 3D | CT/ PET | Breast | 83 | Yes | Cls | Breast Cancer |
+| 84 | [ACRIN-FMISO-Brain (ACRIN 6684)](https://www.cancerimagingarchive.net/collection/acrin-fmiso-brain/) | 2016 | 3D | CT/MR/ PET | Brain | 45 | Yes | Seg/Cls | Glioblastoma |
+| 85 | [ACRIN-NSCLC-FDG-PET (ACRIN 6668)](https://www.cancerimagingarchive.net/collection/acrin-nsclc-fdg-pet/) | 2020 | 3D | CT/ PET | Lung | 242 | Yes | Cls | Lung cancer |
+| 86 | [AREN0532](https://www.cancerimagingarchive.net/collection/aren0532/) | 2022 | 2D/3D | CR/ CT/ MR/ PET/ RTIMAGE/ US | Kidney | 544 | No | Cls | Wilms tumor |
+| 87 | [AREN0532-Tumor-Annotations](https://www.cancerimagingarchive.net/analysis-result/aren0532-tumor-annotations/) | 2023 | 3D | CT/MR | Kidney | 543 | Yes | Seg | Wilms' Tumor |
+| 88 | [AREN0533](https://www.cancerimagingarchive.net/collection/aren0533/) | 2022 | 3D | CR/ CT/ MR/ US | Kidney | 294 | No | Cls | Wilms tumor |
+| 89 | [AREN0533-Tumor-Annotations](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=140312904) | 2023 | 3D | CR/ CT/ MR/ US | Kidney | 294 | Yes | Seg | Wilms tumor |
+| 90 | [AREN0534](https://www.cancerimagingarchive.net/collection/aren0534/) | 2021 | 2D/ 3D | CT/ MR/ PET/ US | Kidney | 239 | Yes | Seg | Wilms tumor |
+| 91 | [AHOD0831](https://www.cancerimagingarchive.net/collection/ahod0831/) | 2022 | 2D/3D | CR/ CT/ DX/ MR/ NM/ OT/ PET/ SC/ XA | Lymphatic | 165 | Yes | Seg | Hodgkin Lymphoma |
+| 92 | [AHOD0831-Tumor-Annotations](https://doi.org/10.7937/4QAD-4280) | 2023 | 3D | CT/ PET | Lymph nodes, spleen, salivary glands, Waldeyer'... | 165 | Yes | Seg | Hodgkin Lymphoma |
+| 93 | [HNSCC-3DCT-RT](https://www.cancerimagingarchive.net/collection/hnscc-3dct-rt/) | 2018 | 3D | CT | Head and Neck | 31 | Yes | Seg | Head and Neck Cancer |
+| 94 | [HNSCC](https://www.cancerimagingarchive.net/collection/hnscc/) | 2020 | 3D | CT/MR/PET | Head and Neck | 627 | Yes | Seg | Head and Neck Cancer |
+| 95 | [CT COLONOGRAPHY](https://www.cancerimagingarchive.net/collection/ct-colonography/) | 2015 | 3D | CT | Colon | 825 | Yes | Cls | Colon Cancer |
+| 96 | [CT-Lymph-Nodes](https://www.cancerimagingarchive.net/collection/ct-lymph-nodes/) | 2015 | 2D/3D | CT | Mediastinum / Abdomen | 176 | Yes | Det/Seg | Lymphadenopathy |
+| 97 | [CC-Radiomics-Phantom](https://www.cancerimagingarchive.net/collection/cc-radiomics-phantom/) | 2017 | 3D | CT | Phantom | 17 | No | Cls | Lung cancer |
+| 98 | [CC-Radiomics-Phantom-2](https://www.cancerimagingarchive.net/collection/cc-radiomics-phantom-2/) | 2019 | 3D | CT | Phantom | 251 | No | - | Phantom study |
+| 99 | [CC-Radiomics-Phantom-3](https://www.cancerimagingarchive.net/collection/cc-radiomics-phantom-3/) | 2019 | 3D | CT | Head/Chest | 275 | Yes | Seg | N/A |
+| 100 | [CC-Tumor Heterogeneity](https://www.cancerimagingarchive.net/collection/cc-tumor-heterogeneity/) | 2023 | 3D | CT/MR/ PET | Cervix | 23 | Yes | Seg/Cls | Cervical cancer |
+| 101 | [TCGA-BLCA](https://www.cancerimagingarchive.net/collection/tcga-blca/) | 2014 | 3D | CT/ MR/ PET/ X-RAY | Bladder | 120 | No | Cls | Bladder carcinoma |
+| 102 | [TCGA-COAD](https://www.cancerimagingarchive.net/collection/tcga-coad/) | 2014 | 3D | CT | Colon | 25 | No | Cls | Colon cancer |
+| 103 | [TCGA-ESCA](https://www.cancerimagingarchive.net/collection/tcga-esca/) | 2014 | 3D | CT | Esophagus | 16 | No | Cls | Esophageal carcinoma |
+| 104 | [TCGA-GBM](https://www.cancerimagingarchive.net/collection/tcga-gbm/) | 2014 | 3D | CT/ DX/ MR | Brain | 575 | No | Cls | Glioblastoma Multiforme |
+| 105 | [TCGA-HNSC](https://www.cancerimagingarchive.net/collection/tcga-hnsc/) | 2014 | 3D | CT/ MR/ PET | Head and Neck | 479 | No | Cls | Head and Neck Cancer |
+| 106 | [TCGA-KICH](https://www.cancerimagingarchive.net/collection/tcga-kich/) | 2016 | 3D | CT/MR | Kidney | 15 | No | Cls | Kidney cancer |
+| 107 | [TCGA-KIRC](https://www.cancerimagingarchive.net/collection/tcga-kirc/) | 2016 | 3D | CR/CT/MR | Kidney | 2654 | Yes | Cls | Kidney cancer |
+| 108 | [TCGA-KIRC-Radiogenomics](https://www.cancerimagingarchive.net/analysis-result/tcga-kirc-radiogenomics/) | 2015 | 3D | CT/MR | Kidney | 103 | Yes | Cls | Renal cell carcinoma |
+| 109 | [TCGA-KIRP](https://www.cancerimagingarchive.net/collection/tcga-kirp/) | 2014 | 3D | CT/ MR/ PET | Kidney | 33 | No | Cls | Kidney cancer |
+| 110 | [TCGA-LGG](https://www.cancerimagingarchive.net/collection/tcga-lgg/) | 2014 | 3D | CT/MR | Brain | 199 | Yes | Cls | Lower Grade Glioma |
+| 111 | [TCGA-LIHC](https://www.cancerimagingarchive.net/collection/tcga-lihc/) | 2014 | 2D/3D | CT/MR/ PET | Liver | 97 | No | Cls | Liver cancer |
+| 112 | [TCGA-LUAD](https://www.cancerimagingarchive.net/collection/tcga-luad/) | 2016 | 3D | CT/ NM/ PT | Lung | 69 | No | Cls | Lung cancer |
+| 113 | [TCGA-LUSC](https://www.cancerimagingarchive.net/collection/tcga-lusc/) | 2016 | 3D | CT/ PET | Lung | 37 | No | Cls | Lung cancer |
+| 114 | [TCGA-OV](https://www.cancerimagingarchive.net/collection/tcga-ov/) | 2016 | 3D | CT/ MR/ OT | Ovary | 143 | No | Cls | Ovarian cancer |
+| 115 | [TCGA-OV-Radiogenomics](https://www.cancerimagingarchive.net/analysis-result/tcga-ov-radiogenomics/) | 2016 | 3D | CT | Ovary | 93 | Yes | Cls | Ovarian cancer |
+| 116 | [TCGA-OV-Proteogenomics](https://doi.org/10.7937/TCIA.2019.9stoinf1) | 2020 | 3D | CT | Ovary | 20 | No | Seg | Ovarian cancer |
+| 117 | [TCGA-PRAD](https://www.cancerimagingarchive.net/collection/tcga-prad/) | 2015 | 3D | CT/MR/PET | Prostate | 14 | No | Cls | Prostate cancer |
+| 118 | [TCGA-READ](https://www.cancerimagingarchive.net/collection/tcga-read/) | 2014 | 3D | CT/MR | Rectum | 3 | No | Cls | Rectum adenocarcinoma |
+| 119 | [TCGA-SARC](https://www.cancerimagingarchive.net/collection/tcga-sarc/) | 2014 | 3D | CT/MR | Chest/ Abdomen/ Leg/ Spine | 33 | No | Cls | Sarcoma |
+| 120 | [TCGA-UCEC](https://www.cancerimagingarchive.net/collection/tcga-ucec/) | 2020 | 3D | CT/ MR/ PET/ X-RAY | Uterus | 65 | No | Cls | Uterine cancer |
+| 121 | [CPTAC-CCRCC](https://www.cancerimagingarchive.net/collection/cptac-ccrcc/) | 2018 | 2D/ 3D | CT/ MICROSCOPY/ MR | Kidney | 262 | Yes | Cls | Renal cell carcinoma |
+| 122 | [CPTAC-CM](https://www.cancerimagingarchive.net/collection/cptac-cm/) | 2018 | 2D/ 3D | CT/ MR/ PT | Skin | 95 | No | Cls/ Seg | Cutaneous Melanoma |
+| 123 | [CPTAC-GBM](https://www.cancerimagingarchive.net/collection/cptac-gbm/) | 2018 | 2D/ 3D | CT/ MICROSCOPY/ MR | Brain | 200 | No | Cls | Glioblastoma |
+| 124 | [CPTAC-HNSCC](https://www.cancerimagingarchive.net/collection/cptac-hnscc/) | 2018 | 3D | CT/MR/WSI | Head and Neck | 207 | Yes | Cls | Head and Neck Cancer |
+| 125 | [CPTAC-LSCC](https://www.cancerimagingarchive.net/collection/cptac-lscc/) | 2018 | 2D/3D | CT/ MICROSCOPY/ PET | Lung | 212 | No | Cls | Lung cancer |
+| 126 | [CPTAC-LUAD](https://www.cancerimagingarchive.net/collection/cptac-luad/) | 2018 | 2D/ 3D | CT/ MR/ PET | Lung | 244 | No | Cls | Lung cancer |
+| 127 | [CPTAC-PDA](https://www.cancerimagingarchive.net/collection/cptac-pda/) | 2018 | 3D | CT/ MR/ PET/ US | Pancreas | 168 | No | Cls | Pancreatic cancer |
+| 128 | [CPTAC-SAR](https://www.cancerimagingarchive.net/collection/cptac-sar/) | 2019 | 2D/ 3D | CT/ MR/ PET/ US | Abdomen/ Arm/ Bladder/ Chest/ Head–Neck/ Kidney/ Leg/... | 88 | No | Cls | Sarcomas |
+| 129 | [CPTAC-UCEC](https://www.cancerimagingarchive.net/collection/cptac-ucec/) | 2019 | 2D/ 3D | CT/ MR/ PET/ US | Uterus | 250 | No | Cls | Endometrial Carcinoma |
+| 130 | [NSCLC-Radiomics](https://www.cancerimagingarchive.net/collection/nsclc-radiomics/) | 2014 | 3D | CT | Lung | 422 | Yes | Seg/Cls | Lung cancer |
+| 131 | [NSCLC-Radiomics-Genomics](https://www.cancerimagingarchive.net/collection/nsclc-radiomics-genomics/) | 2014 | 3D | CT | Lung | 89 | Yes | Cls | Lung cancer |
+| 132 | [NSCLC-Radiogenomics](https://www.cancerimagingarchive.net/collection/nsclc-radiogenomics/) | 2015 | 3D | CT/ PET | Chest | 211 | Yes | Seg/ Cls | Lung cancer |
+| 133 | [NSCLC-Cetuximab (RTOG-0617)](https://www.cancerimagingarchive.net/collection/nsclc-cetuximab/) | 2018 | 3D | CT | Chest | 490 | No | Cls | Lung cancer |
+| 134 | [NSCLC-Radiomics-Interobserver1](https://www.cancerimagingarchive.net/collection/nsclc-radiomics-interobserver1/) | 2019 | 3D | CT | Lung | 22 | Yes | Seg | Lung cancer |
+| 135 | [CMB-CRC](https://doi.org/10.7937/DJG7-GZ87) | 2022 | 2D/3D | CT/ MR/ PET/ US/ WSI | Colon | 12 | No | Cls | Colorectal Cancer |
+| 136 | [CMB-GEC](https://www.cancerimagingarchive.net/collection/cmb-gec/) | 2022 | 2D/3D | CT/ MICROSCOPY/ MR/ PET | Esophagus | 17 | No | Seg/Cls | Gastroesophageal Cancer |
+| 137 | [CMB-LCA](https://www.cancerimagingarchive.net/collection/cmb-lca/) | 2022 | 2D/3D | CT/ DX/ MR/ NM/ PT/ US | Lung | 16 | No | Cls | Lung cancer |
+| 138 | [CMB-MEL](https://doi.org/10.7937/GWSP-WH72) | 2022 | 2D/ 3D | CT/ PET/ US/ WSI | Skin | 40 | No | Cls | Melanoma |
+| 139 | [CMB-MML](https://www.cancerimagingarchive.net/collection/cmb-mml/) | 2022 | 2D/3D | CR/ CT/ DX/ HISTOPATHOLOGY/ MR/ PET/ XA | Blood/Bone | 138 | No | Cls | Multiple Myeloma |
+| 140 | [CMB-PCA](https://www.cancerimagingarchive.net/collection/cmb-pca/) | 2022 | 2D/3D | CT/ DX/ MR/ NM/ PET/ RF | Prostate | 50 | No | Cls | Prostate cancer |
+| 141 | [Crowds-Cure-2017](https://www.cancerimagingarchive.net/analysis-result/crowds-cure-2017/) | 2017 | 3D | CT | Lung, Kidney, Liver, Ovary | 352 | Yes | Seg/Det | Cancer |
+| 142 | [Crowds-Cure-2018](https://www.cancerimagingarchive.net/analysis-result/crowds-cure-2018/) | 2019 | 3D | CT | Bladder/ Brain/ Colon/ Head-Neck/ Kidney/ Lung/ Pancr | 324 | Yes | Det/Reg | Metastatic diseases |
+| 143 | [QIN-Breast](https://www.cancerimagingarchive.net/collection/qin-breast/) | 2015 | 3D | CT/ MR/ PET | Breast | 68 | Yes | Cls | Breast cancer |
+| 144 | [QIN-HEADNECK](https://www.cancerimagingarchive.net/collection/qin-headneck/) | 2015 | 3D | CT/ PET | Head and Neck | 279 | Yes | Seg | Head and neck carcinomas |
+| 145 | [QIN LUNG CT](https://www.cancerimagingarchive.net/collection/qin-lung-ct/) | 2015 | 3D | CT | Lung | 47 | No | Cls | Lung cancer |
+| 146 | [QIN-LungCT-Seg](https://www.cancerimagingarchive.net/analysis-result/qin-lungct-seg/) | 2015 | 3D | CT | Chest | 31 | Yes | Seg | Lung cancer |
+| 147 | [QIBA CT-1C](https://www.cancerimagingarchive.net/collection/qiba-ct-1c/) | 2011 | 3D | CT | Phantom | 1 | Yes | Seg | N/A |
+| 148 | [QIBA-VolCT-1B](https://www.cancerimagingarchive.net/analysis-result/qiba-volct-1b/) | 2020 | 3D | CT | Lung | 40 | Yes | Seg | Lung cancer |
+| 149 | [QIBA-CT-Liver-Phantom](https://www.cancerimagingarchive.net/collection/qiba-ct-liver-phantom/) | 2021 | 3D | CT | Liver | 684 | No | Seg/Det | Liver pathology |
+| 150 | [Multi-Modality Vertebra Recognition](http://spineweb.digitalimaginggroup.ca/dataset.php) | 2015 | 2D/3D | CT/MR | Spine | 0 | Yes | Loc/Reg/Rec | Spine diseases |
+| 151 | [xVertSeg](http://lit.fe.uni-lj.si/xVertSeg/) | 2016 | 3D | CT | Lumbar vertebrae | 25 | Yes | Seg/Cls | Vertebral fractures |
+| 152 | [Computational Methods and Clinical Applications for Spine Imaging](http://csi-workshop.weebly.com/challenges.html) | 2015 | 3D | CT | Spine | 312 | Yes | Seg/Loc | Spinal diseases |
+| 153 | [ACNS0332](https://doi.org/10.7937/TCIA.582B-XZ89) | 2021 | 3D | CT/MR | Brain/Spine | 85 | Yes | Seg | Brain cancer |
+| 154 | [AHEP0731](https://www.cancerimagingarchive.net/collection/ahep0731/) | 2021 | 3D | CT/ MR/ PET/ US/ XA | Liver/ Chest | 190 | No | Seg/ Cls | Liver Cancer |
+| 155 | [Anti-PD-1 Lung](https://www.cancerimagingarchive.net/collection/anti-pd-1_lung/) | 2019 | 3D | CT/ PET/ SC | Lung | 46 | No | Cls | Lung cancer |
+| 156 | [Anti-PD-1 Immunotherapy Melanoma](https://www.cancerimagingarchive.net/collection/anti-pd-1_melanoma/) | 2019 | 3D | CT/ MR/ PT | Skin | 47 | No | Cls | Melanoma |
+| 157 | [BREAST-DIAGNOSIS](https://www.cancerimagingarchive.net/collection/breast-diagnosis/) | 2011 | 2D/ 3D | CT/ MG/ MR/ PT | Breast | 88 | Yes | Cls | Breast cancer |
+| 158 | [CALGB50303](https://www.cancerimagingarchive.net/collection/calgb50303/) | 2021 | 3D | CT/ PET | Chest/ Abdomen/ Pelvis | 155 | Yes | Cls | Diffuse Large B-Cell Lymphoma |
+| 159 | [ELCAP Public Lung Image Database](http://www.via.cornell.edu/lungdb.html) | 2003 | 3D | CT | Lung | 50 | Yes | Det | Lung nodules |
+| 160 | [GLIS-RT](https://www.cancerimagingarchive.net/collection/glis-rt/) | 2021 | 2D/3D | CT/MR | Brain | 230 | Yes | Seg/Reg | Brain tumors |
+| 161 | [HEAR-EU](https://doi.org/10.1038/sdata.2017.132) | 2017 | 3D | CT | Cochlea | 80 | Yes | Seg | Sensorineural hearing loss |
+| 162 | [Head-Neck Cetuximab (RTOG 0522)](https://www.cancerimagingarchive.net/collection/head-neck-cetuximab/) | 2013 | 3D | CT/ PET | Head and Neck | 111 | No | Cls | Head and Neck Carcinomas |
+| 163 | [Head-Neck-PET-CT](https://wiki.cancerimagingarchive.net/display/Public/Head-Neck-PET-CT) | 2017 | 3D | CT/ PET | Head and Neck | 298 | Yes | Seg/ Cls | Head and Neck Cancer |
+| 164 | [Head-Neck-Radiomics-HN1](https://www.cancerimagingarchive.net/collection/head-neck-radiomics-hn1/) | 2019 | 3D | CT/ PET | Head/ Neck | 137 | Yes | Seg | Head and Neck Cancer |
+| 165 | [LCTSC](https://www.cancerimagingarchive.net/collection/lctsc/) | 2017 | 3D | CT | Lung | 60 | Yes | Seg | Lung cancer |
+| 166 | [LDCT-and-Projection-data](https://www.cancerimagingarchive.net/collection/ldct-and-projection-data/) | 2020 | 3D | CT | Head, Chest, Abdomen | 299 | Yes | Rec | Various pathologies |
+| 167 | [LIDC-IDRI](https://www.cancerimagingarchive.net/collection/lidc-idri/) | 2011 | 3D | CT | Lung | 1018 | Yes | Seg/Det | Lung cancer |
+| 168 | [Lung-PET-CT-Dx](https://www.cancerimagingarchive.net/collection/lung-pet-ct-dx/) | 2020 | 3D | CT/ PET | Lung | 355 | Yes | Cls/ Det | Lung cancer |
+| 169 | [LungCT-Diagnosis](https://www.cancerimagingarchive.net/collection/lungct-diagnosis/) | 2014 | 3D | CT | Lung | 61 | Yes | Cls | Lung cancer |
+| 170 | [National Lung Screening Trial (NLST)](https://www.cancerimagingarchive.net/collection/nlst/) | 2013 | 3D | CT/ MICROSCOPY | Chest | 26254 | Yes | Cls | Lung cancer |
+| 171 | [OPC-Radiomics](https://www.cancerimagingarchive.net/collection/opc-radiomics/) | 2020 | 3D | CT | Head and Neck | 606 | Yes | Seg/Cls | Oropharyngeal Carcinoma |
+| 172 | [Parkinson](https://www.ppmi-info.org/access-data-specimens/download-data) | 2010 | 3D | MR/ PET/ SPECT | Brain | 683 | Yes | Cls | Parkinson's Disease |
+| 173 | [Pediatric-CT-SEG](https://www.cancerimagingarchive.net/collection/pediatric-ct-seg/) | 2021 | 3D | CT | Chest/ Abdomen/ Pelvis | 359 | Yes | Seg | Non-cancer pediatric exams |
+| 174 | [Public Lung Database To Address Drug Response](http://www.via.cornell.edu/crpf.html) | 2009 | 3D | CT | Lung | 93 | Yes | Seg/Det | Lung cancer |
+| 175 | [QIDW](https://qidw.rsna.org/) | 2015 | 3D | CT/ MR/ PET/ US | Lung | 52000 | No | Cls | Quality assurance |
+| 176 | [RIDER Lung PET-CT](https://www.cancerimagingarchive.net/collection/rider-lung-pet-ct/) | 2015 | 3D | CT/ PET | Lung | 243 | No | Cls | Lung cancer |
+| 177 | [SMIR Full Body CT](https://www.smir.ch/objects/214315) | 2013 | 3D | CT | Skeleton | 50 | No | Seg | - |
+| 178 | [SPIE-AAPM Lung CT Challenge](https://www.cancerimagingarchive.net/collection/spie-aapm-lung-ct-challenge/) | 2015 | 3D | CT | Lung | 70 | Yes | Cls | Lung cancer |
+| 179 | [Vestibular-Schwannoma-SEG](https://www.cancerimagingarchive.net/collection/vestibular-schwannoma-seg/) | 2021 | 3D | MR/ RTDOSE/ RTPLAN/ RTSTRUCT | Brain | 242 | Yes | Seg | Vestibular schwannoma |
+| 180 | [MM-WHS](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mmwhs/) | 2017 | 3D | CT/MR | Heart | 120 | Yes | Seg | Cardiac conditions |
+| 181 | [Soft-tissue-Sarcoma](https://www.cancerimagingarchive.net/collection/soft-tissue-sarcoma/) | 2015 | 3D | CT/ MR/ PET | Extremities | 51 | Yes | Seg/Cls | Soft-tissue sarcoma |
+| 182 | [Seg Soft Tissue](https://tianchi.aliyun.com/dataset/dataDetail?dataId=89694) | 2021 | 3D | CT/MR/PET | Soft tissue | 51 | Yes | Seg | Soft-tissue sarcomas (preprocessed) |
+| 183 | [Left Atrial Wall Thickness Challenge](https://www.cardiacatlas.org/challenges/left-atrial-wall-thickness-challenge/) | 2016 | 3D | CT/MR | Heart | 20 | Yes | Seg | Atrial Fibrillation |
+| 184 | [MELA22](https://mela.grand-challenge.org/) | 2022 | 3D | CT | Mediastinum | 1100 | Yes | Det | Mediastinal lesions |
+| 185 | [Head and Neck Auto Segmentation Challenge](http://www.imagenglab.com/wiki/mediawiki/index.php?title=2015_MICCAI_Challenge) | 2015 | 3D | CT | Brainstem, Mandible, Chiasm, Optic Nerves, Paro... | 48 | Yes | Seg | Head and Neck Neoplasms |
+| 186 | [RSNA STR Pulmonary Embolism Detection](https://www.kaggle.com/competitions/rsna-str-pulmonary-embolism-detection) | 2020 | 3D | CT | Lung | 12195 | Yes | Cls/Det | Pulmonary embolism |
+| 187 | [KNIGHT](https://research.ibm.com/haifa/Workshops/KNIGHT/) | 2021 | 3D | CT | Kidney | 400 | Yes | Cls | Renal cancer |
+| 188 | [Data Science Bowl 2017](https://www.kaggle.com/c/data-science-bowl-2017) | 2017 | 3D | CT | Lungs | 2101 | Yes | Cls | Lung cancer |
+| 189 | [OSIC Pulmonary Fibrosis Progression](https://www.kaggle.com/competitions/osic-pulmonary-fibrosis-progression) | 2020 | 3D | CT | Lung | 200 | Yes | Reg | Pulmonary fibrosis |
+| 190 | [The Visible Human Project](https://www.nlm.nih.gov/research/visible/visible_human.html) | 1994 | 2D/3D | CT/MR | Full Body | 2 | No | Atlas | Anatomical reference |
+| 191 | [ABCs](https://abcs.mgh.harvard.edu/index.php/data/data-description) | 2020 | 3D | CT/MR | Brain | 75 | Yes | Seg | Glioma |
+| 192 | [MATCH](https://www.aapm.org/GrandChallenge/MATCH/) | 2021 | 2D/3D | CT/X-RAY | Lung | 9 | Yes | Loc/Trk | Lung cancer |
+| 193 | [CTVIE19](https://www.aapm.org/GrandChallenge/CTVIE/default.asp) | 2019 | 3D | CT | Lung | 64 | Yes | Seg | Lung cancer |
+| 194 | [ImageCLEFtuberculosis 2018](https://www.imageclef.org/2018/tuberculosis) | 2018 | 3D | CT | Chest | 1513 | Yes | Cls | Tuberculosis |
+| 195 | [ImageCLEF 2017 Tuberculosis](https://www.imageclef.org/2017/tuberculosis) | 2017 | 3D | CT | Chest | 944 | Yes | Cls | Tuberculosis |
+| 196 | [fastPET-LD](https://fastpet-ld.grand-challenge.org/) | 2021 | 3D | CT/ PET | Whole Body | 68 | Yes | Det | Oncologic Imaging |
+| 197 | [Low Dose CT](https://www.aapm.org/GrandChallenge/LowDoseCT/) | 2016 | 3D | CT | Liver | 30 | Yes | Det | Liver lesions |
+| 198 | [LUMIC](https://lumic.grand-challenge.org/) | 2018 | 3D | CT | Lung | 13 | Yes | Reg/Seg | Pulmonary perfusion defects |
+| 199 | [CAD-PE](https://arxiv.org/abs/2003.13440) | 2013 | 3D | CT | Liver | 91 | Yes | Seg | Pulmonary Embolism |
+| 200 | [ANODE09](https://anode09.grand-challenge.org/) | 2009 | 3D | CT | Lung | 55 | Yes | Det | Lung cancer |
+| 201 | [VESSEL12](https://vessel12.grand-challenge.org/) | 2012 | 3D | CT | Lung | 20 | Yes | Seg | Respiratory diseases |
+| 202 | [RIDER Lung CT](https://www.cancerimagingarchive.net/collection/rider-lung-ct/) | 2015 | 3D | CT | Lung | 32 | Yes | Seg | Lung cancer |
+| 203 | [OpenKBP](https://www.aapm.org/GrandChallenge/OpenKBP/) | 2020 | 3D | CT | Head and Neck | 340 | Yes | Reg | Head and Neck Cancer |
+| 204 | [CT-vs-PET-Ventilation-Imaging](https://www.cancerimagingarchive.net/collection/ct-vs-pet-ventilation-imaging/) | 2022 | 3D | CT/ PET | Lung | 20 | No | Cls | Lung cancer |
+| 205 | [HCC-TACE-Seg](https://www.cancerimagingarchive.net/collection/hcc-tace-seg/) | 2021 | 3D | CT | Liver | 105 | Yes | Seg | Liver cancer |
+| 206 | [MOOD 2022-abdominal](http://medicalood.dkfz.de/web/) | 2022 | 3D | CT | Abdomen | 550 | Yes | Seg/Cls | Anomalies |
+| 207 | [StageII-Colorectal-CT](https://www.cancerimagingarchive.net/collection/stageii-colorectal-ct/) | 2022 | 3D | CT | Abdomen | 230 | No | Cls | Colorectal cancer |
+| 208 | [Pseudo-PHI-DICOM-Data](https://www.cancerimagingarchive.net/collection/pseudo-phi-dicom-data/) | 2021 | 2D/3D | CT/MR/PET/X-RAY | Various | 21 | No | Reg | Various cancers |
+| 209 | [4D-Lung](https://www.cancerimagingarchive.net/collection/4d-lung/) | 2016 | 3D | CT | Lung | 20 | Yes | Seg | Lung cancer |
+| 210 | [Lung Phantom](https://www.cancerimagingarchive.net/collection/lung-phantom/) | 2015 | 3D | CT | Thorax | 1 | No | Seg | Synthetic lung nodules |
+| 211 | [NaF PROSTATE](https://www.cancerimagingarchive.net/collection/naf-prostate/) | 2013 | 3D | CT/ PET | Prostate | 9 | No | Cls | Prostate cancer |
+| 212 | [EndoVis 2022 - P2ILF 3D-CT](https://p2ilf.grand-challenge.org/Data/) | 2022 | 3D | CT/ENDOSCOPY | Liver | 15 | Yes | Seg | Liver Tumor |
+| 213 | [Finding and Measuring Lungs in CT Data](https://www.kaggle.com/datasets/kmader/finding-lungs-in-ct-data) | 2019 | 2D/3D | CT | Lungs | 538 | Yes | Seg | Lung diseases |
+| 214 | [SynthRAD2023](https://synthrad2023.grand-challenge.org/) | 2023 | 3D | CT/MR | Brain, Pelvis | 1080 | Yes | Syn | Oncological |
+| 215 | [IACTA-EST2023](https://lgiancauth.github.io/iacta-est-2023/) | 2023 | 3D | CT | Brain | 402 | Yes | Cls | Acute Ischemic Stroke |
+| 216 | [ISBI2023 challenge - APIS](https://bivl2ab.uis.edu.co/challenges/apis) | 2023 | 3D | CT | Brain | 96 | Yes | Seg | N/A |
+| 217 | [AUTO-RTP](https://auto-rtp.grand-challenge.org/) | 2022 | 3D | CT | Prostate, Seminal Vesicles, Pelvic Lymph Nodes | 10 | Yes | Seg | Prostate cancer |
+| 218 | [Subsolid Nodules](https://subsolidnodules.grand-challenge.org/) | 2025 | 3D | CT | Lung | 59 | Yes | Seg | Lung cancer |
+| 219 | [DICOM-LIDC-IDRI-Nodules](https://www.cancerimagingarchive.net/analysis-result/dicom-lidc-idri-nodules/) | 2018 | 3D | CT | Lung | 875 | Yes | Seg | Lung cancer |
+| 220 | [Burdenko-GBM-Progression](https://www.cancerimagingarchive.net/collection/burdenko-gbm-progression/) | 2023 | 3D | CT/MR | Brain | 180 | Yes | Seg/Cls | Glioblastoma |
+| 221 | [PDMR-833975-119-R](https://doi.org/10.7937/TCIA.0ECK-C338) | 2020 | 3D | CT/MR/PET | Pancreas | 20 | No | Cls | Pancreatic adenocarcinoma |
+| 222 | [APOLLO-5-LSCC](https://doi.org/10.7937/TCIA.QQ0G-EB24) | 2021 | 3D | CT/PET | Lung | 36 | Yes | Seg | Lung squamous cell carcinoma |
+| 223 | [APOLLO-5-LUAD](https://doi.org/10.7937/BDM9-4623) | 2021 | 3D | CT | Lung | 5 | Yes | Seg | Lung adenocarcinoma |
+| 224 | [APOLLO-5-ESCA](https://doi.org/10.7937/n69a-7a26) | 2021 | 3D | CT | Esophagus | 4 | Yes | Seg | Esophageal squamous cell carcinoma |
+| 225 | [APOLLO-5-PAAD](https://doi.org/10.7937/tcia.1yeg-5740) | 2021 | 3D | CT | Pancreas | 1 | Yes | Seg | Pancreatic adenocarcinoma |
+| 226 | [APOLLO-5-THYM](https://doi.org/10.7937/tcia.0pg4-nh82) | 2021 | 3D | CT | Thymus | 4 | Yes | Seg | Thymoma |
+| 227 | [Lung-Fused-CT-Pathology](https://www.cancerimagingarchive.net/collection/lung-fused-ct-pathology/) | 2018 | 2D/3D | CT/MICROSCOPY | Lung | 6 | Yes | Seg | Lung cancer |
+| 228 | [LUAD-CT-Survival](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=24284406) | 2017 | 3D | CT | Lung (Thorax) | 40 | Yes | Seg | Lung Adenocarcinoma |
+| 229 | [ARAR0331](https://www.cancerimagingarchive.net/collection/arar0331/) | 2022 | 3D | CT/MR/ PET | Head | 108 | Yes | Seg | Nasopharyngeal cancer |
+| 230 | [GammaKnife-Hippocampal](https://www.cancerimagingarchive.net/collection/gammaknife-hippocampal/) | 2022 | 3D | CT/ MR/ RTSTRUCT | Hippocampus | 390 | Yes | Seg | Brain conditions |
+| 231 | [A091105](https://www.cancerimagingarchive.net/collection/a091105/) | 2023 | 3D | CT/MR | Soft tissue | 83 | No | Seg | Desmoid tumors |
+| 232 | [Colorectal-Liver-Metastases](https://www.cancerimagingarchive.net/collection/colorectal-liver-metastases/) | 2023 | 3D | CT/SEG | Liver | 197 | Yes | Seg | Colorectal cancer liver metastases |
+| 233 | [Head-Neck-CT-Atlas](https://doi.org/10.7937/K9/TCIA.2017.umz8dv6s) | 2017 | 3D | CT/ MR/ PET | Head/Neck | 215 | Yes | Seg | Head and neck cancer |
+| 234 | [NRG-1308 (RTOG 1308)](https://www.cancerimagingarchive.net/collection/nrg-1308/) | 2015 | 3D | CT | Lung | 12 | Yes | Seg | Lung cancer |
+| 235 | [Phantom FDA](https://www.cancerimagingarchive.net/collection/phantom-fda/) | 2015 | 3D | CT | Lungs | 7 | No | Reg | Lung cancer |
+| 236 | [CTpred-Sunitinib-panNET](https://www.cancerimagingarchive.net/collection/ctpred-sunitinib-pannet/) | 2022 | 3D | CT | Pancreas | 38 | Yes | Cls | Pancreatic neuroendocrine tumors |
+| 237 | [CALGB50303-Tumor-Annotations](https://www.cancerimagingarchive.net/analysis-result/calgb50303-tumor-annotations/) | 2023 | 3D | CT/ PET | Lymphatic system | 155 | Yes | Seg/ Cls | Diffuse Large B-Cell Lymphoma |
+| 238 | [RIDER-LungCT-Seg](https://www.cancerimagingarchive.net/analysis-result/rider-lungct-seg/) | 2020 | 3D | CT | Lung | 31 | Yes | Seg | Lung cancer |
+| 239 | [Radiomic-Feature-Standards](https://www.cancerimagingarchive.net/analysis-result/radiomic-feature-standards/) | 2020 | 3D | CT | Chest | 13 | Yes | Seg | Lung cancer |
+| 240 | [PleThora](https://www.cancerimagingarchive.net/analysis-result/plethora/) | 2020 | 3D | CT | Thoracic | 402 | Yes | Seg | Lung cancer |
+| 241 | [MRI-DIR](https://www.cancerimagingarchive.net/collection/mri-dir/) | 2018 | 3D | CT/MR | Head-Neck | 9 | No | Reg | Head and Neck Cancer |
+| 242 | [Ivy Glioblastoma Atlas Project (IvyGAP)](https://www.cancerimagingarchive.net/collection/ivygap/) | 2016 | 3D | CT/MR | Brain | 39 | Yes | Seg/Cls | Glioblastoma |
+| 243 | [RIDER Pilot](https://www.cancerimagingarchive.net/collection/rider-pilot/) | 2023 | 2D/3D | CR/CT/DX | Lung | 8 | No | Cls | Lung cancer |
+| 244 | [RADCURE](https://www.cancerimagingarchive.net/collection/radcure/) | 2024 | 3D | CT | Head and Neck | 3346 | Yes | Seg | Head and Neck Cancer |
+| 245 | [Adrenal-ACC-Ki67-Seg](https://www.cancerimagingarchive.net/collection/adrenal-acc-ki67-seg/) | 2023 | 3D | CT | Adrenal | 53 | Yes | Seg | Adrenocortical carcinoma |
+| 246 | [Prostate-Anatomical-Edge-Cases](https://www.cancerimagingarchive.net/collection/prostate-anatomical-edge-cases/) | 2023 | 3D | CT | Prostate, Rectum, Bladder, Femoral Heads | 131 | Yes | Seg | Prostate Cancer |
+| 247 | [3D-IRCADb](https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/) | 2010 | 3D | CT | Liver | 20 | Yes | Seg | Liver tumors |
+| 248 | [SEG.A. 2023](https://multicenteraorta.grand-challenge.org/) | 2023 | 3D | CT | Aorta | 56 | Yes | Seg | Aortic diseases |
+| 249 | [P2ILF](https://p2ilf.grand-challenge.org/) | 2022 | 2D/3D | CT/MR | Liver | 186 | Yes | Seg/Reg | Liver cancer |
+| 250 | [SynthStrip](https://w3id.org/synthstrip) | 2022 | 2D/3D | CT/MR/PET | Brain | 622 | Yes | Seg | Glioblastoma |
+| 251 | [MOOD](https://www.synapse.org/Synapse:syn21343101/wiki/599515) | 2024 | 3D | CT/MR | Brain/Abdomen | 1358 | Yes | Det/Loc | Incidental pathologies |
+| 252 | [PENGWIN2024-Task1](https://pengwin.grand-challenge.org/) | 2024 | 3D | CT | Pelvis | 150 | Yes | Seg | Pelvic fractures |
+| 253 | [TriALS2024-Task1](https://github.com/xmed-lab/TriALS) | 2024 | 3D | CT | Liver | 201 | Yes | Seg | Liver tumors |
+| 254 | [TriALS2024-Task2](https://doi.org/10.5281/zenodo.10992127) | 2024 | 3D | CT | Liver | 240 | Yes | Seg | Hepatocellular carcinoma |
+| 255 | [National Lung Screening Trial (NLST) 2D-Pathology](https://www.cancerimagingarchive.net/collection/nlst/) | 2013 | 2D/3D | CT/ MICROSCOPY | Chest | 451 | Yes | Cls | Lung cancer |
+| 256 | [QUBIQ2021 3D CT](https://qubiq21.grand-challenge.org/QUBIQ2021/) | 2021 | 3D | CT | Pancreas | 118 | Yes | Seg | Pancreatic lesions |
+| 257 | [orCaScore](https://orcascore.grand-challenge.org/) | 2014 | 3D | CT | Heart | 72 | Yes | Det/Seg | Cardiovascular diseases |
+| 258 | [INSPECT](https://som-shahlab.github.io/inspect-website/) | 2023 | 3D | CT | Lungs | 23248 | Yes | Cls | Pulmonary embolism |
+| 259 | [BIMCV-R](https://huggingface.co/datasets/cyd0806/BIMCV-R) | 2024 | 2D/3D | CT | Thoracic | 8069 | Yes | Rec | Multiple diseases |
+| 260 | [Mandibular-CT-Dataset](https://figshare.com/articles/dataset/Mandibular_CT_Dataset_Collection/6167726/5) | 2018 | 3D | CT | Mandible | 10 | Yes | Seg | N/A |
+| 261 | [Semi-TeethSeg](https://zenodo.org/record/7840021) | 2023 | 2D/3D | CT/X-RAY | Teeth | 38000 | Yes | Seg | Dental issues |
 
 ### 🧠 3D MR Datasets
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Volumes | Label | Task | Diseases |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | [TotalSegmentator MRI{akincidantonoli2025totalsegmentator](https://zenodo.org/doi/10.5281/zenodo.11367004) | 2024 | 3D | MR | Whole-body | 616 | Yes | Seg | Various pathologies |
-| 2 | [ACDC{bernard2018deep](https://www.creatis.insa-lyon.fr/Challenge/acdc/) | 2017 | 3D | MR | Heart | 150 | Yes | Seg/ Cls | Cardiac conditions |
-| 3 | [M&Ms{campello2021multicentre](https://www.ub.edu/mnms/) | 2020 | 3D | MR | Heart | 375 | Yes | Seg | Cardiac diseases |
-| 4 | [M&Ms-2{camara2021statistical](https://www.ub.edu/mnms-2/) | 2021 | 3D | MR | Heart | 360 | Yes | Seg | Cardiac conditions |
-| 5 | [LAScarQS 2022{li2023left](https://zmiclab.github.io/projects/lascarqs22/) | 2022 | 3D | MR | Heart | 194 | Yes | Seg/Quan | Left atrial scar quantification and segmentation |
-| 6 | [LAScarQS++ 2024{lascarqs2024](https://www.zmic.org.cn/care_2024/track2/) | 2024 | 3D | MR | Heart | 200+ | Yes | Seg/Quan | Multi-center left atrial and scar segmentation |
-| 7 | [MyoPS2020{zhuang2019multivariate](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/MyoPS20/) | 2020 | 3D | MR | Heart | 45 | Yes | Seg | Myocardial infarction |
-| 8 | [MyoPS++ 2024{myops2024](https://www.zmic.org.cn/care_2024/track4/) | 2024 | 3D | MR | Heart | 200+ | Yes | Seg | Multi-center myocardial pathology |
-| 9 | [MM-WHS{zhuang2019evaluation](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mmwhs/) | 2017 | 3D | CT/MR | Heart | 120 | Yes | Seg | Cardiac conditions |
-| 10 | [WHS++ 2024{whs2024](https://www.zmic.org.cn/care_2024/track5/) | 2024 | 3D | CT/MR | Heart | 200+ | Yes | Seg | Multi-center whole heart segmentation |
-| 11 | [CuRIOUS2018-MR FLAIR{xiao2020evaluation](https://curious2018.grand-challenge.org/) | 2018 | 3D | MR/ US | Brain | 33 | Yes | Reg | Brain tumors |
-| 12 | [CuRIOUS2018-US{xiao2019evaluation](https://curious2018.grand-challenge.org/) | 2018 | 3D | MR/ US | Brain | 32 | Yes | Reg | Brain tumors |
-| 13 | [CuRIOUS2018-MR T1W{xiao2019evaluation](https://curious2018.grand-challenge.org/Home/) | 2018 | 3D | MR/ US | Brain | 33 | Yes | Reg | Brain tumor |
-| 14 | [CuRIOUS2019-MR-FLAIR{xiao2017retrospective](https://curious2019.grand-challenge.org/Data/) | 2019 | 3D | MR/ US | Brain | 32 | Yes | Reg | Low-grade gliomas |
-| 15 | [CuRIOUS2019{xiao2019evaluation](https://curious2019.grand-challenge.org/Home/) | 2019 | 3D | MR/ US | Brain | 33 | Yes | Reg | Brain tumor |
-| 16 | [CuRIOUS2019 US{xiao2017retrospective](https://curious2019.grand-challenge.org/Home/) | 2019 | 3D | MR/ US | Brain | 33 | Yes | Reg | Low-grade gliomas |
-| 17 | [CuRIOUS2019-MR T1W{xiao2017retrospective](https://curious2019.grand-challenge.org/) | 2019 | 3D | MR/ US | Brain | 33 | Yes | Reg | Brain tumor |
-| 18 | [CuRIOUS2022{behboodi2024open](https://curious2022.grand-challenge.org/) | 2022 | 3D | MR/ US | Brain | 33 | Yes | Seg | Low-grade gliomas |
-| 19 | [CrossMoDA2021{dorent2023crossmoda](https://crossmoda.grand-challenge.org/CrossMoDA/) | 2021 | 3D | MR | Brain | 347 | Yes | Seg | Vestibular Schwannoma |
-| 20 | [CrossMoDA2022{dorent2023crossmoda](https://crossmoda2022.grand-challenge.org/crossmoda2022/) | 2022 | 3D | MR | Brain | 347 | Yes | Seg/ Cls | Vestibular Schwannoma |
-| 21 | [CrossMoDA2023{dorent2023crossmoda](https://crossmoda-challenge.ml/) | 2023 | 3D | MR | Brain | 544 | Yes | Seg | Vestibular Schwannoma |
-| 22 | [OASIS-1{marcus2007open](https://www.oasis-brains.org) | 2007 | 3D | MR | Brain | 416 | Yes | Seg/ Cls | Alzheimer's Disease |
-| 23 | [OASIS-2{marcus2010open](https://sites.wustl.edu/oasisbrains/home/oasis-2/) | 2010 | 3D | MR | Brain | 1200 | Yes | Cls | Alzheimer's Disease |
-| 24 | [OASIS-3{lamontagne2019oasis](https://www.oasis-brains.org/) | 2019 | 3D | CT/MR/ PET | Brain | 5699 | Yes | Seg/Cls | Alzheimer's Disease |
-| 25 | [Learn2Reg OASIS{hering2021learnreg](https://learn2reg.grand-challenge.org/) | 2020 | 3D | MR | Brain | 416 | Yes | Reg | Alzheimer's Disease |
-| 26 | [Learn2Reg Hippocampus MR{antonelli2022medical](https://learn2reg.grand-challenge.org/) | 2020 | 3D | MR | Brain | 263 | Yes | Reg | Anatomical segmentation |
-| 27 | [Learn2Reg LUMIR{hering2021learnreg](https://learn2reg.grand-challenge.org/) | 2024 | 3D | MR/US | Brain | 269 | Yes | Reg | Multi-modal |
-| 28 | [PROMISE09{unknown2017untitled](https://www.na-mic.org/wiki/2009_prostate_segmentation_challenge_MICCAI) | 2009 | 3D | MR | Prostate | 15 | Yes | Seg | Prostate cancer |
-| 29 | [PROMISE12{litjens2014evaluation](https://promise12.grand-challenge.org/) | 2012 | 3D | MR | Prostate | 50 | Yes | Seg | Prostate cancer |
-| 30 | [Prostate-3T{litjens2015data](https://www.cancerimagingarchive.net/collection/prostate-3t/) | 2013 | 3D | MR | Prostate | 64 | Yes | Seg | Prostate cancer |
-| 31 | [Prostate-Diagnosis{bloch2015data](https://www.cancerimagingarchive.net/collection/prostate-diagnosis/) | 2015 | 3D | MR | Prostate | 92 | Yes | Seg/ Cls | Prostate cancer |
-| 32 | [PROSTATEx{armato2018prostatex](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=163875860) | 2016 | 3D | MR | Prostate | 204 | Yes | Cls | Prostate cancer |
-| 33 | [PROSTATEx-2{litjens2017spieaapm](https://www.aapm.org/GrandChallenge/PROSTATEx-2/) | 2017 | 3D | MR | Prostate | 162 | Yes | Cls | Prostate cancer |
-| 34 | [QIN Breast DCE-MR{huang2014variations](https://www.cancerimagingarchive.net/collection/qin-breast-dce-mri/) | 2014 | 3D | MR | Breast | 10 | Yes | Seg | Breast cancer |
-| 35 | [QIN-SARCOMA{huang2016qinsarcoma](https://www.cancerimagingarchive.net/collection/qin-sarcoma/) | 2014 | 3D | MR | Breast, Calf, Chest, Elbow, Knee, Leg, Shoulder... | 15 | No | Cls | Soft-tissue sarcoma |
-| 36 | [QIN GBM Treatment Response{mamonov2016data](https://www.cancerimagingarchive.net/collection/qin-gbm-treatment-response/) | 2015 | 2D/ 3D | MR | Brain | 54 | No | Cls | Glioblastoma Multiforme |
-| 37 | [QIN-BRAIN-DSC-MR{schmainda2016glioma](https://www.cancerimagingarchive.net/collection/qin-brain-dsc-mri/) | 2016 | 3D | MR | Brain | 49 | Yes | Seg | Glioma |
-| 38 | [QIN-PROSTATE-Repeatability{fedorov2018an](https://www.cancerimagingarchive.net/collection/qin-prostate-repeatability/) | 2018 | 3D | MR | Prostate | 15 | Yes | Seg | Prostate cancer |
-| 39 | [QIN-BREAST-02{yankeelov2019data](https://www.cancerimagingarchive.net/collection/qin-breast-02/) | 2019 | 3D | MR | Breast | 13 | No | Cls | Breast cancer |
-| 40 | [Prostate-MR-US-Biopsy{natarajan2020prostate](https://doi.org/10.7937/TCIA.2020.A61IOC1A) | 2020 | 3D | MR/ US | Prostate | 1151 | Yes | Reg/Seg | Prostate Cancer |
-| 41 | [Prostate MR Segmentation Dataset{liu2020shapeaware](https://liuquande.github.io/SAML/) | 2020 | 3D | MR | Prostate | 116 | Yes | Seg | Prostate cancer |
-| 42 | [PROSTATEx-Seg-Zones{meyer2020prostatex](https://www.cancerimagingarchive.net/analysis-result/prostatex-seg-zones/) | 2020 | 3D | MR | Prostate | 98 | Yes | Seg | Prostate cancer |
-| 43 | [PROSTATEx-Seg-HiRes{meyer2020anisotropic](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=61080779) | 2020 | 3D | MR | Prostate | 66 | Yes | Seg | Prostate cancer |
-| 44 | [PI-CAI{saha2022artificial](https://pi-cai.grand-challenge.org/PI-CAI/) | 2022 | 3D | MR | Prostate | 1500 | Yes | Seg/ Cls | Prostate cancer |
-| 45 | [$$-RegPro2023{baum2023mr](https://muregpro.github.io/) | 2023 | 3D | MR/ US | Prostate | 108 | Yes | Reg/lmk | Prostate cancer |
-| 46 | [SKI10{heimann2010segmentation](https://ski10.grand-challenge.org/Home/) | 2010 | 3D | MR | Bone, Cartilage | 150 | Yes | Seg | Osteoarthritis |
-| 47 | [TADPOLE{marinescu2020predicting](https://tadpole.grand-challenge.org/Home/) | 2017 | 3D | MR/ PET | Brain | 1667 | Yes | Cls/ Reg | Alzheimer's Disease |
-| 48 | [MSSEG-2{commowick2021msseg](https://portal.fli-iam.irisa.fr/msseg-2/data/) | 2021 | 3D | MR | Brain | 100 | Yes | Seg | Multiple sclerosis |
-| 49 | [MSSEG 2016{commowick2021multiple](https://portal.fli-iam.irisa.fr/msseg-challenge/) | 2016 | 2D/ 3D | MR | Brain | 15 | Yes | Seg | Multiple sclerosis |
-| 50 | [MSSEG 2008{styner2008d](http://www.ia.unc.edu/MSseg/index.html) | 2008 | 3D | MR | Brain | 38 | Yes | Seg | Multiple Sclerosis |
-| 51 | [Cam-CAN{taylor2017the](https://camcan-archive.mrc-cbu.cam.ac.uk/dataaccess/) | 2015 | 3D | MEG/ MR | Brain | 3000 | No | Cls | Healthy ageing |
-| 52 | [ISLES 2015{maier2016isles](https://www.isles-challenge.org/ISLES2015/) | 2015 | 3D | MR | Brain | 114 | Yes | Seg | Ischemic stroke |
-| 53 | [ISLES 2016{winzeck2018isles](http://www.isles-challenge.org/ISLES2016/) | 2016 | 3D | MR | Brain | 75 | Yes | Seg | Ischemic stroke |
-| 54 | [ISLES 2017{winzeck2018isles](https://www.isles-challenge.org/ISLES2017/) | 2017 | 3D | MR | Brain | 75 | Yes | Seg | Ischemic stroke |
-| 55 | [ISLES 2018{hakim2021predicting](http://www.isles-challenge.org/ISLES2018/) | 2018 | 3D | MR | Brain | 103 | Yes | Seg | Ischemic stroke |
-| 56 | [ISLES 2022{hernandezpetzsche2022isles](https://isles22.grand-challenge.org/) | 2022 | 3D | MR | Brain | 400 | Yes | Seg | Ischemic stroke |
-| 57 | [ISLES 2024{isles2024](https://www.isles-challenge.org/) | 2024 | 3D | MR | Brain | 250 | Yes | Seg | Acute/subacute ischemic stroke |
-| 58 | [WMH{hugojkuijf2019standardized](https://wmh.isi.uu.nl/) | 2017 | 3D | MR | Brain | 170 | Yes | Seg | White matter hyperintensities |
-| 59 | [BraTS 2012{menze2015the](https://www.smir.ch/BRATS/Start2012) | 2012 | 3D | MR | Brain | 50 | Yes | Seg | Glioma |
-| 60 | [BraTS 2013{menze2015the](https://www.smir.ch/BRATS/Start2013) | 2013 | 3D | MR | Brain | 60 | Yes | Seg | Glioma |
-| 61 | [BraTS 2014{menze2015the](https://www.smir.ch/BRATS/Start2014) | 2014 | 3D | MR | Brain | 238 | Yes | Seg | Glioma |
-| 62 | [BraTS 2015{menze2015the](https://www.smir.ch/BRATS/Start2015) | 2015 | 3D | MR | Brain | 253 | Yes | Seg/Prog | Glioma |
-| 63 | [BraTS 2016{menze2015untitled](https://www.smir.ch/BRATS/Start2016) | 2016 | 3D | MR | Brain | 391 | Yes | Seg/Prog | Glioma |
-| 64 | [BraTS 2017{bakas2017advancing](https://www.med.upenn.edu/sbia/brats2017/data.html) | 2017 | 3D | MR | Brain | 477 | Yes | Seg/Surv | Glioma |
-| 65 | [BraTS 2018{menze2015the](https://www.med.upenn.edu/sbia/brats2018/data.html) | 2018 | 3D | MR | Brain | 542 | Yes | Seg/Surv | Glioma |
-| 66 | [BraTS 2019{menze2015the](https://www.med.upenn.edu/cbica/brats2019/data.html) | 2019 | 3D | MR | Brain | 626 | Yes | Seg/Surv | Glioma |
-| 67 | [BraTS 2020{bakas2020miccai](https://www.med.upenn.edu/cbica/brats2020/data.html) | 2020 | 3D | MR | Brain | 660 | Yes | Seg/Surv | Glioma |
-| 68 | [BraTS 2021{baid2021the](https://www.med.upenn.edu/cbica/brats2021/) | 2021 | 3D | MR | Brain | 2040 | Yes | Seg/MGMT | Glioma |
-| 69 | [BraTS 2022{bakas2017advancing](https://www.synapse.org/\#!Synapse:syn27046444/wiki/616571) | 2022 | 3D | MR | Brain | 1470 | Yes | Seg | Glioma |
-| 70 | [BraTS 2023{bakas2023the](https://www.synapse.org/\#!Synapse:syn51156910/wiki/622351) | 2023 | 3D | MR | Brain | 5880 | Yes | Seg | Glioma |
-| 71 | [MSD01 BrainTumour{antonelli2022medical](http://medicaldecathlon.com/) | 2018 | 3D | MR | Brain | 750 | Yes | Seg | Brain tumor |
-| 72 | [MSD02 Heart{antonelli2022medical](http://medicaldecathlon.com/) | 2018 | 3D | MR | Heart | 30 | Yes | Seg | Cardiac conditions |
-| 73 | [MSD04 Hippocampus{antonelli2022medical](http://medicaldecathlon.com/) | 2018 | 3D | MR | Hippocampus | 394 | Yes | Seg | Anatomical segmentation |
-| 74 | [MSD05 Prostate{antonelli2022medical](http://medicaldecathlon.com/) | 2018 | 3D | MR | Prostate | 48 | Yes | Seg | Prostate cancer |
-| 75 | [FeTA 2021{payette2021an](https://feta-2021.grand-challenge.org/) | 2021 | 3D | MR | Brain | 50 | Yes | Seg | Congenital Disorders |
-| 76 | [FeTA 2022{payette2022fetal](https://feta.grand-challenge.org/feta-2022/) | 2022 | 3D | MR | Brain | 80 | Yes | Seg | Neurodevelopment disorders |
-| 77 | [fastMR{zbontar2018fastmri](https://fastmri.med.nyu.edu/) | 2020 | 2D/ 3D | MR | Brain/ Knee/ Prostate/ Breast | 1594 | No | Rec | Multi-organ |
-| 78 | [High Anisotropy MR{neubert2013automatic](http://spineweb.digitalimaginggroup.ca/dataset.php) | 2013 | 3D | MR | Spine | 17 | No | Rec | Spine conditions |
-| 79 | [1000 Functional Connectomes Project{biswal2010toward](http://fcon_1000.projects.nitrc.org/fcpClassic/FcpTable.html) | 2010 | 3D | MR | Brain | 1414 | No | Cls | Adult ADHD |
-| 80 | [Language Processing Children{wang2022a](https://openneuro.org/datasets/ds003604/versions/1.0.6) | 2022 | 3D | MR | Brain | 322 | Yes | Cls | Language impairment |
-| 81 | [ISPY1 (ACRIN 6657){newitt2016multicenter](https://www.cancerimagingarchive.net/collection/ispy1/) | 2016 | 3D | MR | Breast | 847 | Yes | Seg/ Cls | Breast cancer |
-| 82 | [ACRIN-Contralateral-Breast-MR{kinahan2021acrincontralateralbreastmr](https://www.cancerimagingarchive.net/collection/acrin-contralateral-breast-mr/) | 2021 | 3D | CR/MR | Breast | 984 | No | Cls | Breast Cancer |
-| 83 | [ACRIN 6698/I-SPY2 Breast DWI{newitt2021acrin](https://www.cancerimagingarchive.net/collection/acrin-6698/) | 2021 | 3D | MR | Breast | 385 | Yes | Seg/ Cls | Breast cancer |
-| 84 | [ADNI{mueller2005ways](https://adni.loni.usc.edu) | 2017 | 3D | MR/ PET | Brain | 2500 | No | Cls | Alzheimer's Disease |
-| 85 | [ADNIDOD{weiner2017effects](https://ida.loni.usc.edu/login.jsp?project=ADNIDOD) | 2017 | 3D | MR/ PET | Brain | 195 | No | Cls | Alzheimer's Disease |
-| 86 | [ABVIB{rodriguez2019psychometric](https://ida.loni.usc.edu/login.jsp?project=ABVIB) | 2017 | 3D | MR | Brain | 280 | No | Cls | Alzheimer's Disease |
-| 87 | [AIBL{ellis2009the](https://www.aibl.csiro.au/adni/index.html) | 2017 | 3D | MR/ PET | Brain | 278 | Yes | Cls | Alzheimer's Disease |
-| 88 | [AOMIC-ID1000{snoek2021the](https://openneuro.org/datasets/ds003097/versions/1.2.1) | 2021 | 3D | MR | Brain | 928 | No | Reg | Healthy adults |
-| 89 | [BOLD Verb Generation{krishnan2021functional](https://openneuro.org/datasets/ds003145/versions/1.0.2) | 2020 | 4D | MR | Brain | 143 | No | Reg | Developmental language disorder |
-| 90 | [Brain Correlates of Math Development{suarezpellicioni2019a](https://openneuro.org/datasets/ds001486/versions/1.3.1) | 2018 | 3D | MR | Brain | 132 | No | Cls | Developmental disorders |
-| 91 | [Brain Segmentation Testing Protocol{kempton2011a](https://www.nitrc.org/projects/bstp/) | 2011 | 3D | MR | Brain | 312 | Yes | Seg | Alzheimer's Disease |
-| 92 | [BrainMetShare{grvik2020deep](https://stanfordaimi.azurewebsites.net/datasets/ae0182f1-d5b6-451a-8177-d1f39f019962) | 2020 | 3D | MR | Brain | 156 | Yes | Seg | Brain metastases |
-| 93 | [Breast-MR-NACT-Pilot{newitt2016single](https://www.cancerimagingarchive.net/collection/breast-mri-nact-pilot/) | 2016 | 3D | MR | Breast | 64 | Yes | Seg | Breast cancer |
-| 94 | [CAMR Rat Brain MR Data{hsu2020camri](https://openneuro.org/datasets/ds002870/versions/1.0.1) | 2020 | 3D | MR | Brain | 264 | No | Reg | Animal model study |
-| 95 | [Caltech Conte Center{kliemann2022caltech](https://openneuro.org/datasets/ds003798/versions/1.0.5) | 2022 | 3D | MR | Brain | 117 | No | Cls | Healthy |
-| 96 | [Cognitive Training{lee2020cognitive](https://openneuro.org/datasets/ds002843/versions/1.0.1) | 2020 | 3D | MR | Brain | 166 | No | Cls | Cognitive training study |
-| 97 | [Colin 3T/7T High-resolution Atlas{khan2014highresolution](https://www.nitrc.org/projects/colin3t7t/) | 2014 | 3D | MR | Brain | 19 | No | Reg | Brain diseases |
-| 98 | [Concrete Permuted Rule Operations{ito2017cognitive](https://openneuro.org/datasets/ds003701) | 2021 | 3D | MR | Brain | 96 | No | Cls | Cognitive function |
-| 99 | [Cortical Myelin T1w/T2w{baranger2021aberrant](https://openneuro.org/datasets/ds003653/versions/1.0.0) | 2021 | 3D | MR | Brain | 86 | No | Cls | Unipolar depressive disorders |
-| 100 | [Cross-Sectional Multidomain Lexical Processing{lytle2020a](https://openneuro.org/datasets/ds002236/versions/1.1.0) | 2019 | 3D | MR | Brain | 91 | No | Cls | Language processing study |
-| 101 | [Prefrontal Cortex Development{nussenbaum2021developmental](https://openneuro.org/datasets/ds003499/versions/1.0.1) | 2021 | 3D | MR | Brain | 90 | No | Cls | Developmental study |
-| 102 | [Duke-Breast-Cancer-MR{saha2018a](https://www.cancerimagingarchive.net/collection/duke-breast-cancer-mri/) | 2021 | 3D | MR | Breast | 922 | Yes | Seg/ Cls | Invasive breast cancer |
-| 103 | [Dynamic Passive Threat{meyer2019dynamic](https://openneuro.org/datasets/ds002320/versions/1.1.0) | 2019 | 3D | MR | Brain | 295200 | No | Cls | Threat processing study |
-| 104 | [Emotion Regulation Ageing Brain{lloyd2021longitudinal](https://openneuro.org/datasets/ds002620/versions/1.0.0) | 2020 | 3D | MR | Brain | 34 | No | Cls | Normal ageing |
-| 105 | [Resting State Bilinguals{gold2018exploring](https://openneuro.org/datasets/ds001747/versions/1.0.0) | 2019 | 3D | MR | Brain | 823 | No | Cls | Healthy adults |
-| 106 | [Brain Genomics Superstruct Project (GSP){holmes2015brain](https://www.neuroinfo.org/gsp) | 2015 | 3D | MR | Brain | 1570 | No | Seg | Healthy adults |
-| 107 | [Human Connectome Project (HCP){vanessen2013the](https://www.humanconnectome.org/) | 2017 | 3D | MR | Brain | 1206 | No | Cls/Rec | Healthy young adults |
-| 108 | [IXI Dataset{biomedicalimageanalysisgroup2024ixi](http://brain-development.org/ixi-dataset/) | 2024 | 3D | MR | Brain | 600 | No | Reg/Rec | Healthy adults |
-| 109 | [KNOAP2020{hirvasniemi2023the](https://knoap2020.grand-challenge.org/Home/) | 2020 | 2D/ 3D | MR/X-RAY | Knee | 453 | Yes | Cls | Knee Osteoarthritis |
-| 110 | [LGG-1p19qDeletion{erickson2017data](https://www.cancerimagingarchive.net/collection/lgg-1p19qdeletion/) | 2017 | 3D | MR | Brain | 159 | Yes | Seg/ Cls | Low Grade Glioma |
-| 111 | [Lausanne TOF-MRA Aneurysm Cohort{dinoto2022towards](https://openneuro.org/datasets/ds003949) | 2021 | 3D | MR | Brain | 284 | Yes | Det | Brain aneurysm |
-| 112 | [MASiVar{cai2021masivar](https://openneuro.org/datasets/ds003416/versions/2.0.2) | 2021 | 3D | MR | Brain | 319 | No | Trk | Healthy subjects |
-| 113 | [MIRIAD dataset{malone2013miriadpublic](http://miriad.drc.ion.ucl.ac.uk/) | 2013 | 3D | MR | Brain | 708 | No | Reg | Alzheimer's Disease |
-| 114 | [MPI-Leipzig Mind-Brain-Body{babayan2019a](https://openneuro.org/datasets/ds000221/versions/1.0.0) | 2019 | 3D | EEG/MR | Brain | 318 | No | Cls | Healthy cohort |
-| 115 | [Cue Induced Craving MR{tomova2020acute](https://openneuro.org/datasets/ds003242) | 2020 | 3D | MR | Brain | 598 | No | Rec | Normal neurophysiological states |
-| 116 | [Children Adults Animated Film MR{richardson2018development](https://openneuro.org/datasets/ds000228/versions/1.1.0) | 2018 | 3D | MR | Brain | 155 | No | Rec | Developmental study |
-| 117 | [Mouse rest multicentre{grandjean2019common](https://openneuro.org/datasets/ds001720) | 2019 | 3D | MR | Brain | 255 | No | Cls | Healthy mouse model |
-| 118 | [Multi-echo Cambridge{power2018ridding](https://openneuro.org/datasets/ds000258/versions/1.0.0) | 2018 | 3D | MR | Brain | 89 | No | Rec | Healthy neurotypical |
-| 119 | [NARPS{botviniknezer2019fmri](https://openneuro.org/datasets/ds001734) | 2019 | 3D | MR | Brain | 108 | No | Cls | Healthy participants |
-| 120 | [Narratives{nastase2021the](https://openneuro.org/datasets/ds002345) | 2019 | 3D | MR | Brain | 891 | No | Cls | Healthy participants |
-| 121 | [Naturalistic Neuroimaging Database{hanke2021a](https://openneuro.org/datasets/ds002837/versions/2.0.0) | 2021 | 3D | MR | Brain | 86 | No | Cls | Healthy controls |
-| 122 | [Neurocognitive aging data release with behavioral{spreng2022neurocognitive](https://openneuro.org/datasets/ds003592/versions/1.0.10) | 2022 | 3D | MR | Brain | 301 | No | Cls | Healthy cognitive aging |
-| 123 | [PETfrog{larsen2020maturation](https://openneuro.org/datasets/ds002385/versions/1.1.0) | 2020 | 3D | MR/ PET | Brain | 238 | No | Cls | Brain development |
-| 124 | [Pragmatic Language{rasgadotoledo2021a](https://openneuro.org/datasets/ds003481) | 2021 | 3D | MR | Brain | 145 | No | Loc | Pragmatic comprehension deficits |
-| 125 | [REMBRANDT{madhavan2009rembrandt](https://www.cancerimagingarchive.net/collection/rembrandt/) | 2014 | 3D | MR | Brain | 130 | Yes | Seg/ Cls | Gliomas |
-| 126 | [SIMON Dataset{bellec2019structural](https://doi.org/10.15387/fcp_indi.retro.simon) | 2019 | 3D | MR | Brain | 73 | No | Reg | Healthy Control |
-| 127 | [SUDMEX CONN{angelesvaldez2022the](https://openneuro.org/datasets/ds003346) | 2021 | 3D | MR | Brain | 138 | No | Cls | Cocaine use disorder |
-| 128 | [Serum Grey Matter Cortical Thickness{morey2019widespread](https://openneuro.org/datasets/ds002380) | 2020 | 3D | MR | Brain | 143 | No | Reg | Brain morphometry study |
-| 129 | [Speech disfluencies: Neurophysiological aspect in normal population{pechenkova2021speech](https://openneuro.org/datasets/ds003469/versions/1.0.0) | 2021 | 3D | MR | Brain | 81 | No | Cls | Speech disorders |
-| 130 | [T1 Chronotype Sleep Study{zareba2022neuroimaging](https://openneuro.org/datasets/ds003826/versions/3.0.0) | 2021 | 3D | MR | Brain | 136 | No | Cls | Healthy |
-| 131 | [TCGA-GBM-QI-Radiogenomics{gevaert2014glioblastoma](https://www.cancerimagingarchive.net/analysis-result/tcga-gbm-qi-radiogenomics/) | 2014 | 3D | MR | Brain | 55 | Yes | Seg | Glioblastoma |
-| 132 | [TCGA-GBM-Radiogenomics{gevaert2014glioblastoma](https://www.cancerimagingarchive.net/analysis-result/tcga-gbm-radiogenomics/) | 2014 | 3D | MR | Brain | 75 | Yes | Seg | Glioblastoma |
-| 133 | [TCGA-BRCA{lingle2016untitled](https://www.cancerimagingarchive.net/collection/tcga-brca/) | 2014 | 2D/ 3D | MG/MR | Breast | 139 | No | Cls | Breast cancer |
-| 134 | [TCGA-CESC{lucchesi2016the](https://www.cancerimagingarchive.net/collection/tcga-cesc/) | 2014 | 3D | MR | Cervix | 54 | No | Cls | Cervical cancer |
-| 135 | [TCGA-Breast-Radiogenomics{guo2015prediction](https://www.cancerimagingarchive.net/analysis-result/tcga-breast-radiogenomics/) | 2015 | 3D | MR | Breast | 84 | Yes | Seg/ Cls | Breast cancer |
-| 136 | [BraTS-TCGA-GBM{bakas2017advancing](https://www.cancerimagingarchive.net/analysis-result/brats-tcga-gbm/) | 2017 | 3D | MR | Brain | 135 | Yes | Seg | Glioma |
-| 137 | [BraTS-TCGA-LGG{bakas2017advancing](https://www.cancerimagingarchive.net/analysis-result/brats-tcga-lgg/) | 2017 | 3D | MR | Brain | 108 | Yes | Seg | Glioma |
-| 138 | [TCGA-LGG-Mask{bakas2017advancing](https://www.cancerimagingarchive.net/analysis-result/tcga-lgg-mask/) | 2017 | 3D | MR | Brain | 188 | Yes | Seg | Low Grade Glioma |
-| 139 | [Stockholm Sleepy Brain Study{nilsonne2021a](https://openneuro.org/datasets/ds000201/versions/1.0.3) | 2018 | 3D | MR | Brain | 84 | No | Cls | Sleep deprivation |
-| 140 | [Harm Avoidance Gray Matter{schuerbeek2016the](https://openneuro.org/datasets/ds000202/versions/00001) | 2016 | 3D | MR | Brain | 95 | No | Cls | Personality traits |
-| 141 | [Human Voice Areas{pernet2015the](https://openneuro.org/datasets/ds000158/versions/1.0.0) | 2015 | 3D | MR | Brain | 218 | Yes | Cls | Healthy |
-| 142 | [UCLA Consortium for Neuropsychiatric Phenomics LA5c Study{poldrack2016a](https://openneuro.org/datasets/ds000030/versions/1.0.0) | 2016 | 3D | MR | Brain | 273 | No | Cls | Neuropsychiatric Disorders |
-| 143 | [Washington University 120{power2017temporal](https://openneuro.org/datasets/ds000243) | 2017 | 3D | MR | Brain | 120 | No | Rest | Healthy young adults |
-| 144 | [White matter deficits in cocaine use disorder V1.0{tondo2021white](https://openneuro.org/datasets/ds003599/versions/1.0.0) | 2021 | 3D | MR | Brain | 133 | No | Cls | Cocaine Use Disorder |
-| 145 | [Working memory in healthy and schizophrenic individuals{towlson2018brain](https://openneuro.org/datasets/ds000115/versions/00001) | 2016 | 3D | MR | Brain | 99 | No | Cls | Schizophrenia |
-| 146 | [rsfMR comorbidity SmokingandSchizophrenia{liao2018preservation](https://openneuro.org/datasets/ds001461/versions/1.0.3) | 2018 | 3D | MR | Brain | 92 | Yes | Cls | Schizophrenia and nicotine dependence |
-| 147 | [IVDM3Seg{zeng2018evaluation](https://ivdm3seg.weebly.com/) | 2018 | 3D | MR | Intervertebral Discs | 96 | Yes | Seg/Loc | Spine diseases |
-| 148 | [MRNet{bien2018deeplearningassisted](https://stanfordmlgroup.github.io/competitions/mrnet/) | 2018 | 3D | MR | Knee | 1370 | Yes | Cls | Knee MR abnormalities |
-| 149 | [EMIDEC{lalande2020emidec](https://emidec.com/) | 2020 | 3D | MR | Heart | 150 | Yes | Seg/ Cls | Myocardial infarction |
-| 150 | [iSeg2017{wang2019benchmark](https://iseg2017.web.unc.edu/) | 2017 | 3D | MR | Brain | 23 | Yes | Seg | Neurodevelopmental conditions |
-| 151 | [UW-Madison GI Tract Image Segmentation{lee2024dataset](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation) | 2022 | 3D | MR | Stomach, Small Bowel, Large Bowel | 467 | Yes | Seg | Gastrointestinal cancers |
-| 152 | [MUDI2019{pizzolato2020acquiring](http://cmic.cs.ucl.ac.uk/cdmri19/challenge.html) | 2019 | 3D | MR | Brain | 1344 | Yes | Rec | Healthy |
-| 153 | [iSeg-2019{sun2021multisite](https://iseg2019.web.unc.edu/) | 2019 | 3D | MR | Brain | 39 | Yes | Seg | Healthy development |
-| 154 | [Longitudinal Multiple Sclerosis Lesion Segmentation{carass2017longitudinal](https://smart-stats-tools.org/lesion-challenge-2015) | 2015 | 3D | MR | Brain | 82 | Yes | Seg | Multiple sclerosis |
-| 155 | [COSMOS 2022{chen2022carotid](https://vessel-wall-segmentation-2022.grand-challenge.org/) | 2022 | 3D | MR | Carotid Artery | 75 | Yes | Seg | Atherosclerosis |
-| 156 | [cSeg-2022{sun2023selfsupervised](https://tarheels.live/cseg2022/) | 2022 | 3D | MR | Cerebellum | 33 | Yes | Seg | Normal development |
-| 157 | [Brain Tumor Progression Prediction{schmainda2018data](https://www.cancerimagingarchive.net/collection/brain-tumor-progression/) | 2021 | 3D | MR | Brain | 40 | Yes | Cls | Brain cancer |
+| 1 | [TotalSegmentator MRI](https://zenodo.org/doi/10.5281/zenodo.11367004) | 2024 | 3D | MR | Whole-body | 616 | Yes | Seg | Various pathologies |
+| 2 | [ACDC](https://www.creatis.insa-lyon.fr/Challenge/acdc/) | 2017 | 3D | MR | Heart | 150 | Yes | Seg/ Cls | Cardiac conditions |
+| 3 | [M&Ms](https://www.ub.edu/mnms/) | 2020 | 3D | MR | Heart | 375 | Yes | Seg | Cardiac diseases |
+| 4 | [M&Ms-2](https://www.ub.edu/mnms-2/) | 2021 | 3D | MR | Heart | 360 | Yes | Seg | Cardiac conditions |
+| 5 | [LAScarQS 2022](https://zmiclab.github.io/projects/lascarqs22/) | 2022 | 3D | MR | Heart | 194 | Yes | Seg/Quan | Left atrial scar quantification and segmentation |
+| 6 | [LAScarQS++ 2024](https://www.zmic.org.cn/care_2024/track2/) | 2024 | 3D | MR | Heart | 200+ | Yes | Seg/Quan | Multi-center left atrial and scar segmentation |
+| 7 | [MyoPS2020](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/MyoPS20/) | 2020 | 3D | MR | Heart | 45 | Yes | Seg | Myocardial infarction |
+| 8 | [MyoPS++ 2024](https://www.zmic.org.cn/care_2024/track4/) | 2024 | 3D | MR | Heart | 200+ | Yes | Seg | Multi-center myocardial pathology |
+| 9 | [MM-WHS](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mmwhs/) | 2017 | 3D | CT/MR | Heart | 120 | Yes | Seg | Cardiac conditions |
+| 10 | [WHS++ 2024](https://www.zmic.org.cn/care_2024/track5/) | 2024 | 3D | CT/MR | Heart | 200+ | Yes | Seg | Multi-center whole heart segmentation |
+| 11 | [CuRIOUS2018-MR FLAIR](https://curious2018.grand-challenge.org/) | 2018 | 3D | MR/ US | Brain | 33 | Yes | Reg | Brain tumors |
+| 12 | [CuRIOUS2018-US](https://curious2018.grand-challenge.org/) | 2018 | 3D | MR/ US | Brain | 32 | Yes | Reg | Brain tumors |
+| 13 | [CuRIOUS2018-MR T1W](https://curious2018.grand-challenge.org/Home/) | 2018 | 3D | MR/ US | Brain | 33 | Yes | Reg | Brain tumor |
+| 14 | [CuRIOUS2019-MR-FLAIR](https://curious2019.grand-challenge.org/Data/) | 2019 | 3D | MR/ US | Brain | 32 | Yes | Reg | Low-grade gliomas |
+| 15 | [CuRIOUS2019](https://curious2019.grand-challenge.org/Home/) | 2019 | 3D | MR/ US | Brain | 33 | Yes | Reg | Brain tumor |
+| 16 | [CuRIOUS2019 US](https://curious2019.grand-challenge.org/Home/) | 2019 | 3D | MR/ US | Brain | 33 | Yes | Reg | Low-grade gliomas |
+| 17 | [CuRIOUS2019-MR T1W](https://curious2019.grand-challenge.org/) | 2019 | 3D | MR/ US | Brain | 33 | Yes | Reg | Brain tumor |
+| 18 | [CuRIOUS2022](https://curious2022.grand-challenge.org/) | 2022 | 3D | MR/ US | Brain | 33 | Yes | Seg | Low-grade gliomas |
+| 19 | [CrossMoDA2021](https://crossmoda.grand-challenge.org/CrossMoDA/) | 2021 | 3D | MR | Brain | 347 | Yes | Seg | Vestibular Schwannoma |
+| 20 | [CrossMoDA2022](https://crossmoda2022.grand-challenge.org/crossmoda2022/) | 2022 | 3D | MR | Brain | 347 | Yes | Seg/ Cls | Vestibular Schwannoma |
+| 21 | [CrossMoDA2023](https://crossmoda-challenge.ml/) | 2023 | 3D | MR | Brain | 544 | Yes | Seg | Vestibular Schwannoma |
+| 22 | [OASIS-1](https://www.oasis-brains.org) | 2007 | 3D | MR | Brain | 416 | Yes | Seg/ Cls | Alzheimer's Disease |
+| 23 | [OASIS-2](https://sites.wustl.edu/oasisbrains/home/oasis-2/) | 2010 | 3D | MR | Brain | 1200 | Yes | Cls | Alzheimer's Disease |
+| 24 | [OASIS-3](https://www.oasis-brains.org/) | 2019 | 3D | CT/MR/ PET | Brain | 5699 | Yes | Seg/Cls | Alzheimer's Disease |
+| 25 | [Learn2Reg OASIS](https://learn2reg.grand-challenge.org/) | 2020 | 3D | MR | Brain | 416 | Yes | Reg | Alzheimer's Disease |
+| 26 | [Learn2Reg Hippocampus MR](https://learn2reg.grand-challenge.org/) | 2020 | 3D | MR | Brain | 263 | Yes | Reg | Anatomical segmentation |
+| 27 | [Learn2Reg LUMIR](https://learn2reg.grand-challenge.org/) | 2024 | 3D | MR/US | Brain | 269 | Yes | Reg | Multi-modal |
+| 28 | [PROMISE09](https://www.na-mic.org/wiki/2009_prostate_segmentation_challenge_MICCAI) | 2009 | 3D | MR | Prostate | 15 | Yes | Seg | Prostate cancer |
+| 29 | [PROMISE12](https://promise12.grand-challenge.org/) | 2012 | 3D | MR | Prostate | 50 | Yes | Seg | Prostate cancer |
+| 30 | [Prostate-3T](https://www.cancerimagingarchive.net/collection/prostate-3t/) | 2013 | 3D | MR | Prostate | 64 | Yes | Seg | Prostate cancer |
+| 31 | [Prostate-Diagnosis](https://www.cancerimagingarchive.net/collection/prostate-diagnosis/) | 2015 | 3D | MR | Prostate | 92 | Yes | Seg/ Cls | Prostate cancer |
+| 32 | [PROSTATEx](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=163875860) | 2016 | 3D | MR | Prostate | 204 | Yes | Cls | Prostate cancer |
+| 33 | [PROSTATEx-2](https://www.aapm.org/GrandChallenge/PROSTATEx-2/) | 2017 | 3D | MR | Prostate | 162 | Yes | Cls | Prostate cancer |
+| 34 | [QIN Breast DCE-MR](https://www.cancerimagingarchive.net/collection/qin-breast-dce-mri/) | 2014 | 3D | MR | Breast | 10 | Yes | Seg | Breast cancer |
+| 35 | [QIN-SARCOMA](https://www.cancerimagingarchive.net/collection/qin-sarcoma/) | 2014 | 3D | MR | Breast, Calf, Chest, Elbow, Knee, Leg, Shoulder... | 15 | No | Cls | Soft-tissue sarcoma |
+| 36 | [QIN GBM Treatment Response](https://www.cancerimagingarchive.net/collection/qin-gbm-treatment-response/) | 2015 | 2D/ 3D | MR | Brain | 54 | No | Cls | Glioblastoma Multiforme |
+| 37 | [QIN-BRAIN-DSC-MR](https://www.cancerimagingarchive.net/collection/qin-brain-dsc-mri/) | 2016 | 3D | MR | Brain | 49 | Yes | Seg | Glioma |
+| 38 | [QIN-PROSTATE-Repeatability](https://www.cancerimagingarchive.net/collection/qin-prostate-repeatability/) | 2018 | 3D | MR | Prostate | 15 | Yes | Seg | Prostate cancer |
+| 39 | [QIN-BREAST-02](https://www.cancerimagingarchive.net/collection/qin-breast-02/) | 2019 | 3D | MR | Breast | 13 | No | Cls | Breast cancer |
+| 40 | [Prostate-MR-US-Biopsy](https://doi.org/10.7937/TCIA.2020.A61IOC1A) | 2020 | 3D | MR/ US | Prostate | 1151 | Yes | Reg/Seg | Prostate Cancer |
+| 41 | [Prostate MR Segmentation Dataset](https://liuquande.github.io/SAML/) | 2020 | 3D | MR | Prostate | 116 | Yes | Seg | Prostate cancer |
+| 42 | [PROSTATEx-Seg-Zones](https://www.cancerimagingarchive.net/analysis-result/prostatex-seg-zones/) | 2020 | 3D | MR | Prostate | 98 | Yes | Seg | Prostate cancer |
+| 43 | [PROSTATEx-Seg-HiRes](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=61080779) | 2020 | 3D | MR | Prostate | 66 | Yes | Seg | Prostate cancer |
+| 44 | [PI-CAI](https://pi-cai.grand-challenge.org/PI-CAI/) | 2022 | 3D | MR | Prostate | 1500 | Yes | Seg/ Cls | Prostate cancer |
+| 45 | [$$-RegPro2023](https://muregpro.github.io/) | 2023 | 3D | MR/ US | Prostate | 108 | Yes | Reg/lmk | Prostate cancer |
+| 46 | [SKI10](https://ski10.grand-challenge.org/Home/) | 2010 | 3D | MR | Bone, Cartilage | 150 | Yes | Seg | Osteoarthritis |
+| 47 | [TADPOLE](https://tadpole.grand-challenge.org/Home/) | 2017 | 3D | MR/ PET | Brain | 1667 | Yes | Cls/ Reg | Alzheimer's Disease |
+| 48 | [MSSEG-2](https://portal.fli-iam.irisa.fr/msseg-2/data/) | 2021 | 3D | MR | Brain | 100 | Yes | Seg | Multiple sclerosis |
+| 49 | [MSSEG 2016](https://portal.fli-iam.irisa.fr/msseg-challenge/) | 2016 | 2D/ 3D | MR | Brain | 15 | Yes | Seg | Multiple sclerosis |
+| 50 | [MSSEG 2008](http://www.ia.unc.edu/MSseg/index.html) | 2008 | 3D | MR | Brain | 38 | Yes | Seg | Multiple Sclerosis |
+| 51 | [Cam-CAN](https://camcan-archive.mrc-cbu.cam.ac.uk/dataaccess/) | 2015 | 3D | MEG/ MR | Brain | 3000 | No | Cls | Healthy ageing |
+| 52 | [ISLES 2015](https://www.isles-challenge.org/ISLES2015/) | 2015 | 3D | MR | Brain | 114 | Yes | Seg | Ischemic stroke |
+| 53 | [ISLES 2016](http://www.isles-challenge.org/ISLES2016/) | 2016 | 3D | MR | Brain | 75 | Yes | Seg | Ischemic stroke |
+| 54 | [ISLES 2017](https://www.isles-challenge.org/ISLES2017/) | 2017 | 3D | MR | Brain | 75 | Yes | Seg | Ischemic stroke |
+| 55 | [ISLES 2018](http://www.isles-challenge.org/ISLES2018/) | 2018 | 3D | MR | Brain | 103 | Yes | Seg | Ischemic stroke |
+| 56 | [ISLES 2022](https://isles22.grand-challenge.org/) | 2022 | 3D | MR | Brain | 400 | Yes | Seg | Ischemic stroke |
+| 57 | [ISLES 2024](https://www.isles-challenge.org/) | 2024 | 3D | MR | Brain | 250 | Yes | Seg | Acute/subacute ischemic stroke |
+| 58 | [WMH](https://wmh.isi.uu.nl/) | 2017 | 3D | MR | Brain | 170 | Yes | Seg | White matter hyperintensities |
+| 59 | [BraTS 2012](https://www.smir.ch/BRATS/Start2012) | 2012 | 3D | MR | Brain | 50 | Yes | Seg | Glioma |
+| 60 | [BraTS 2013](https://www.smir.ch/BRATS/Start2013) | 2013 | 3D | MR | Brain | 60 | Yes | Seg | Glioma |
+| 61 | [BraTS 2014](https://www.smir.ch/BRATS/Start2014) | 2014 | 3D | MR | Brain | 238 | Yes | Seg | Glioma |
+| 62 | [BraTS 2015](https://www.smir.ch/BRATS/Start2015) | 2015 | 3D | MR | Brain | 253 | Yes | Seg/Prog | Glioma |
+| 63 | [BraTS 2016](https://www.smir.ch/BRATS/Start2016) | 2016 | 3D | MR | Brain | 391 | Yes | Seg/Prog | Glioma |
+| 64 | [BraTS 2017](https://www.med.upenn.edu/sbia/brats2017/data.html) | 2017 | 3D | MR | Brain | 477 | Yes | Seg/Surv | Glioma |
+| 65 | [BraTS 2018](https://www.med.upenn.edu/sbia/brats2018/data.html) | 2018 | 3D | MR | Brain | 542 | Yes | Seg/Surv | Glioma |
+| 66 | [BraTS 2019](https://www.med.upenn.edu/cbica/brats2019/data.html) | 2019 | 3D | MR | Brain | 626 | Yes | Seg/Surv | Glioma |
+| 67 | [BraTS 2020](https://www.med.upenn.edu/cbica/brats2020/data.html) | 2020 | 3D | MR | Brain | 660 | Yes | Seg/Surv | Glioma |
+| 68 | [BraTS 2021](https://www.med.upenn.edu/cbica/brats2021/) | 2021 | 3D | MR | Brain | 2040 | Yes | Seg/MGMT | Glioma |
+| 69 | [BraTS 2022](https://www.synapse.org/\#!Synapse:syn27046444/wiki/616571) | 2022 | 3D | MR | Brain | 1470 | Yes | Seg | Glioma |
+| 70 | [BraTS 2023](https://www.synapse.org/\#!Synapse:syn51156910/wiki/622351) | 2023 | 3D | MR | Brain | 5880 | Yes | Seg | Glioma |
+| 71 | [MSD01 BrainTumour](http://medicaldecathlon.com/) | 2018 | 3D | MR | Brain | 750 | Yes | Seg | Brain tumor |
+| 72 | [MSD02 Heart](http://medicaldecathlon.com/) | 2018 | 3D | MR | Heart | 30 | Yes | Seg | Cardiac conditions |
+| 73 | [MSD04 Hippocampus](http://medicaldecathlon.com/) | 2018 | 3D | MR | Hippocampus | 394 | Yes | Seg | Anatomical segmentation |
+| 74 | [MSD05 Prostate](http://medicaldecathlon.com/) | 2018 | 3D | MR | Prostate | 48 | Yes | Seg | Prostate cancer |
+| 75 | [FeTA 2021](https://feta-2021.grand-challenge.org/) | 2021 | 3D | MR | Brain | 50 | Yes | Seg | Congenital Disorders |
+| 76 | [FeTA 2022](https://feta.grand-challenge.org/feta-2022/) | 2022 | 3D | MR | Brain | 80 | Yes | Seg | Neurodevelopment disorders |
+| 77 | [fastMR](https://fastmri.med.nyu.edu/) | 2020 | 2D/ 3D | MR | Brain/ Knee/ Prostate/ Breast | 1594 | No | Rec | Multi-organ |
+| 78 | [High Anisotropy MR](http://spineweb.digitalimaginggroup.ca/dataset.php) | 2013 | 3D | MR | Spine | 17 | No | Rec | Spine conditions |
+| 79 | [1000 Functional Connectomes Project](http://fcon_1000.projects.nitrc.org/fcpClassic/FcpTable.html) | 2010 | 3D | MR | Brain | 1414 | No | Cls | Adult ADHD |
+| 80 | [Language Processing Children](https://openneuro.org/datasets/ds003604/versions/1.0.6) | 2022 | 3D | MR | Brain | 322 | Yes | Cls | Language impairment |
+| 81 | [ISPY1 (ACRIN 6657)](https://www.cancerimagingarchive.net/collection/ispy1/) | 2016 | 3D | MR | Breast | 847 | Yes | Seg/ Cls | Breast cancer |
+| 82 | [ACRIN-Contralateral-Breast-MR](https://www.cancerimagingarchive.net/collection/acrin-contralateral-breast-mr/) | 2021 | 3D | CR/MR | Breast | 984 | No | Cls | Breast Cancer |
+| 83 | [ACRIN 6698/I-SPY2 Breast DWI](https://www.cancerimagingarchive.net/collection/acrin-6698/) | 2021 | 3D | MR | Breast | 385 | Yes | Seg/ Cls | Breast cancer |
+| 84 | [ADNI](https://adni.loni.usc.edu) | 2017 | 3D | MR/ PET | Brain | 2500 | No | Cls | Alzheimer's Disease |
+| 85 | [ADNIDOD](https://ida.loni.usc.edu/login.jsp?project=ADNIDOD) | 2017 | 3D | MR/ PET | Brain | 195 | No | Cls | Alzheimer's Disease |
+| 86 | [ABVIB](https://ida.loni.usc.edu/login.jsp?project=ABVIB) | 2017 | 3D | MR | Brain | 280 | No | Cls | Alzheimer's Disease |
+| 87 | [AIBL](https://www.aibl.csiro.au/adni/index.html) | 2017 | 3D | MR/ PET | Brain | 278 | Yes | Cls | Alzheimer's Disease |
+| 88 | [AOMIC-ID1000](https://openneuro.org/datasets/ds003097/versions/1.2.1) | 2021 | 3D | MR | Brain | 928 | No | Reg | Healthy adults |
+| 89 | [BOLD Verb Generation](https://openneuro.org/datasets/ds003145/versions/1.0.2) | 2020 | 4D | MR | Brain | 143 | No | Reg | Developmental language disorder |
+| 90 | [Brain Correlates of Math Development](https://openneuro.org/datasets/ds001486/versions/1.3.1) | 2018 | 3D | MR | Brain | 132 | No | Cls | Developmental disorders |
+| 91 | [Brain Segmentation Testing Protocol](https://www.nitrc.org/projects/bstp/) | 2011 | 3D | MR | Brain | 312 | Yes | Seg | Alzheimer's Disease |
+| 92 | [BrainMetShare](https://stanfordaimi.azurewebsites.net/datasets/ae0182f1-d5b6-451a-8177-d1f39f019962) | 2020 | 3D | MR | Brain | 156 | Yes | Seg | Brain metastases |
+| 93 | [Breast-MR-NACT-Pilot](https://www.cancerimagingarchive.net/collection/breast-mri-nact-pilot/) | 2016 | 3D | MR | Breast | 64 | Yes | Seg | Breast cancer |
+| 94 | [CAMR Rat Brain MR Data](https://openneuro.org/datasets/ds002870/versions/1.0.1) | 2020 | 3D | MR | Brain | 264 | No | Reg | Animal model study |
+| 95 | [Caltech Conte Center](https://openneuro.org/datasets/ds003798/versions/1.0.5) | 2022 | 3D | MR | Brain | 117 | No | Cls | Healthy |
+| 96 | [Cognitive Training](https://openneuro.org/datasets/ds002843/versions/1.0.1) | 2020 | 3D | MR | Brain | 166 | No | Cls | Cognitive training study |
+| 97 | [Colin 3T/7T High-resolution Atlas](https://www.nitrc.org/projects/colin3t7t/) | 2014 | 3D | MR | Brain | 19 | No | Reg | Brain diseases |
+| 98 | [Concrete Permuted Rule Operations](https://openneuro.org/datasets/ds003701) | 2021 | 3D | MR | Brain | 96 | No | Cls | Cognitive function |
+| 99 | [Cortical Myelin T1w/T2w](https://openneuro.org/datasets/ds003653/versions/1.0.0) | 2021 | 3D | MR | Brain | 86 | No | Cls | Unipolar depressive disorders |
+| 100 | [Cross-Sectional Multidomain Lexical Processing](https://openneuro.org/datasets/ds002236/versions/1.1.0) | 2019 | 3D | MR | Brain | 91 | No | Cls | Language processing study |
+| 101 | [Prefrontal Cortex Development](https://openneuro.org/datasets/ds003499/versions/1.0.1) | 2021 | 3D | MR | Brain | 90 | No | Cls | Developmental study |
+| 102 | [Duke-Breast-Cancer-MR](https://www.cancerimagingarchive.net/collection/duke-breast-cancer-mri/) | 2021 | 3D | MR | Breast | 922 | Yes | Seg/ Cls | Invasive breast cancer |
+| 103 | [Dynamic Passive Threat](https://openneuro.org/datasets/ds002320/versions/1.1.0) | 2019 | 3D | MR | Brain | 295200 | No | Cls | Threat processing study |
+| 104 | [Emotion Regulation Ageing Brain](https://openneuro.org/datasets/ds002620/versions/1.0.0) | 2020 | 3D | MR | Brain | 34 | No | Cls | Normal ageing |
+| 105 | [Resting State Bilinguals](https://openneuro.org/datasets/ds001747/versions/1.0.0) | 2019 | 3D | MR | Brain | 823 | No | Cls | Healthy adults |
+| 106 | [Brain Genomics Superstruct Project (GSP)](https://www.neuroinfo.org/gsp) | 2015 | 3D | MR | Brain | 1570 | No | Seg | Healthy adults |
+| 107 | [Human Connectome Project (HCP)](https://www.humanconnectome.org/) | 2017 | 3D | MR | Brain | 1206 | No | Cls/Rec | Healthy young adults |
+| 108 | [IXI Dataset](http://brain-development.org/ixi-dataset/) | 2024 | 3D | MR | Brain | 600 | No | Reg/Rec | Healthy adults |
+| 109 | [KNOAP2020](https://knoap2020.grand-challenge.org/Home/) | 2020 | 2D/ 3D | MR/X-RAY | Knee | 453 | Yes | Cls | Knee Osteoarthritis |
+| 110 | [LGG-1p19qDeletion](https://www.cancerimagingarchive.net/collection/lgg-1p19qdeletion/) | 2017 | 3D | MR | Brain | 159 | Yes | Seg/ Cls | Low Grade Glioma |
+| 111 | [Lausanne TOF-MRA Aneurysm Cohort](https://openneuro.org/datasets/ds003949) | 2021 | 3D | MR | Brain | 284 | Yes | Det | Brain aneurysm |
+| 112 | [MASiVar](https://openneuro.org/datasets/ds003416/versions/2.0.2) | 2021 | 3D | MR | Brain | 319 | No | Trk | Healthy subjects |
+| 113 | [MIRIAD dataset](http://miriad.drc.ion.ucl.ac.uk/) | 2013 | 3D | MR | Brain | 708 | No | Reg | Alzheimer's Disease |
+| 114 | [MPI-Leipzig Mind-Brain-Body](https://openneuro.org/datasets/ds000221/versions/1.0.0) | 2019 | 3D | EEG/MR | Brain | 318 | No | Cls | Healthy cohort |
+| 115 | [Cue Induced Craving MR](https://openneuro.org/datasets/ds003242) | 2020 | 3D | MR | Brain | 598 | No | Rec | Normal neurophysiological states |
+| 116 | [Children Adults Animated Film MR](https://openneuro.org/datasets/ds000228/versions/1.1.0) | 2018 | 3D | MR | Brain | 155 | No | Rec | Developmental study |
+| 117 | [Mouse rest multicentre](https://openneuro.org/datasets/ds001720) | 2019 | 3D | MR | Brain | 255 | No | Cls | Healthy mouse model |
+| 118 | [Multi-echo Cambridge](https://openneuro.org/datasets/ds000258/versions/1.0.0) | 2018 | 3D | MR | Brain | 89 | No | Rec | Healthy neurotypical |
+| 119 | [NARPS](https://openneuro.org/datasets/ds001734) | 2019 | 3D | MR | Brain | 108 | No | Cls | Healthy participants |
+| 120 | [Narratives](https://openneuro.org/datasets/ds002345) | 2019 | 3D | MR | Brain | 891 | No | Cls | Healthy participants |
+| 121 | [Naturalistic Neuroimaging Database](https://openneuro.org/datasets/ds002837/versions/2.0.0) | 2021 | 3D | MR | Brain | 86 | No | Cls | Healthy controls |
+| 122 | [Neurocognitive aging data release with behavioral](https://openneuro.org/datasets/ds003592/versions/1.0.10) | 2022 | 3D | MR | Brain | 301 | No | Cls | Healthy cognitive aging |
+| 123 | [PETfrog](https://openneuro.org/datasets/ds002385/versions/1.1.0) | 2020 | 3D | MR/ PET | Brain | 238 | No | Cls | Brain development |
+| 124 | [Pragmatic Language](https://openneuro.org/datasets/ds003481) | 2021 | 3D | MR | Brain | 145 | No | Loc | Pragmatic comprehension deficits |
+| 125 | [REMBRANDT](https://www.cancerimagingarchive.net/collection/rembrandt/) | 2014 | 3D | MR | Brain | 130 | Yes | Seg/ Cls | Gliomas |
+| 126 | [SIMON Dataset](https://doi.org/10.15387/fcp_indi.retro.simon) | 2019 | 3D | MR | Brain | 73 | No | Reg | Healthy Control |
+| 127 | [SUDMEX CONN](https://openneuro.org/datasets/ds003346) | 2021 | 3D | MR | Brain | 138 | No | Cls | Cocaine use disorder |
+| 128 | [Serum Grey Matter Cortical Thickness](https://openneuro.org/datasets/ds002380) | 2020 | 3D | MR | Brain | 143 | No | Reg | Brain morphometry study |
+| 129 | [Speech disfluencies: Neurophysiological aspect in normal population](https://openneuro.org/datasets/ds003469/versions/1.0.0) | 2021 | 3D | MR | Brain | 81 | No | Cls | Speech disorders |
+| 130 | [T1 Chronotype Sleep Study](https://openneuro.org/datasets/ds003826/versions/3.0.0) | 2021 | 3D | MR | Brain | 136 | No | Cls | Healthy |
+| 131 | [TCGA-GBM-QI-Radiogenomics](https://www.cancerimagingarchive.net/analysis-result/tcga-gbm-qi-radiogenomics/) | 2014 | 3D | MR | Brain | 55 | Yes | Seg | Glioblastoma |
+| 132 | [TCGA-GBM-Radiogenomics](https://www.cancerimagingarchive.net/analysis-result/tcga-gbm-radiogenomics/) | 2014 | 3D | MR | Brain | 75 | Yes | Seg | Glioblastoma |
+| 133 | [TCGA-BRCA](https://www.cancerimagingarchive.net/collection/tcga-brca/) | 2014 | 2D/ 3D | MG/MR | Breast | 139 | No | Cls | Breast cancer |
+| 134 | [TCGA-CESC](https://www.cancerimagingarchive.net/collection/tcga-cesc/) | 2014 | 3D | MR | Cervix | 54 | No | Cls | Cervical cancer |
+| 135 | [TCGA-Breast-Radiogenomics](https://www.cancerimagingarchive.net/analysis-result/tcga-breast-radiogenomics/) | 2015 | 3D | MR | Breast | 84 | Yes | Seg/ Cls | Breast cancer |
+| 136 | [BraTS-TCGA-GBM](https://www.cancerimagingarchive.net/analysis-result/brats-tcga-gbm/) | 2017 | 3D | MR | Brain | 135 | Yes | Seg | Glioma |
+| 137 | [BraTS-TCGA-LGG](https://www.cancerimagingarchive.net/analysis-result/brats-tcga-lgg/) | 2017 | 3D | MR | Brain | 108 | Yes | Seg | Glioma |
+| 138 | [TCGA-LGG-Mask](https://www.cancerimagingarchive.net/analysis-result/tcga-lgg-mask/) | 2017 | 3D | MR | Brain | 188 | Yes | Seg | Low Grade Glioma |
+| 139 | [Stockholm Sleepy Brain Study](https://openneuro.org/datasets/ds000201/versions/1.0.3) | 2018 | 3D | MR | Brain | 84 | No | Cls | Sleep deprivation |
+| 140 | [Harm Avoidance Gray Matter](https://openneuro.org/datasets/ds000202/versions/00001) | 2016 | 3D | MR | Brain | 95 | No | Cls | Personality traits |
+| 141 | [Human Voice Areas](https://openneuro.org/datasets/ds000158/versions/1.0.0) | 2015 | 3D | MR | Brain | 218 | Yes | Cls | Healthy |
+| 142 | [UCLA Consortium for Neuropsychiatric Phenomics LA5c Study](https://openneuro.org/datasets/ds000030/versions/1.0.0) | 2016 | 3D | MR | Brain | 273 | No | Cls | Neuropsychiatric Disorders |
+| 143 | [Washington University 120](https://openneuro.org/datasets/ds000243) | 2017 | 3D | MR | Brain | 120 | No | Rest | Healthy young adults |
+| 144 | [White matter deficits in cocaine use disorder V1.0](https://openneuro.org/datasets/ds003599/versions/1.0.0) | 2021 | 3D | MR | Brain | 133 | No | Cls | Cocaine Use Disorder |
+| 145 | [Working memory in healthy and schizophrenic individuals](https://openneuro.org/datasets/ds000115/versions/00001) | 2016 | 3D | MR | Brain | 99 | No | Cls | Schizophrenia |
+| 146 | [rsfMR comorbidity SmokingandSchizophrenia](https://openneuro.org/datasets/ds001461/versions/1.0.3) | 2018 | 3D | MR | Brain | 92 | Yes | Cls | Schizophrenia and nicotine dependence |
+| 147 | [IVDM3Seg](https://ivdm3seg.weebly.com/) | 2018 | 3D | MR | Intervertebral Discs | 96 | Yes | Seg/Loc | Spine diseases |
+| 148 | [MRNet](https://stanfordmlgroup.github.io/competitions/mrnet/) | 2018 | 3D | MR | Knee | 1370 | Yes | Cls | Knee MR abnormalities |
+| 149 | [EMIDEC](https://emidec.com/) | 2020 | 3D | MR | Heart | 150 | Yes | Seg/ Cls | Myocardial infarction |
+| 150 | [iSeg2017](https://iseg2017.web.unc.edu/) | 2017 | 3D | MR | Brain | 23 | Yes | Seg | Neurodevelopmental conditions |
+| 151 | [UW-Madison GI Tract Image Segmentation](https://www.kaggle.com/competitions/uw-madison-gi-tract-image-segmentation) | 2022 | 3D | MR | Stomach, Small Bowel, Large Bowel | 467 | Yes | Seg | Gastrointestinal cancers |
+| 152 | [MUDI2019](http://cmic.cs.ucl.ac.uk/cdmri19/challenge.html) | 2019 | 3D | MR | Brain | 1344 | Yes | Rec | Healthy |
+| 153 | [iSeg-2019](https://iseg2019.web.unc.edu/) | 2019 | 3D | MR | Brain | 39 | Yes | Seg | Healthy development |
+| 154 | [Longitudinal Multiple Sclerosis Lesion Segmentation](https://smart-stats-tools.org/lesion-challenge-2015) | 2015 | 3D | MR | Brain | 82 | Yes | Seg | Multiple sclerosis |
+| 155 | [COSMOS 2022](https://vessel-wall-segmentation-2022.grand-challenge.org/) | 2022 | 3D | MR | Carotid Artery | 75 | Yes | Seg | Atherosclerosis |
+| 156 | [cSeg-2022](https://tarheels.live/cseg2022/) | 2022 | 3D | MR | Cerebellum | 33 | Yes | Seg | Normal development |
+| 157 | [Brain Tumor Progression Prediction](https://www.cancerimagingarchive.net/collection/brain-tumor-progression/) | 2021 | 3D | MR | Brain | 40 | Yes | Cls | Brain cancer |
 | 158 | [Heart Segmentation in MR Images](https://tianchi.aliyun.com/dataset/dataDetail?dataId=90148) | 2021 | 3D | MR | Heart | 30 | Yes | Seg | Cardiac conditions |
-| 159 | [VWS 2021{yuan2021carotid](https://vessel-wall-segmentation.grand-challenge.org/) | 2021 | 3D | MR | Carotid Arteries | 50 | Yes | Seg | Atherosclerosis |
-| 160 | [Atrial Segmentation Challenge{xiong2021a](https://www.cardiacatlas.org/atriaseg2018-challenge/) | 2018 | 3D | MR | Heart | 154 | Yes | Seg | Atrial fibrillation |
-| 161 | [IronTract Challenge 2019{maffei2022insights](https://irontract.mgh.harvard.edu/) | 2019 | 3D | MR | Brain | 2 | Yes | Trk | Anatomical structure |
-| 162 | [DiSCo 2021{rafaelpatino2021the](http://hardi.epfl.ch/static/events/2021_challenge/) | 2021 | 3D | MR | Brain | 3 | Yes | Reg | Tractography challenge |
-| 163 | [RealNoiseMR 2021{ganz2021realnoisemri](https://realnoisemri.grand-challenge.org/) | 2021 | 3D | MR | Brain | 25 | Yes | Rec | Denoising challenge |
-| 164 | [MOOD 2022-brain{zimmerer2022mood](http://medicalood.dkfz.de/web/) | 2022 | 3D | MR | Brain | 800 | Yes | Cls/Loc | General pathologies |
-| 165 | [AAPM-RT-MAC{cardenas2019data](https://www.cancerimagingarchive.net/collection/aapm-rt-mac/) | 2019 | 3D | MR | Head-Neck | 55 | Yes | Seg | Head and Neck Cancer |
-| 166 | [HVSMR 2016{pace2015interactive](http://segchd.csail.mit.edu/data.html) | 2016 | 3D | MR | Heart | 20 | Yes | Seg | Congenital heart disease |
-| 167 | [MRBrainS13{mendrik2015mrbrains](https://mrbrains13.isi.uu.nl) | 2013 | 3D | MR | Brain | 20 | Yes | Seg | Age-related brain conditions |
-| 168 | [HARDI Reconstruction Challenge Dataset{daducci2013hardi](http://hardi.epfl.ch/static/events/2013_ISBI/) | 2013 | 3D | MR | Brain | 6 | Yes | Rec | Diffusion imaging |
-| 169 | [CAUSE07{vanginneken2007d](https://cause07.grand-challenge.org/) | 2007 | 3D | MR | Brain | 38 | Yes | Seg | Neurological Disorders |
-| 170 | [PROMISE09{unknown2017untitled](https://www.na-mic.org/wiki/2009_prostate_segmentation_challenge_MICCAI) | 2009 | 3D | MR | Prostate | 15 | Yes | Seg | Prostate cancer |
-| 171 | [ISMRM2015{maierhein2015tractography](https://tractometer.org/ismrm2015/dwi_data) | 2015 | 3D | MR | Brain | 34 | Yes | Rec/Trk | Tractography challenge |
-| 172 | [Where is VALDO?{sudre2024where](https://valdo.grand-challenge.org) | 2021 | 3D | MR | Brain | 306 | Yes | Seg/Det/Loc | Cerebral Small Vessel Disease |
-| 173 | [NEATBrainS15{mendrik2015mrbrains](https://www.isi.uu.nl/research/challenges/neatbrains/) | 2015 | 3D | MR | Brain | 20 | Yes | Seg | Age-related brain conditions |
-| 174 | [MRBrainS18{kuijf2024mr](https://mrbrains18.isi.uu.nl/data/) | 2018 | 3D | MR | Brain | 30 | Yes | Seg | Diabetes, Dementia, Alzheimer's |
-| 175 | [STACOM 2011{tobongomez2013benchmarking](https://www.cardiacatlas.org/motion-tracking-2011-challenge/) | 2011 | 3D | MR/ US | Heart | 1158 | Yes | Reg/Trk | Healthy volunteers |
-| 176 | [3T Brain-Behavior MR{boekel2015a](https://www.nitrc.org/projects/confrep2014) | 2014 | 3D | MR | Brain | 36 | No | Reg | Healthy subjects |
-| 177 | [Connectivity Test-Retest MR{lin2015a](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/bnu_1.html) | 2015 | 3D | MR | Brain | 342 | No | Trk | Healthy volunteers |
-| 178 | [Mindboggle-101{klein2012labeled](https://mindboggle.info/data.html) | 2012 | 3D | MR | Brain | 101 | Yes | Seg | Anatomical segmentation |
-| 179 | [Individual Brain Charting (IBC){pinho2020individual](https://project.inria.fr/IBC/) | 2020 | 3D | MR | Brain | 600 | Yes | Cls | Healthy |
-| 180 | [Raider{haxby2011a](https://github.com/HaxbyLab/raiders_data) | 2015 | 3D | MR | Brain | 11 | No | Cls | Healthy |
-| 181 | [Diffusion MR Data Harmonisation{tax2019crossscanner](https://projects.iq.harvard.edu/cdmri2017/challenge) | 2017 | 3D | MR | Brain | 14 | Yes | Reg | Cross-scanner harmonization |
-| 182 | [MEMENTO{luca2021on](https://my.vanderbilt.edu/memento/sub-challenge-2/) | 2019 | 3D | MR | Brain | 1536 | Yes | Reg | Neurodegenerative diseases |
-| 183 | [MUDI2019{pizzolato2020acquiring](http://cmic.cs.ucl.ac.uk/cdmri19/challenge.html) | 2019 | 3D | MR | Brain | 6720 | No | Reg/Rec | Microstructure imaging |
-| 184 | [CMRxMotion{wang2022the](http://cmr.miccai.cloud/) | 2022 | 3D | MR | Heart | 360 | Yes | Seg/ Cls | Not specified |
-| 185 | [PDMR-BL0293-F563{tatum2019a](https://www.cancerimagingarchive.net/collection/pdmr-bl0293-f563/) | 2019 | 3D | MR | Liver/Bone | 19 | No | Cls | Bladder cancer metastasis |
-| 186 | [PDMR-292921-168-R{tatum2020imaging](https://www.cancerimagingarchive.net/collection/pdmr-292921-168-r/) | 2020 | 3D | MR/SR | Abdomen | 20 | No | Cls | Pancreatic adenocarcinoma |
-| 187 | [PDMR-997537-175-T{tatum2020imaging](https://www.cancerimagingarchive.net/collection/pdmr-997537-175-t/) | 2020 | 3D | MR/SR | Colon | 24 | No | Cls | Colon adenocarcinoma |
-| 188 | [PDMR-425362-245-T{tatum2020imaging](https://www.cancerimagingarchive.net/collection/pdmr-425362-245-t/) | 2021 | 3D | MR/SR | Abdomen | 20 | No | Cls | Melanoma |
-| 189 | [PDMR-521955-158-R4{tatum2022imaging](https://www.cancerimagingarchive.net/collection/pdmr-521955-158-r4/) | 2022 | 3D | MR/SR | Pancreas/ Lung | 20 | No | Cls | Pancreatic adenocarcinoma |
-| 190 | [ICDC-Glioma{amin2020canine](https://www.cancerimagingarchive.net/collection/icdc-glioma/) | 2021 | 2D/ 3D | MICROSCOPY/ MR | Brain | 78 | No | Seg | Glioma |
-| 191 | [Generation R Pediatric MR Resources{muetzel2016restingstate](https://www.nitrc.org/projects/genr) | 2014 | 3D | MR | Brain | 666 | No | Cls | Normative developmental |
-| 192 | [High-quality diffusion-weighted imaging of Parkinson{'](https://www.nitrc.org/projects/parktdi) | 2014 | 3D | MR | Brain | 53 | No | Cls | Parkinson's disease |
-| 193 | [MGH Neonatal/Pediatric ADC Atlases{ou2017using](https://www.nitrc.org/projects/mgh_adcatlases/) | 2015 | 3D | MR | Brain | 201 | Yes | Reg | Acute brain injury |
-| 194 | [RIDER Phantom MR{jackson2015rider](https://www.cancerimagingarchive.net/collection/rider-phantom-mri/) | 2011 | 3D | MR | Phantom | 10 | No | QA | Phantom study |
-| 195 | [RIDER Breast MR{meyer2015rider](https://www.cancerimagingarchive.net/collection/rider-breast-mri/) | 2011 | 3D | MR | Breast | 40 | No | Cls | Breast cancer |
-| 196 | [ATLAS2023{quinton2023a](https://atlas-challenge.u-bourgogne.fr/) | 2023 | 3D | MR | Liver | 90 | Yes | Seg | Hepatocellular carcinoma |
-| 197 | [SMILE-UHURA2023{chatterjee2024smileuhura](https://www.synapse.org/\#!Synapse:syn47164761/wiki/620033) | 2023 | 3D | MR | Brain | 25 | Yes | Seg | Cerebral Small Vessel Diseases |
-| 198 | [CMRxRecon{wang2024cmrxrecon](https://doi.org/10.5281/zenodo.7840229) | 2023 | 2D/ 3D | MR | Heart | 300 | Yes | Rec/Seg | Cardiac diseases |
+| 159 | [VWS 2021](https://vessel-wall-segmentation.grand-challenge.org/) | 2021 | 3D | MR | Carotid Arteries | 50 | Yes | Seg | Atherosclerosis |
+| 160 | [Atrial Segmentation Challenge](https://www.cardiacatlas.org/atriaseg2018-challenge/) | 2018 | 3D | MR | Heart | 154 | Yes | Seg | Atrial fibrillation |
+| 161 | [IronTract Challenge 2019](https://irontract.mgh.harvard.edu/) | 2019 | 3D | MR | Brain | 2 | Yes | Trk | Anatomical structure |
+| 162 | [DiSCo 2021](http://hardi.epfl.ch/static/events/2021_challenge/) | 2021 | 3D | MR | Brain | 3 | Yes | Reg | Tractography challenge |
+| 163 | [RealNoiseMR 2021](https://realnoisemri.grand-challenge.org/) | 2021 | 3D | MR | Brain | 25 | Yes | Rec | Denoising challenge |
+| 164 | [MOOD 2022-brain](http://medicalood.dkfz.de/web/) | 2022 | 3D | MR | Brain | 800 | Yes | Cls/Loc | General pathologies |
+| 165 | [AAPM-RT-MAC](https://www.cancerimagingarchive.net/collection/aapm-rt-mac/) | 2019 | 3D | MR | Head-Neck | 55 | Yes | Seg | Head and Neck Cancer |
+| 166 | [HVSMR 2016](http://segchd.csail.mit.edu/data.html) | 2016 | 3D | MR | Heart | 20 | Yes | Seg | Congenital heart disease |
+| 167 | [MRBrainS13](https://mrbrains13.isi.uu.nl) | 2013 | 3D | MR | Brain | 20 | Yes | Seg | Age-related brain conditions |
+| 168 | [HARDI Reconstruction Challenge Dataset](http://hardi.epfl.ch/static/events/2013_ISBI/) | 2013 | 3D | MR | Brain | 6 | Yes | Rec | Diffusion imaging |
+| 169 | [CAUSE07](https://cause07.grand-challenge.org/) | 2007 | 3D | MR | Brain | 38 | Yes | Seg | Neurological Disorders |
+| 170 | [PROMISE09](https://www.na-mic.org/wiki/2009_prostate_segmentation_challenge_MICCAI) | 2009 | 3D | MR | Prostate | 15 | Yes | Seg | Prostate cancer |
+| 171 | [ISMRM2015](https://tractometer.org/ismrm2015/dwi_data) | 2015 | 3D | MR | Brain | 34 | Yes | Rec/Trk | Tractography challenge |
+| 172 | [Where is VALDO?](https://valdo.grand-challenge.org) | 2021 | 3D | MR | Brain | 306 | Yes | Seg/Det/Loc | Cerebral Small Vessel Disease |
+| 173 | [NEATBrainS15](https://www.isi.uu.nl/research/challenges/neatbrains/) | 2015 | 3D | MR | Brain | 20 | Yes | Seg | Age-related brain conditions |
+| 174 | [MRBrainS18](https://mrbrains18.isi.uu.nl/data/) | 2018 | 3D | MR | Brain | 30 | Yes | Seg | Diabetes, Dementia, Alzheimer's |
+| 175 | [STACOM 2011](https://www.cardiacatlas.org/motion-tracking-2011-challenge/) | 2011 | 3D | MR/ US | Heart | 1158 | Yes | Reg/Trk | Healthy volunteers |
+| 176 | [3T Brain-Behavior MR](https://www.nitrc.org/projects/confrep2014) | 2014 | 3D | MR | Brain | 36 | No | Reg | Healthy subjects |
+| 177 | [Connectivity Test-Retest MR](http://fcon_1000.projects.nitrc.org/indi/CoRR/html/bnu_1.html) | 2015 | 3D | MR | Brain | 342 | No | Trk | Healthy volunteers |
+| 178 | [Mindboggle-101](https://mindboggle.info/data.html) | 2012 | 3D | MR | Brain | 101 | Yes | Seg | Anatomical segmentation |
+| 179 | [Individual Brain Charting (IBC)](https://project.inria.fr/IBC/) | 2020 | 3D | MR | Brain | 600 | Yes | Cls | Healthy |
+| 180 | [Raider](https://github.com/HaxbyLab/raiders_data) | 2015 | 3D | MR | Brain | 11 | No | Cls | Healthy |
+| 181 | [Diffusion MR Data Harmonisation](https://projects.iq.harvard.edu/cdmri2017/challenge) | 2017 | 3D | MR | Brain | 14 | Yes | Reg | Cross-scanner harmonization |
+| 182 | [MEMENTO](https://my.vanderbilt.edu/memento/sub-challenge-2/) | 2019 | 3D | MR | Brain | 1536 | Yes | Reg | Neurodegenerative diseases |
+| 183 | [MUDI2019](http://cmic.cs.ucl.ac.uk/cdmri19/challenge.html) | 2019 | 3D | MR | Brain | 6720 | No | Reg/Rec | Microstructure imaging |
+| 184 | [CMRxMotion](http://cmr.miccai.cloud/) | 2022 | 3D | MR | Heart | 360 | Yes | Seg/ Cls | Not specified |
+| 185 | [PDMR-BL0293-F563](https://www.cancerimagingarchive.net/collection/pdmr-bl0293-f563/) | 2019 | 3D | MR | Liver/Bone | 19 | No | Cls | Bladder cancer metastasis |
+| 186 | [PDMR-292921-168-R](https://www.cancerimagingarchive.net/collection/pdmr-292921-168-r/) | 2020 | 3D | MR/SR | Abdomen | 20 | No | Cls | Pancreatic adenocarcinoma |
+| 187 | [PDMR-997537-175-T](https://www.cancerimagingarchive.net/collection/pdmr-997537-175-t/) | 2020 | 3D | MR/SR | Colon | 24 | No | Cls | Colon adenocarcinoma |
+| 188 | [PDMR-425362-245-T](https://www.cancerimagingarchive.net/collection/pdmr-425362-245-t/) | 2021 | 3D | MR/SR | Abdomen | 20 | No | Cls | Melanoma |
+| 189 | [PDMR-521955-158-R4](https://www.cancerimagingarchive.net/collection/pdmr-521955-158-r4/) | 2022 | 3D | MR/SR | Pancreas/ Lung | 20 | No | Cls | Pancreatic adenocarcinoma |
+| 190 | [ICDC-Glioma](https://www.cancerimagingarchive.net/collection/icdc-glioma/) | 2021 | 2D/ 3D | MICROSCOPY/ MR | Brain | 78 | No | Seg | Glioma |
+| 191 | [Generation R Pediatric MR Resources](https://www.nitrc.org/projects/genr) | 2014 | 3D | MR | Brain | 666 | No | Cls | Normative developmental |
+| 192 | [High-quality diffusion-weighted imaging of Parkinson](https://www.nitrc.org/projects/parktdi) | 2014 | 3D | MR | Brain | 53 | No | Cls | Parkinson's disease |
+| 193 | [MGH Neonatal/Pediatric ADC Atlases](https://www.nitrc.org/projects/mgh_adcatlases/) | 2015 | 3D | MR | Brain | 201 | Yes | Reg | Acute brain injury |
+| 194 | [RIDER Phantom MR](https://www.cancerimagingarchive.net/collection/rider-phantom-mri/) | 2011 | 3D | MR | Phantom | 10 | No | QA | Phantom study |
+| 195 | [RIDER Breast MR](https://www.cancerimagingarchive.net/collection/rider-breast-mri/) | 2011 | 3D | MR | Breast | 40 | No | Cls | Breast cancer |
+| 196 | [ATLAS2023](https://atlas-challenge.u-bourgogne.fr/) | 2023 | 3D | MR | Liver | 90 | Yes | Seg | Hepatocellular carcinoma |
+| 197 | [SMILE-UHURA2023](https://www.synapse.org/\#!Synapse:syn47164761/wiki/620033) | 2023 | 3D | MR | Brain | 25 | Yes | Seg | Cerebral Small Vessel Diseases |
+| 198 | [CMRxRecon](https://doi.org/10.5281/zenodo.7840229) | 2023 | 2D/ 3D | MR | Heart | 300 | Yes | Rec/Seg | Cardiac diseases |
 | 199 | [CAS2023](https://codalab.lisn.upsaclay.fr/competitions/9804) | 2023 | 3D | MR | Brain | 150 | Yes | Seg | Anatomical segmentation |
-| 200 | [CROWN2023{vos2023data](https://crown.isi.uu.nl/) | 2023 | 3D | MR | Brain | 600 | Yes | Cls/ Reg | Multiple pathologies |
-| 201 | [QuantConn{newlin2024miccaicdmri](https://doi.org/10.5281/zenodo.7848195) | 2023 | 3D | MR | Brain | 206 | Yes | Rec | Microstructure quantification |
-| 202 | [BONBID-HIE2023{bao2025boston](https://bonbid-hie2023.grand-challenge.org/bonbid-hie2023/) | 2023 | 3D | MR | Brain | 133 | Yes | Seg | Hypoxic Ischemic Encephalopathy |
-| 203 | [LLD-MMR2023{lou2023liver](https://github.com/LMMMEng/LLD-MMR2023) | 2023 | 3D | MR | Liver | 498 | Yes | Cls | Liver diseases |
-| 204 | [WBMR-NF{hospital2023neurofibromatosis](https://mgh-3dqi.github.io/) | 2023 | 3D | MR | Whole-body | 400 | Yes | Seg/Det | Neurofibromatosis |
-| 205 | [SLCN{williams2023surface](https://slcn.grand-challenge.org/) | 2023 | 3D | MR | Brain | 514 | Yes | Reg/Cls | Neurodevelopmental disorders |
-| 206 | [SPPIN2023{buser2025automated](https://sppin.grand-challenge.org/) | 2023 | 3D | MR | Abdomen | 96 | Yes | Seg | Neuroblastoma |
-| 207 | [Shifts Challenge 2022{malinin2022shifts](https://shifts.grand-challenge.org/) | 2022 | 3D | MR | Brain | 172 | Yes | Seg | Multiple sclerosis |
-| 208 | [Mouse-Astrocytoma{jansen2015tcia](https://www.cancerimagingarchive.net/collection/mouse-astrocytoma/) | 2017 | 3D | MR | Brain | 48 | No | Cls | Glioblastoma Multiforme |
-| 209 | [GBM-MR-NER-Outcomes{jain2014outcome](https://doi.org/10.7937/K9/TCIA.2014.FAB7YRPZ) | 2014 | 3D | MR | Brain | 45 | No | Reg | Glioblastoma |
-| 210 | [UPENN-GBM{bakas2022the](https://www.cancerimagingarchive.net/collection/upenn-gbm/) | 2022 | 3D | MR | Brain | 3680 | Yes | Seg | Glioblastoma |
-| 211 | [ISPY1-Tumor-SEG-Radiomics{chitalia2022expert](https://doi.org/10.7937/TCIA.XC7A-QT20) | 2022 | 3D | MR | Breast | 163 | Yes | Seg | Breast cancer |
-| 212 | [I-SPY2 Trial{li2022ispy](https://www.cancerimagingarchive.net/collection/ispy2/) | 2022 | 3D | MR | Breast | 719 | Yes | Seg/ Cls | Breast cancer |
-| 213 | [IvyGAP-Radiomics{pati2020reproducibility](https://www.cancerimagingarchive.net/analysis-result/ivygap-radiomics/) | 2020 | 3D | MR | Brain | 37 | Yes | Seg | Glioblastoma |
-| 214 | [Brain-TR-GammaKnife{wang2023a](https://www.cancerimagingarchive.net/collection/brain-tr-gammaknife/) | 2023 | 3D | MR | Brain | 47 | Yes | Seg/ Cls | Brain cancer |
-| 215 | [ExACT{owczarczyk2023expert](https://www.cancerimagingarchive.net/collection/exact/) | 2023 | 3D | MR | Anus | 30 | Yes | Cls/Loc | Anal cancer |
-| 216 | [ACNS0332-Tumor-Annotations{rozenfeld2022annotations](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=133073385) | 2022 | 3D | MR | Brain | 85 | Yes | Seg | Brain tumor |
-| 217 | [UCSF-PDGM{calabrese2022the](https://www.cancerimagingarchive.net/collection/ucsf-pdgm/) | 2022 | 3D | MR | Brain | 501 | Yes | Seg | Diffuse Gliomas |
-| 218 | [RHUH-GBM{unknown2023the](https://www.cancerimagingarchive.net/collection/rhuh-gbm/) | 2023 | 3D | MR | Brain | 40 | Yes | Seg | Glioblastoma |
-| 219 | [RIDER Neuro MR{barboriak2015data](https://www.cancerimagingarchive.net/collection/rider-neuro-mri/) | 2011 | 3D | MR | Brain | 19 | No | Cls | Brain cancer |
-| 220 | [Meningioma-SEG-CLASS{vassantachart2023segmentation](https://www.cancerimagingarchive.net/collection/meningioma-seg-class/) | 2023 | 3D | MR | Brain | 96 | Yes | Seg/ Cls | Intracranial meningiomas |
-| 221 | [Mouse-Mammary{jansen2015tcia](https://www.cancerimagingarchive.net/collection/mouse-mammary/) | 2015 | 3D | MR | Mammary | 32 | No | Cls | Breast Cancer |
-| 222 | [MRQy-Quality-Measures{sadri2020mrqy](https://www.cancerimagingarchive.net/analysis-result/mrqy-quality-measures/) | 2020 | 3D | MR | Brain, Cervix | 233 | No | QA | Brain and Cervical Cancers |
-| 223 | [DICOM-Glioma-SEG{beers2018dicomseg](https://www.cancerimagingarchive.net/analysis-result/dicom-glioma-seg/) | 2020 | 3D | MR | Brain | 167 | Yes | Seg | Brain cancer |
-| 224 | [ADAM2020{timmins2021comparing](https://adam.isi.uu.nl/) | 2020 | 3D | MR | Brain | 255 | Yes | Seg/Det/Cls | Intracranial aneurysms |
-| 225 | [CSI15{unknown2016computational](https://csi2015.weebly.com/challenges.html) | 2015 | 2D/ 3D | MR/X-RAY | Spine | 345 | Yes | Cls/Seg | Spine conditions |
-| 226 | [LPBA40{shattuck2007construction](https://continuousregistration.grand-challenge.org/data/) | 2001 | 3D | MR | Brain | 40 | Yes | Seg | Healthy |
-| 227 | [Continuous Registration ISBR18{organizers2018continuous](https://continuousregistration.grand-challenge.org/home/) | 2018 | 3D | MR | Brain | 18 | Yes | Seg | Registration challenge |
-| 228 | [CUMC12{center2018cumc](https://continuousregistration.grand-challenge.org/data/) | 2018 | 3D | MR | Head and Neck | 18 | Yes | Seg | Not specified |
-| 229 | [MGH10{hering2021learnreg](https://continuousregistration.grand-challenge.org/data/) | 2018 | 3D | MR | Brain | 10 | Yes | Seg | Anatomical segmentation |
-| 230 | [BrainPTM 2021{nelkenbaum2020automatic](https://brainptm-2021.grand-challenge.org/) | 2021 | 3D | MR | Brain | 75 | Yes | Seg | Brain tumors |
-| 231 | [OpenMind{wald2024an](https://huggingface.co/datasets/AnonRes/OpenMind) | 2024 | 3D | MR | Head and Neck | 114570 | Yes | Seg/Rec | Health Status |
+| 200 | [CROWN2023](https://crown.isi.uu.nl/) | 2023 | 3D | MR | Brain | 600 | Yes | Cls/ Reg | Multiple pathologies |
+| 201 | [QuantConn](https://doi.org/10.5281/zenodo.7848195) | 2023 | 3D | MR | Brain | 206 | Yes | Rec | Microstructure quantification |
+| 202 | [BONBID-HIE2023](https://bonbid-hie2023.grand-challenge.org/bonbid-hie2023/) | 2023 | 3D | MR | Brain | 133 | Yes | Seg | Hypoxic Ischemic Encephalopathy |
+| 203 | [LLD-MMR2023](https://github.com/LMMMEng/LLD-MMR2023) | 2023 | 3D | MR | Liver | 498 | Yes | Cls | Liver diseases |
+| 204 | [WBMR-NF](https://mgh-3dqi.github.io/) | 2023 | 3D | MR | Whole-body | 400 | Yes | Seg/Det | Neurofibromatosis |
+| 205 | [SLCN](https://slcn.grand-challenge.org/) | 2023 | 3D | MR | Brain | 514 | Yes | Reg/Cls | Neurodevelopmental disorders |
+| 206 | [SPPIN2023](https://sppin.grand-challenge.org/) | 2023 | 3D | MR | Abdomen | 96 | Yes | Seg | Neuroblastoma |
+| 207 | [Shifts Challenge 2022](https://shifts.grand-challenge.org/) | 2022 | 3D | MR | Brain | 172 | Yes | Seg | Multiple sclerosis |
+| 208 | [Mouse-Astrocytoma](https://www.cancerimagingarchive.net/collection/mouse-astrocytoma/) | 2017 | 3D | MR | Brain | 48 | No | Cls | Glioblastoma Multiforme |
+| 209 | [GBM-MR-NER-Outcomes](https://doi.org/10.7937/K9/TCIA.2014.FAB7YRPZ) | 2014 | 3D | MR | Brain | 45 | No | Reg | Glioblastoma |
+| 210 | [UPENN-GBM](https://www.cancerimagingarchive.net/collection/upenn-gbm/) | 2022 | 3D | MR | Brain | 3680 | Yes | Seg | Glioblastoma |
+| 211 | [ISPY1-Tumor-SEG-Radiomics](https://doi.org/10.7937/TCIA.XC7A-QT20) | 2022 | 3D | MR | Breast | 163 | Yes | Seg | Breast cancer |
+| 212 | [I-SPY2 Trial](https://www.cancerimagingarchive.net/collection/ispy2/) | 2022 | 3D | MR | Breast | 719 | Yes | Seg/ Cls | Breast cancer |
+| 213 | [IvyGAP-Radiomics](https://www.cancerimagingarchive.net/analysis-result/ivygap-radiomics/) | 2020 | 3D | MR | Brain | 37 | Yes | Seg | Glioblastoma |
+| 214 | [Brain-TR-GammaKnife](https://www.cancerimagingarchive.net/collection/brain-tr-gammaknife/) | 2023 | 3D | MR | Brain | 47 | Yes | Seg/ Cls | Brain cancer |
+| 215 | [ExACT](https://www.cancerimagingarchive.net/collection/exact/) | 2023 | 3D | MR | Anus | 30 | Yes | Cls/Loc | Anal cancer |
+| 216 | [ACNS0332-Tumor-Annotations](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=133073385) | 2022 | 3D | MR | Brain | 85 | Yes | Seg | Brain tumor |
+| 217 | [UCSF-PDGM](https://www.cancerimagingarchive.net/collection/ucsf-pdgm/) | 2022 | 3D | MR | Brain | 501 | Yes | Seg | Diffuse Gliomas |
+| 218 | [RHUH-GBM](https://www.cancerimagingarchive.net/collection/rhuh-gbm/) | 2023 | 3D | MR | Brain | 40 | Yes | Seg | Glioblastoma |
+| 219 | [RIDER Neuro MR](https://www.cancerimagingarchive.net/collection/rider-neuro-mri/) | 2011 | 3D | MR | Brain | 19 | No | Cls | Brain cancer |
+| 220 | [Meningioma-SEG-CLASS](https://www.cancerimagingarchive.net/collection/meningioma-seg-class/) | 2023 | 3D | MR | Brain | 96 | Yes | Seg/ Cls | Intracranial meningiomas |
+| 221 | [Mouse-Mammary](https://www.cancerimagingarchive.net/collection/mouse-mammary/) | 2015 | 3D | MR | Mammary | 32 | No | Cls | Breast Cancer |
+| 222 | [MRQy-Quality-Measures](https://www.cancerimagingarchive.net/analysis-result/mrqy-quality-measures/) | 2020 | 3D | MR | Brain, Cervix | 233 | No | QA | Brain and Cervical Cancers |
+| 223 | [DICOM-Glioma-SEG](https://www.cancerimagingarchive.net/analysis-result/dicom-glioma-seg/) | 2020 | 3D | MR | Brain | 167 | Yes | Seg | Brain cancer |
+| 224 | [ADAM2020](https://adam.isi.uu.nl/) | 2020 | 3D | MR | Brain | 255 | Yes | Seg/Det/Cls | Intracranial aneurysms |
+| 225 | [CSI15](https://csi2015.weebly.com/challenges.html) | 2015 | 2D/ 3D | MR/X-RAY | Spine | 345 | Yes | Cls/Seg | Spine conditions |
+| 226 | [LPBA40](https://continuousregistration.grand-challenge.org/data/) | 2001 | 3D | MR | Brain | 40 | Yes | Seg | Healthy |
+| 227 | [Continuous Registration ISBR18](https://continuousregistration.grand-challenge.org/home/) | 2018 | 3D | MR | Brain | 18 | Yes | Seg | Registration challenge |
+| 228 | [CUMC12](https://continuousregistration.grand-challenge.org/data/) | 2018 | 3D | MR | Head and Neck | 18 | Yes | Seg | Not specified |
+| 229 | [MGH10](https://continuousregistration.grand-challenge.org/data/) | 2018 | 3D | MR | Brain | 10 | Yes | Seg | Anatomical segmentation |
+| 230 | [BrainPTM 2021](https://brainptm-2021.grand-challenge.org/) | 2021 | 3D | MR | Brain | 75 | Yes | Seg | Brain tumors |
+| 231 | [OpenMind](https://huggingface.co/datasets/AnonRes/OpenMind) | 2024 | 3D | MR | Head and Neck | 114570 | Yes | Seg/Rec | Health Status |
 
 ### ☢️ 3D PET Datasets
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Volumes | Label | Task | Diseases |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | [QIN PET Phantom{beichel2015qin](https://www.cancerimagingarchive.net/collection/qin-pet-phantom/) | 2014 | 3D | PET | Body | 2 | Yes | Seg | Phantom study |
-| 2 | [AutoPET{gatidis2022a](https://autopet.grand-challenge.org/) | 2022 | 3D | PET/CT | Whole-body | 1014 | Yes | Seg | Cancer |
-| 3 | [AutoPET II{gatidis2023autopetii](https://autopet-ii.grand-challenge.org/) | 2023 | 3D | PET/CT | Whole-body | 1219 | Yes | Seg | Cancer |
-| 4 | [COVID-19-NY-SBU{saltz2021stony](https://www.cancerimagingarchive.net/collection/covid-19-ny-sbu/) | 2021 | 2D/ 3D | PET/CT/ MR/ X-RAY | Brain/ Chest | 1384 | No | Cls | COVID-19 |
-| 5 | [HECKTOR 2020{andrearczyk2020overview](https://www.aicrowd.com/challenges/miccai-2020-hecktor) | 2020 | 3D | PET/CT | Head and Neck | 254 | Yes | Seg | Head and Neck Cancer |
-| 6 | [HECKTOR 2021{unknown2022untitled](https://www.aicrowd.com/challenges/miccai-2021-hecktor) | 2021 | 3D | PET/CT | Head and Neck | 325 | Yes | Seg/ Reg | Head and Neck Cancer |
-| 7 | [HECKTOR 2022{andrearczyk2023overview](https://www.aicrowd.com/challenges/miccai-2022-hecktor) | 2022 | 3D | PET/CT | Head and Neck | 883 | Yes | Seg/ Reg | Head and Neck Cancer |
-| 8 | [ACRIN-HNSCC-FDG-PET-CT (ACRIN 6685){lowe2019multicenter](https://www.cancerimagingarchive.net/collection/acrin-hnscc-fdg-pet-ct/) | 2016 | 3D | PET/CT/MR/NM | Head and Neck | 260 | Yes | Cls | Head and Neck Cancer |
-| 9 | [ACRIN-FLT-Breast (ACRIN 6688){kostakoglu2015a](https://www.cancerimagingarchive.net/collection/acrin-flt-breast/) | 2017 | 3D | PET/CT | Breast | 83 | Yes | Cls | Breast Cancer |
-| 10 | [ACRIN-FMISO-Brain (ACRIN 6684){kinahan2018data](https://www.cancerimagingarchive.net/collection/acrin-fmiso-brain/) | 2016 | 3D | PET/CT/MR | Brain | 45 | Yes | Seg/Cls | Glioblastoma |
-| 11 | [ACRIN-NSCLC-FDG-PET (ACRIN 6668){kinahan2019data](https://www.cancerimagingarchive.net/collection/acrin-nsclc-fdg-pet/) | 2020 | 3D | PET/CT | Lung | 242 | Yes | Cls | Lung cancer |
-| 12 | [AREN0532{aren0532dataset](https://www.cancerimagingarchive.net/collection/aren0532/) | 2022 | 2D/3D | PET/CR/ CT/ MR/ RTIMAGE/ US | Kidney | 544 | No | Cls | Wilms tumor |
-| 13 | [AREN0534{aren0534dataset](https://www.cancerimagingarchive.net/collection/aren0534/) | 2021 | 2D/ 3D | PET/CT/ MR/ US | Kidney | 239 | Yes | Seg | Wilms tumor |
-| 14 | [AHOD0831{kelly2022combination](https://www.cancerimagingarchive.net/collection/ahod0831/) | 2022 | 2D/3D | PET/CR/ CT/ DX/ MR/ NM/ OT/ SC/ XA | Lymphatic | 165 | Yes | Seg | Hodgkin Lymphoma |
-| 15 | [AHOD0831-Tumor-Annotations{rozenfeld2023annotations](https://doi.org/10.7937/4QAD-4280                  ) | 2023 | 3D | PET/CT | Lymph nodes, spleen, salivary glands, Waldeyer'... | 165 | Yes | Seg | Hodgkin Lymphoma |
-| 16 | [HNSCC{grossberg2018imaging](https://www.cancerimagingarchive.net/collection/hnscc/) | 2020 | 3D | PET/CT/MR | Head and Neck | 627 | Yes | Seg | Head and Neck Cancer |
-| 17 | [CC-Tumor Heterogeneity{mayr2023cervical](https://www.cancerimagingarchive.net/collection/cc-tumor-heterogeneity/) | 2023 | 3D | PET/CT/MR | Cervix | 23 | Yes | Seg/Cls | Cervical cancer |
-| 18 | [TCGA-BLCA{kirk2016the](https://www.cancerimagingarchive.net/collection/tcga-blca/) | 2014 | 3D | PET/CT/ MR/ X-RAY | Bladder | 120 | No | Cls | Bladder carcinoma |
-| 19 | [TCGA-HNSC{zuley2016the](https://www.cancerimagingarchive.net/collection/tcga-hnsc/) | 2014 | 3D | PET/CT/ MR | Head and Neck | 479 | No | Cls | Head and Neck Cancer |
-| 20 | [TCGA-KIRP{linehan2016the](https://www.cancerimagingarchive.net/collection/tcga-kirp/) | 2014 | 3D | PET/CT/ MR | Kidney | 33 | No | Cls | Kidney cancer |
-| 21 | [TCGA-LIHC{erickson2016the](https://www.cancerimagingarchive.net/collection/tcga-lihc/) | 2014 | 2D/3D | PET/CT/MR | Liver | 97 | No | Cls | Liver cancer |
-| 22 | [TCGA-LUSC{kirk2016the](https://www.cancerimagingarchive.net/collection/tcga-lusc/) | 2016 | 3D | PET/CT | Lung | 37 | No | Cls | Lung cancer |
-| 23 | [TCGA-PRAD{zuley2016the](https://www.cancerimagingarchive.net/collection/tcga-prad/) | 2015 | 3D | PET/CT/MR | Prostate | 14 | No | Cls | Prostate cancer |
-| 24 | [TCGA-UCEC{erickson2016the](https://www.cancerimagingarchive.net/collection/tcga-ucec/) | 2020 | 3D | PET/CT/ MR/ X-RAY | Uterus | 65 | No | Cls | Uterine cancer |
-| 25 | [CPTAC-LSCC{cptac2018the](https://www.cancerimagingarchive.net/collection/cptac-lscc/) | 2018 | 2D/3D | PET/CT/ MICROSCOPY | Lung | 212 | No | Cls | Lung cancer |
-| 26 | [CPTAC-LUAD{unknown2018untitled](https://www.cancerimagingarchive.net/collection/cptac-luad/) | 2018 | 2D/ 3D | PET/CT/ MR | Lung | 244 | No | Cls | Lung cancer |
-| 27 | [CPTAC-PDA{unknown2018untitled](https://www.cancerimagingarchive.net/collection/cptac-pda/) | 2018 | 3D | PET/CT/ MR/ US | Pancreas | 168 | No | Cls | Pancreatic cancer |
-| 28 | [CPTAC-SAR{cptac2019the](https://www.cancerimagingarchive.net/collection/cptac-sar/) | 2019 | 2D/ 3D | PET/CT/ MR/ US | Abdomen/ Arm/ Bladder/ Chest/ Head–Neck/ Kidney/ Leg/... | 88 | No | Cls | Sarcomas |
-| 29 | [CPTAC-UCEC{cptac2019the](https://www.cancerimagingarchive.net/collection/cptac-ucec/) | 2019 | 2D/ 3D | PET/CT/ MR/ US | Uterus | 250 | No | Cls | Endometrial Carcinoma |
-| 30 | [NSCLC-Radiogenomics{bakr2018a](https://www.cancerimagingarchive.net/collection/nsclc-radiogenomics/) | 2015 | 3D | PET/CT | Chest | 211 | Yes | Seg/ Cls | Lung cancer |
-| 31 | [CMB-CRC{biobank2022cancer](https://doi.org/10.7937/DJG7-GZ87) | 2022 | 2D/3D | PET/CT/ MR/ US/ WSI | Colon | 12 | No | Cls | Colorectal Cancer |
-| 32 | [CMB-GEC{biobank2022cancer](https://www.cancerimagingarchive.net/collection/cmb-gec/) | 2022 | 2D/3D | PET/CT/ MICROSCOPY/ MR | Esophagus | 17 | No | Seg/Cls | Gastroesophageal Cancer |
-| 33 | [CMB-MEL{biobank2022cancer](https://doi.org/10.7937/GWSP-WH72) | 2022 | 2D/ 3D | PET/CT/ US/ WSI | Skin | 40 | No | Cls | Melanoma |
-| 34 | [CMB-MML{biobank2022cancer](https://www.cancerimagingarchive.net/collection/cmb-mml/) | 2022 | 2D/3D | PET/CR/ CT/ DX/ HISTOPATHOLOGY/ MR/ XA | Blood/Bone | 138 | No | Cls | Multiple Myeloma |
-| 35 | [CMB-PCA{biobank2022cancer](https://www.cancerimagingarchive.net/collection/cmb-pca/) | 2022 | 2D/3D | PET/CT/ DX/ MR/ NM/ RF | Prostate | 50 | No | Cls | Prostate cancer |
-| 36 | [QIN-Breast{li2015multiparametric](https://www.cancerimagingarchive.net/collection/qin-breast/) | 2015 | 3D | PET/CT/ MR | Breast | 68 | Yes | Cls | Breast cancer |
-| 37 | [QIN-HEADNECK{fedorov2016dicom](https://www.cancerimagingarchive.net/collection/qin-headneck/) | 2015 | 3D | PET/CT | Head and Neck | 279 | Yes | Seg | Head and neck carcinomas |
-| 38 | [AHEP0731{katzenstein2021riskbased](https://www.cancerimagingarchive.net/collection/ahep0731/) | 2021 | 3D | PET/CT/ MR/ US/ XA | Liver/ Chest | 190 | No | Seg/ Cls | Liver Cancer |
-| 39 | [Anti-PD-1 Lung{patnana2019data](https://www.cancerimagingarchive.net/collection/anti-pd-1_lung/) | 2019 | 3D | PET/CT/ SC | Lung | 46 | No | Cls | Lung cancer |
-| 40 | [CALGB50303{bartlett2020rituximab](https://www.cancerimagingarchive.net/collection/calgb50303/) | 2021 | 3D | PET/CT | Chest/ Abdomen/ Pelvis | 155 | Yes | Cls | Diffuse Large B-Cell Lymphoma |
-| 41 | [Head-Neck Cetuximab (RTOG 0522){ang2014randomized](https://www.cancerimagingarchive.net/collection/head-neck-cetuximab/) | 2013 | 3D | PET/CT | Head and Neck | 111 | No | Cls | Head and Neck Carcinomas |
-| 42 | [Head-Neck-PET-CT{vallires2017radiomics](https://wiki.cancerimagingarchive.net/display/Public/Head-Neck-PET-CT) | 2017 | 3D | PET/CT | Head and Neck | 298 | Yes | Seg/ Cls | Head and Neck Cancer |
-| 43 | [Head-Neck-Radiomics-HN1{aerts2014decoding](https://www.cancerimagingarchive.net/collection/head-neck-radiomics-hn1/) | 2019 | 3D | PET/CT | Head/ Neck | 137 | Yes | Seg | Head and Neck Cancer |
-| 44 | [Lung-PET-CT-Dx{li2020a](https://www.cancerimagingarchive.net/collection/lung-pet-ct-dx/) | 2020 | 3D | PET/CT | Lung | 355 | Yes | Cls/ Det | Lung cancer |
-| 45 | [Anti-PD-1 Immunotherapy Melanoma{patnana2019antipd](https://www.cancerimagingarchive.net/collection/anti-pd-1_melanoma/) | 2019 | 3D | PET/CT/MR | Skin | 47 | No | Cls | Melanoma |
-| 46 | [BREAST-DIAGNOSIS{bloch2015breastdiagnosis](https://www.cancerimagingarchive.net/collection/breast-diagnosis/) | 2011 | 2D/ 3D | PET/CT/MG/MR | Breast | 88 | Yes | Cls | Breast cancer |
-| 47 | [Parkinson{'](https://www.ppmi-info.org/access-data-specimens/download-data) | 2010 | 3D | PET/MR/SPECT | Brain | 683 | Yes | Cls | Parkinson's Disease |
-| 48 | [QIDW{latour2015quantitative](https://qidw.rsna.org/) | 2015 | 3D | PET/CT/MR/US | Lung | 52000 | No | QA | Quality assurance |
-| 49 | [RIDER Lung PET-CT{muzi2015data](https://www.cancerimagingarchive.net/collection/rider-lung-pet-ct/) | 2015 | 3D | PET/CT | Lung | 243 | No | Cls | Lung cancer |
-| 50 | [Soft-tissue-Sarcoma{vallieres2015a](https://www.cancerimagingarchive.net/collection/soft-tissue-sarcoma/) | 2015 | 3D | PET/CT/MR | Extremities | 51 | Yes | Seg/Cls | Soft-tissue sarcoma |
-| 51 | [Seg Soft Tissue{tianchi2021softtissue](https://tianchi.aliyun.com/dataset/dataDetail?dataId=89694) | 2021 | 3D | PET/CT/MR | Soft tissue | 51 | Yes | Seg | Soft-tissue sarcomas (preprocessed) |
-| 52 | [fastPET-LD{green2021fastpetld](https://fastpet-ld.grand-challenge.org/) | 2021 | 3D | PET/CT | Whole Body | 68 | Yes | Det | Oncologic Imaging |
-| 53 | [CT-vs-PET-Ventilation-Imaging{eslick2022ct](https://www.cancerimagingarchive.net/collection/ct-vs-pet-ventilation-imaging/) | 2022 | 3D | PET/CT | Lung | 20 | No | Cls | Lung cancer |
-| 54 | [NaF PROSTATE{kurdziel2015data](https://www.cancerimagingarchive.net/collection/naf-prostate/) | 2013 | 3D | PET/CT | Prostate | 9 | No | Cls | Prostate cancer |
-| 55 | [Pseudo-PHI-DICOM-Data{rutherford2021a](https://www.cancerimagingarchive.net/collection/pseudo-phi-dicom-data/) | 2021 | 2D/3D | PET/CT/MR/X-RAY | Various | 21 | No | Reg | Various cancers |
-| 56 | [PDMR-833975-119-R{tatum2020imaging](https://doi.org/10.7937/TCIA.0ECK-C338) | 2020 | 3D | PET/CT/MR | Pancreas | 20 | No | Cls | Pancreatic adenocarcinoma |
-| 57 | [APOLLO-5-LSCC{apollo2021lscc](https://doi.org/10.7937/TCIA.QQ0G-EB24) | 2021 | 3D | PET/CT | Lung | 36 | Yes | Seg | Lung squamous cell carcinoma |
-| 58 | [ARAR0331{rodriguezgalindo2022radiation](https://www.cancerimagingarchive.net/collection/arar0331/) | 2022 | 3D | PET/CT/MR | Head | 108 | Yes | Seg | Nasopharyngeal cancer |
-| 59 | [CALGB50303-Tumor-Annotations{rozenfeld2023annotations](https://www.cancerimagingarchive.net/analysis-result/calgb50303-tumor-annotations/) | 2023 | 3D | PET/CT | Lymphatic system | 155 | Yes | Seg/ Cls | Diffuse Large B-Cell Lymphoma |
-| 60 | [OASIS-3{lamontagne2019oasis](https://www.oasis-brains.org/) | 2019 | 3D | PET/CT/MR | Brain | 5699 | Yes | Seg/Cls | Alzheimer's Disease |
-| 61 | [TADPOLE{marinescu2020predicting](https://tadpole.grand-challenge.org/Home/) | 2017 | 3D | PET/MR | Brain | 1667 | Yes | Cls/ Reg | Alzheimer's Disease |
-| 62 | [ADNI{mueller2005ways](https://adni.loni.usc.edu) | 2017 | 3D | PET/MR | Brain | 2500 | No | Cls | Alzheimer's Disease |
-| 63 | [ADNIDOD{weiner2017effects](https://ida.loni.usc.edu/login.jsp?project=ADNIDOD) | 2017 | 3D | PET/MR | Brain | 195 | No | Cls | Alzheimer's Disease |
-| 64 | [AIBL{ellis2009the](https://www.aibl.csiro.au/adni/index.html) | 2017 | 3D | PET/MR | Brain | 278 | Yes | Cls | Alzheimer's Disease |
-| 65 | [PETfrog{larsen2020maturation](https://openneuro.org/datasets/ds002385/versions/1.1.0) | 2020 | 3D | PET/MR | Brain | 238 | No | Cls | Brain development |
+| 1 | [QIN PET Phantom](https://www.cancerimagingarchive.net/collection/qin-pet-phantom/) | 2014 | 3D | PET | Body | 2 | Yes | Seg | Phantom study |
+| 2 | [AutoPET](https://autopet.grand-challenge.org/) | 2022 | 3D | PET/CT | Whole-body | 1014 | Yes | Seg | Cancer |
+| 3 | [AutoPET II](https://autopet-ii.grand-challenge.org/) | 2023 | 3D | PET/CT | Whole-body | 1219 | Yes | Seg | Cancer |
+| 4 | [COVID-19-NY-SBU](https://www.cancerimagingarchive.net/collection/covid-19-ny-sbu/) | 2021 | 2D/ 3D | PET/CT/ MR/ X-RAY | Brain/ Chest | 1384 | No | Cls | COVID-19 |
+| 5 | [HECKTOR 2020](https://www.aicrowd.com/challenges/miccai-2020-hecktor) | 2020 | 3D | PET/CT | Head and Neck | 254 | Yes | Seg | Head and Neck Cancer |
+| 6 | [HECKTOR 2021](https://www.aicrowd.com/challenges/miccai-2021-hecktor) | 2021 | 3D | PET/CT | Head and Neck | 325 | Yes | Seg/ Reg | Head and Neck Cancer |
+| 7 | [HECKTOR 2022](https://www.aicrowd.com/challenges/miccai-2022-hecktor) | 2022 | 3D | PET/CT | Head and Neck | 883 | Yes | Seg/ Reg | Head and Neck Cancer |
+| 8 | [ACRIN-HNSCC-FDG-PET-CT (ACRIN 6685)](https://www.cancerimagingarchive.net/collection/acrin-hnscc-fdg-pet-ct/) | 2016 | 3D | PET/CT/MR/NM | Head and Neck | 260 | Yes | Cls | Head and Neck Cancer |
+| 9 | [ACRIN-FLT-Breast (ACRIN 6688)](https://www.cancerimagingarchive.net/collection/acrin-flt-breast/) | 2017 | 3D | PET/CT | Breast | 83 | Yes | Cls | Breast Cancer |
+| 10 | [ACRIN-FMISO-Brain (ACRIN 6684)](https://www.cancerimagingarchive.net/collection/acrin-fmiso-brain/) | 2016 | 3D | PET/CT/MR | Brain | 45 | Yes | Seg/Cls | Glioblastoma |
+| 11 | [ACRIN-NSCLC-FDG-PET (ACRIN 6668)](https://www.cancerimagingarchive.net/collection/acrin-nsclc-fdg-pet/) | 2020 | 3D | PET/CT | Lung | 242 | Yes | Cls | Lung cancer |
+| 12 | [AREN0532](https://www.cancerimagingarchive.net/collection/aren0532/) | 2022 | 2D/3D | PET/CR/ CT/ MR/ RTIMAGE/ US | Kidney | 544 | No | Cls | Wilms tumor |
+| 13 | [AREN0534](https://www.cancerimagingarchive.net/collection/aren0534/) | 2021 | 2D/ 3D | PET/CT/ MR/ US | Kidney | 239 | Yes | Seg | Wilms tumor |
+| 14 | [AHOD0831](https://www.cancerimagingarchive.net/collection/ahod0831/) | 2022 | 2D/3D | PET/CR/ CT/ DX/ MR/ NM/ OT/ SC/ XA | Lymphatic | 165 | Yes | Seg | Hodgkin Lymphoma |
+| 15 | [AHOD0831-Tumor-Annotations](https://doi.org/10.7937/4QAD-4280                  ) | 2023 | 3D | PET/CT | Lymph nodes, spleen, salivary glands, Waldeyer'... | 165 | Yes | Seg | Hodgkin Lymphoma |
+| 16 | [HNSCC](https://www.cancerimagingarchive.net/collection/hnscc/) | 2020 | 3D | PET/CT/MR | Head and Neck | 627 | Yes | Seg | Head and Neck Cancer |
+| 17 | [CC-Tumor Heterogeneity](https://www.cancerimagingarchive.net/collection/cc-tumor-heterogeneity/) | 2023 | 3D | PET/CT/MR | Cervix | 23 | Yes | Seg/Cls | Cervical cancer |
+| 18 | [TCGA-BLCA](https://www.cancerimagingarchive.net/collection/tcga-blca/) | 2014 | 3D | PET/CT/ MR/ X-RAY | Bladder | 120 | No | Cls | Bladder carcinoma |
+| 19 | [TCGA-HNSC](https://www.cancerimagingarchive.net/collection/tcga-hnsc/) | 2014 | 3D | PET/CT/ MR | Head and Neck | 479 | No | Cls | Head and Neck Cancer |
+| 20 | [TCGA-KIRP](https://www.cancerimagingarchive.net/collection/tcga-kirp/) | 2014 | 3D | PET/CT/ MR | Kidney | 33 | No | Cls | Kidney cancer |
+| 21 | [TCGA-LIHC](https://www.cancerimagingarchive.net/collection/tcga-lihc/) | 2014 | 2D/3D | PET/CT/MR | Liver | 97 | No | Cls | Liver cancer |
+| 22 | [TCGA-LUSC](https://www.cancerimagingarchive.net/collection/tcga-lusc/) | 2016 | 3D | PET/CT | Lung | 37 | No | Cls | Lung cancer |
+| 23 | [TCGA-PRAD](https://www.cancerimagingarchive.net/collection/tcga-prad/) | 2015 | 3D | PET/CT/MR | Prostate | 14 | No | Cls | Prostate cancer |
+| 24 | [TCGA-UCEC](https://www.cancerimagingarchive.net/collection/tcga-ucec/) | 2020 | 3D | PET/CT/ MR/ X-RAY | Uterus | 65 | No | Cls | Uterine cancer |
+| 25 | [CPTAC-LSCC](https://www.cancerimagingarchive.net/collection/cptac-lscc/) | 2018 | 2D/3D | PET/CT/ MICROSCOPY | Lung | 212 | No | Cls | Lung cancer |
+| 26 | [CPTAC-LUAD](https://www.cancerimagingarchive.net/collection/cptac-luad/) | 2018 | 2D/ 3D | PET/CT/ MR | Lung | 244 | No | Cls | Lung cancer |
+| 27 | [CPTAC-PDA](https://www.cancerimagingarchive.net/collection/cptac-pda/) | 2018 | 3D | PET/CT/ MR/ US | Pancreas | 168 | No | Cls | Pancreatic cancer |
+| 28 | [CPTAC-SAR](https://www.cancerimagingarchive.net/collection/cptac-sar/) | 2019 | 2D/ 3D | PET/CT/ MR/ US | Abdomen/ Arm/ Bladder/ Chest/ Head–Neck/ Kidney/ Leg/... | 88 | No | Cls | Sarcomas |
+| 29 | [CPTAC-UCEC](https://www.cancerimagingarchive.net/collection/cptac-ucec/) | 2019 | 2D/ 3D | PET/CT/ MR/ US | Uterus | 250 | No | Cls | Endometrial Carcinoma |
+| 30 | [NSCLC-Radiogenomics](https://www.cancerimagingarchive.net/collection/nsclc-radiogenomics/) | 2015 | 3D | PET/CT | Chest | 211 | Yes | Seg/ Cls | Lung cancer |
+| 31 | [CMB-CRC](https://doi.org/10.7937/DJG7-GZ87) | 2022 | 2D/3D | PET/CT/ MR/ US/ WSI | Colon | 12 | No | Cls | Colorectal Cancer |
+| 32 | [CMB-GEC](https://www.cancerimagingarchive.net/collection/cmb-gec/) | 2022 | 2D/3D | PET/CT/ MICROSCOPY/ MR | Esophagus | 17 | No | Seg/Cls | Gastroesophageal Cancer |
+| 33 | [CMB-MEL](https://doi.org/10.7937/GWSP-WH72) | 2022 | 2D/ 3D | PET/CT/ US/ WSI | Skin | 40 | No | Cls | Melanoma |
+| 34 | [CMB-MML](https://www.cancerimagingarchive.net/collection/cmb-mml/) | 2022 | 2D/3D | PET/CR/ CT/ DX/ HISTOPATHOLOGY/ MR/ XA | Blood/Bone | 138 | No | Cls | Multiple Myeloma |
+| 35 | [CMB-PCA](https://www.cancerimagingarchive.net/collection/cmb-pca/) | 2022 | 2D/3D | PET/CT/ DX/ MR/ NM/ RF | Prostate | 50 | No | Cls | Prostate cancer |
+| 36 | [QIN-Breast](https://www.cancerimagingarchive.net/collection/qin-breast/) | 2015 | 3D | PET/CT/ MR | Breast | 68 | Yes | Cls | Breast cancer |
+| 37 | [QIN-HEADNECK](https://www.cancerimagingarchive.net/collection/qin-headneck/) | 2015 | 3D | PET/CT | Head and Neck | 279 | Yes | Seg | Head and neck carcinomas |
+| 38 | [AHEP0731](https://www.cancerimagingarchive.net/collection/ahep0731/) | 2021 | 3D | PET/CT/ MR/ US/ XA | Liver/ Chest | 190 | No | Seg/ Cls | Liver Cancer |
+| 39 | [Anti-PD-1 Lung](https://www.cancerimagingarchive.net/collection/anti-pd-1_lung/) | 2019 | 3D | PET/CT/ SC | Lung | 46 | No | Cls | Lung cancer |
+| 40 | [CALGB50303](https://www.cancerimagingarchive.net/collection/calgb50303/) | 2021 | 3D | PET/CT | Chest/ Abdomen/ Pelvis | 155 | Yes | Cls | Diffuse Large B-Cell Lymphoma |
+| 41 | [Head-Neck Cetuximab (RTOG 0522)](https://www.cancerimagingarchive.net/collection/head-neck-cetuximab/) | 2013 | 3D | PET/CT | Head and Neck | 111 | No | Cls | Head and Neck Carcinomas |
+| 42 | [Head-Neck-PET-CT](https://wiki.cancerimagingarchive.net/display/Public/Head-Neck-PET-CT) | 2017 | 3D | PET/CT | Head and Neck | 298 | Yes | Seg/ Cls | Head and Neck Cancer |
+| 43 | [Head-Neck-Radiomics-HN1](https://www.cancerimagingarchive.net/collection/head-neck-radiomics-hn1/) | 2019 | 3D | PET/CT | Head/ Neck | 137 | Yes | Seg | Head and Neck Cancer |
+| 44 | [Lung-PET-CT-Dx](https://www.cancerimagingarchive.net/collection/lung-pet-ct-dx/) | 2020 | 3D | PET/CT | Lung | 355 | Yes | Cls/ Det | Lung cancer |
+| 45 | [Anti-PD-1 Immunotherapy Melanoma](https://www.cancerimagingarchive.net/collection/anti-pd-1_melanoma/) | 2019 | 3D | PET/CT/MR | Skin | 47 | No | Cls | Melanoma |
+| 46 | [BREAST-DIAGNOSIS](https://www.cancerimagingarchive.net/collection/breast-diagnosis/) | 2011 | 2D/ 3D | PET/CT/MG/MR | Breast | 88 | Yes | Cls | Breast cancer |
+| 47 | [Parkinson](https://www.ppmi-info.org/access-data-specimens/download-data) | 2010 | 3D | PET/MR/SPECT | Brain | 683 | Yes | Cls | Parkinson's Disease |
+| 48 | [QIDW](https://qidw.rsna.org/) | 2015 | 3D | PET/CT/MR/US | Lung | 52000 | No | QA | Quality assurance |
+| 49 | [RIDER Lung PET-CT](https://www.cancerimagingarchive.net/collection/rider-lung-pet-ct/) | 2015 | 3D | PET/CT | Lung | 243 | No | Cls | Lung cancer |
+| 50 | [Soft-tissue-Sarcoma](https://www.cancerimagingarchive.net/collection/soft-tissue-sarcoma/) | 2015 | 3D | PET/CT/MR | Extremities | 51 | Yes | Seg/Cls | Soft-tissue sarcoma |
+| 51 | [Seg Soft Tissue](https://tianchi.aliyun.com/dataset/dataDetail?dataId=89694) | 2021 | 3D | PET/CT/MR | Soft tissue | 51 | Yes | Seg | Soft-tissue sarcomas (preprocessed) |
+| 52 | [fastPET-LD](https://fastpet-ld.grand-challenge.org/) | 2021 | 3D | PET/CT | Whole Body | 68 | Yes | Det | Oncologic Imaging |
+| 53 | [CT-vs-PET-Ventilation-Imaging](https://www.cancerimagingarchive.net/collection/ct-vs-pet-ventilation-imaging/) | 2022 | 3D | PET/CT | Lung | 20 | No | Cls | Lung cancer |
+| 54 | [NaF PROSTATE](https://www.cancerimagingarchive.net/collection/naf-prostate/) | 2013 | 3D | PET/CT | Prostate | 9 | No | Cls | Prostate cancer |
+| 55 | [Pseudo-PHI-DICOM-Data](https://www.cancerimagingarchive.net/collection/pseudo-phi-dicom-data/) | 2021 | 2D/3D | PET/CT/MR/X-RAY | Various | 21 | No | Reg | Various cancers |
+| 56 | [PDMR-833975-119-R](https://doi.org/10.7937/TCIA.0ECK-C338) | 2020 | 3D | PET/CT/MR | Pancreas | 20 | No | Cls | Pancreatic adenocarcinoma |
+| 57 | [APOLLO-5-LSCC](https://doi.org/10.7937/TCIA.QQ0G-EB24) | 2021 | 3D | PET/CT | Lung | 36 | Yes | Seg | Lung squamous cell carcinoma |
+| 58 | [ARAR0331](https://www.cancerimagingarchive.net/collection/arar0331/) | 2022 | 3D | PET/CT/MR | Head | 108 | Yes | Seg | Nasopharyngeal cancer |
+| 59 | [CALGB50303-Tumor-Annotations](https://www.cancerimagingarchive.net/analysis-result/calgb50303-tumor-annotations/) | 2023 | 3D | PET/CT | Lymphatic system | 155 | Yes | Seg/ Cls | Diffuse Large B-Cell Lymphoma |
+| 60 | [OASIS-3](https://www.oasis-brains.org/) | 2019 | 3D | PET/CT/MR | Brain | 5699 | Yes | Seg/Cls | Alzheimer's Disease |
+| 61 | [TADPOLE](https://tadpole.grand-challenge.org/Home/) | 2017 | 3D | PET/MR | Brain | 1667 | Yes | Cls/ Reg | Alzheimer's Disease |
+| 62 | [ADNI](https://adni.loni.usc.edu) | 2017 | 3D | PET/MR | Brain | 2500 | No | Cls | Alzheimer's Disease |
+| 63 | [ADNIDOD](https://ida.loni.usc.edu/login.jsp?project=ADNIDOD) | 2017 | 3D | PET/MR | Brain | 195 | No | Cls | Alzheimer's Disease |
+| 64 | [AIBL](https://www.aibl.csiro.au/adni/index.html) | 2017 | 3D | PET/MR | Brain | 278 | Yes | Cls | Alzheimer's Disease |
+| 65 | [PETfrog](https://openneuro.org/datasets/ds002385/versions/1.1.0) | 2020 | 3D | PET/MR | Brain | 238 | No | Cls | Brain development |
 
 ### 🩺 3D Ultrasound Datasets
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Volumes | Label | Task | Diseases |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | [TDSC-ABUS2023{luo2025tumor](https://tdsc-abus2023.grand-challenge.org/) | 2023 | 3D | US | Breast | 200 | Yes | Seg/ Cls/ Det | Breast cancer |
-| 2 | [CETUS2014{bernard2014challenge](https://www.creatis.insa-lyon.fr/Challenge/CETUS/index.html) | 2014 | 3D | US | Heart | 45 | Yes | Seg | Cardiac conditions |
-| 3 | [MVSeg-3DTEE2023{carnahan2023towards](https://www.synapse.org/\#!Synapse:syn51186045/wiki/621356) | 2023 | 3D | US | Mitral valve | 175 | Yes | Seg | Mitral valve disease |
-| 4 | [AREN0532{aren0532dataset](https://www.cancerimagingarchive.net/collection/aren0532/) | 2022 | 2D/3D | US/ CR/ CT/ MR/ PET/ RTIMAGE | Kidney | 544 | No | Cls | Wilms tumor |
-| 5 | [AREN0533{aren0533dataset](https://www.cancerimagingarchive.net/collection/aren0533/) | 2022 | 3D | US/CR/CT/MR | Kidney | 294 | No | Cls | Wilms tumor |
-| 6 | [AREN0533-Tumor-Annotations{rozenfeld2023aren0533annotations](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=140312904) | 2023 | 3D | US/CR/CT/MR | Kidney | 294 | Yes | Seg | Wilms tumor |
-| 7 | [AREN0534{aren0534dataset](https://www.cancerimagingarchive.net/collection/aren0534/) | 2021 | 2D/3D | US/ CT/ MR/ PET | Kidney | 239 | Yes | Seg | Wilms tumor |
-| 8 | [CPTAC-PDA{unknown2018untitled](https://www.cancerimagingarchive.net/collection/cptac-pda/) | 2018 | 3D | US/ CT/ MR/ PET | Pancreas | 168 | No | Cls | Pancreatic cancer |
-| 9 | [CPTAC-SAR{cptac2019the](https://www.cancerimagingarchive.net/collection/cptac-sar/) | 2019 | 2D/3D | US/ CT/ MR/ PET | Abdomen/ Arm/ Bladder/ Chest/ Head–Neck/ Kidney/ Leg/ ... | 88 | No | Cls | Sarcomas |
-| 10 | [CPTAC-UCEC{cptac2019the](https://www.cancerimagingarchive.net/collection/cptac-ucec/) | 2019 | 2D/3D | US/ CT/ MR/ PET | Uterus | 250 | No | Cls | Endometrial Carcinoma |
-| 11 | [CMB-CRC{biobank2022cancer](https://doi.org/10.7937/DJG7-GZ87                                    ) | 2022 | 2D/3D | US/ CT/ MR/ PET/ WSI | Colon | 12 | No | Cls | Colorectal Cancer |
-| 12 | [CMB-LCA{biobank2022cancer](https://www.cancerimagingarchive.net/collection/cmb-lca/) | 2022 | 2D/3D | US/ CT/ DX/ MR/ NM/ PT | Lung | 16 | No | Cls | Lung cancer |
-| 13 | [CMB-MEL{biobank2022cancer](https://doi.org/10.7937/GWSP-WH72                                    ) | 2022 | 2D/3D | US/ CT/ PET/ WSI | Skin | 40 | No | Cls | Melanoma |
-| 14 | [AHEP0731{katzenstein2021riskbased](https://www.cancerimagingarchive.net/collection/ahep0731/) | 2021 | 3D | US/ CT/ MR/ PET/ XA | Liver/Chest | 190 | No | Seg/Cls | Liver Cancer |
-| 15 | [QIDW{latour2015quantitative](https://qidw.rsna.org/) | 2015 | 3D | US/ CT/ MR/ PET | Lung | 52000 | No | QA | Quality assurance |
-| 16 | [CuRIOUS2018-MR FLAIR{xiao2020evaluation](https://curious2018.grand-challenge.org/) | 2018 | 3D | US/MR | Brain | 33 | Yes | Reg | Brain tumors |
-| 17 | [CuRIOUS2018-US{xiao2019evaluation](https://curious2018.grand-challenge.org/) | 2018 | 3D | US/MR | Brain | 32 | Yes | Reg | Brain tumors |
-| 18 | [CuRIOUS2018-MR T1W{xiao2019evaluation](https://curious2018.grand-challenge.org/Home/) | 2018 | 3D | US/MR | Brain | 33 | Yes | Reg | Brain tumor |
-| 19 | [CuRIOUS2019-MR-FLAIR{xiao2017retrospective](https://curious2019.grand-challenge.org/Data/) | 2019 | 3D | US/MR | Brain | 32 | Yes | Reg | Low-grade gliomas |
-| 20 | [CuRIOUS2019{xiao2019evaluation](https://curious2019.grand-challenge.org/Home/) | 2019 | 3D | US/MR | Brain | 33 | Yes | Reg | Brain tumor |
-| 21 | [CuRIOUS2019 US{xiao2017retrospective](https://curious2019.grand-challenge.org/Home/) | 2019 | 3D | US/MR | Brain | 33 | Yes | Reg | Low-grade gliomas |
-| 22 | [CuRIOUS2019-MR T1W{xiao2017retrospective](https://curious2019.grand-challenge.org/) | 2019 | 3D | US/MR | Brain | 33 | Yes | Reg | Brain tumor |
-| 23 | [CuRIOUS2022{behboodi2024open](https://curious2022.grand-challenge.org/) | 2022 | 3D | US/MR | Brain | 33 | Yes | Seg | Low-grade gliomas |
-| 24 | [Learn2Reg LUMIR{hering2021learnreg](https://learn2reg.grand-challenge.org/) | 2024 | 3D | US/MR | Brain | 269 | Yes | Reg | Multi-modal |
-| 25 | [Prostate-MR-US-Biopsy{natarajan2020prostate](https://doi.org/10.7937/TCIA.2020.A61IOC1A) | 2020 | 3D | US/MR | Prostate | 1151 | Yes | Reg/Seg | Prostate Cancer |
-| 26 | [$$-RegPro2023{baum2023mr](https://muregpro.github.io/) | 2023 | 3D | US/MR | Prostate | 108 | Yes | Reg/lmk | Prostate cancer |
-| 27 | [STACOM 2011{tobongomez2013benchmarking](https://www.cardiacatlas.org/motion-tracking-2011-challenge/) | 2011 | 3D | US/MR | Heart | 1158 | Yes | Reg/Trk | Healthy volunteers |
+| 1 | [TDSC-ABUS2023](https://tdsc-abus2023.grand-challenge.org/) | 2023 | 3D | US | Breast | 200 | Yes | Seg/ Cls/ Det | Breast cancer |
+| 2 | [CETUS2014](https://www.creatis.insa-lyon.fr/Challenge/CETUS/index.html) | 2014 | 3D | US | Heart | 45 | Yes | Seg | Cardiac conditions |
+| 3 | [MVSeg-3DTEE2023](https://www.synapse.org/\#!Synapse:syn51186045/wiki/621356) | 2023 | 3D | US | Mitral valve | 175 | Yes | Seg | Mitral valve disease |
+| 4 | [AREN0532](https://www.cancerimagingarchive.net/collection/aren0532/) | 2022 | 2D/3D | US/ CR/ CT/ MR/ PET/ RTIMAGE | Kidney | 544 | No | Cls | Wilms tumor |
+| 5 | [AREN0533](https://www.cancerimagingarchive.net/collection/aren0533/) | 2022 | 3D | US/CR/CT/MR | Kidney | 294 | No | Cls | Wilms tumor |
+| 6 | [AREN0533-Tumor-Annotations](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=140312904) | 2023 | 3D | US/CR/CT/MR | Kidney | 294 | Yes | Seg | Wilms tumor |
+| 7 | [AREN0534](https://www.cancerimagingarchive.net/collection/aren0534/) | 2021 | 2D/3D | US/ CT/ MR/ PET | Kidney | 239 | Yes | Seg | Wilms tumor |
+| 8 | [CPTAC-PDA](https://www.cancerimagingarchive.net/collection/cptac-pda/) | 2018 | 3D | US/ CT/ MR/ PET | Pancreas | 168 | No | Cls | Pancreatic cancer |
+| 9 | [CPTAC-SAR](https://www.cancerimagingarchive.net/collection/cptac-sar/) | 2019 | 2D/3D | US/ CT/ MR/ PET | Abdomen/ Arm/ Bladder/ Chest/ Head–Neck/ Kidney/ Leg/ ... | 88 | No | Cls | Sarcomas |
+| 10 | [CPTAC-UCEC](https://www.cancerimagingarchive.net/collection/cptac-ucec/) | 2019 | 2D/3D | US/ CT/ MR/ PET | Uterus | 250 | No | Cls | Endometrial Carcinoma |
+| 11 | [CMB-CRC](https://doi.org/10.7937/DJG7-GZ87                                    ) | 2022 | 2D/3D | US/ CT/ MR/ PET/ WSI | Colon | 12 | No | Cls | Colorectal Cancer |
+| 12 | [CMB-LCA](https://www.cancerimagingarchive.net/collection/cmb-lca/) | 2022 | 2D/3D | US/ CT/ DX/ MR/ NM/ PT | Lung | 16 | No | Cls | Lung cancer |
+| 13 | [CMB-MEL](https://doi.org/10.7937/GWSP-WH72                                    ) | 2022 | 2D/3D | US/ CT/ PET/ WSI | Skin | 40 | No | Cls | Melanoma |
+| 14 | [AHEP0731](https://www.cancerimagingarchive.net/collection/ahep0731/) | 2021 | 3D | US/ CT/ MR/ PET/ XA | Liver/Chest | 190 | No | Seg/Cls | Liver Cancer |
+| 15 | [QIDW](https://qidw.rsna.org/) | 2015 | 3D | US/ CT/ MR/ PET | Lung | 52000 | No | QA | Quality assurance |
+| 16 | [CuRIOUS2018-MR FLAIR](https://curious2018.grand-challenge.org/) | 2018 | 3D | US/MR | Brain | 33 | Yes | Reg | Brain tumors |
+| 17 | [CuRIOUS2018-US](https://curious2018.grand-challenge.org/) | 2018 | 3D | US/MR | Brain | 32 | Yes | Reg | Brain tumors |
+| 18 | [CuRIOUS2018-MR T1W](https://curious2018.grand-challenge.org/Home/) | 2018 | 3D | US/MR | Brain | 33 | Yes | Reg | Brain tumor |
+| 19 | [CuRIOUS2019-MR-FLAIR](https://curious2019.grand-challenge.org/Data/) | 2019 | 3D | US/MR | Brain | 32 | Yes | Reg | Low-grade gliomas |
+| 20 | [CuRIOUS2019](https://curious2019.grand-challenge.org/Home/) | 2019 | 3D | US/MR | Brain | 33 | Yes | Reg | Brain tumor |
+| 21 | [CuRIOUS2019 US](https://curious2019.grand-challenge.org/Home/) | 2019 | 3D | US/MR | Brain | 33 | Yes | Reg | Low-grade gliomas |
+| 22 | [CuRIOUS2019-MR T1W](https://curious2019.grand-challenge.org/) | 2019 | 3D | US/MR | Brain | 33 | Yes | Reg | Brain tumor |
+| 23 | [CuRIOUS2022](https://curious2022.grand-challenge.org/) | 2022 | 3D | US/MR | Brain | 33 | Yes | Seg | Low-grade gliomas |
+| 24 | [Learn2Reg LUMIR](https://learn2reg.grand-challenge.org/) | 2024 | 3D | US/MR | Brain | 269 | Yes | Reg | Multi-modal |
+| 25 | [Prostate-MR-US-Biopsy](https://doi.org/10.7937/TCIA.2020.A61IOC1A) | 2020 | 3D | US/MR | Prostate | 1151 | Yes | Reg/Seg | Prostate Cancer |
+| 26 | [$$-RegPro2023](https://muregpro.github.io/) | 2023 | 3D | US/MR | Prostate | 108 | Yes | Reg/lmk | Prostate cancer |
+| 27 | [STACOM 2011](https://www.cardiacatlas.org/motion-tracking-2011-challenge/) | 2011 | 3D | US/MR | Heart | 1158 | Yes | Reg/Trk | Healthy volunteers |
 
 ### 🧩 3D Other Datasets
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Volumes | Label | Task | Diseases |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | [MitoEM{wei2020mitoem](https://mitoem.grand-challenge.org/) | 2020 | 3D | 3D MICROSCOPY | Brain | 2 | Yes | Seg | Mitochondrial ultrastructure |
-| 2 | [3D Platelet EM{guay2021dense](https://leapmanlab.github.io/dense-cell/) | 2021 | 3D | 3D MICROSCOPY | Platelet | 2 | Yes | Seg | Platelet ultrastructure |
-| 3 | [PCa Bx 3Dpathology{xie2023d](https://www.cancerimagingarchive.net/collection/pca_bx_3dpathology/) | 2023 | 3D | 3D MICROSCOPY | Prostate | 50 | Yes | Seg/ Loc | Prostate cancer |
-| 4 | [CADA{ivantsits2021cerebral](https://cada.grand-challenge.org/) | 2020 | 3D | 3D DSA | Brain | 131 | Yes | Det/ Seg/ Cls | Cerebral aneurysms |
-| 5 | [ISBI2023 challenge - SHINY-ICARUS{dazeo2023shinyicarus](https://www.synapse.org/\#!Synapse:syn45774070) | 2022 | 3D | 3D DSA | Internal Carotid Artery | 82 | Yes | Seg | Internal carotid artery aneurysms |
-| 6 | [CADA-AS{ivantsits2022detection](https://cada-as.grand-challenge.org/) | 2020 | 3D | 3D DSA | Brain | 110 | Yes | Seg | Cerebral aneurysms |
-| 7 | [CADA-RRE{ivantsits2022detection](https://cada-rre.grand-challenge.org/) | 2020 | 3D | 3D DSA | Brain | 131 | Yes | Seg/Cls | Cerebral aneurysm |
-| 8 | [XPRESS2023{nguyen2023the](https://xpress.grand-challenge.org/) | 2023 | 3D | 3D X-RAY | Brain | 3 | Yes | Seg | Neuroanatomy |
-| 9 | [Learn2Reg ThoraxCBCT{hugo2017a](https://learn2reg.grand-challenge.org/) | 2023 | 3D | CBCT/FBCT | Thorax | 40 | Yes | Reg | Lung cancer |
-| 10 | [Pancreatic-CT-CBCT-SEG{hong2021breathhold](https://www.cancerimagingarchive.net/collection/pancreatic-ct-cbct-seg/) | 2021 | 3D | CBCT/CT | Pancreas | 40 | Yes | Seg | Pancreatic cancer |
-| 11 | [Pelvic-Reference-Data{yorke2019pelvic](https://www.cancerimagingarchive.net/collection/pelvic-reference-data/) | 2019 | 3D | CBCT/CT | Pelvis | 58 | Yes | Reg | Prostate cancer |
-| 12 | [ToothFairy2023{bolelli2024segmenting](https://toothfairy.grand-challenge.org/toothfairy/) | 2023 | 3D | CBCT | Inferior Alveolar Nerve | 443 | Yes | Seg | Dental surgery planning |
-| 13 | [RETOUCH{bogunovic2019retouch](https://retouch.grand-challenge.org/Home/) | 2017 | 3D | OCT | Retina | 112 | Yes | Seg | Retinal diseases |
-| 14 | [ROCC{organizers2017retinal](https://rocc.grand-challenge.org/) | 2017 | 3D | OCT | Retina | 72 | Yes | Cls | Diabetic Retinopathy |
-| 15 | [OCT Glaucoma Detection{maetschke2019a](https://doi.org/10.5281/zenodo.1481223                                    ) | 2018 | 3D | OCT | Optic nerve head | 1110 | Yes | Cls | Glaucoma |
-| 16 | [OLIVES{prabhushankar2022olives](https://github.com/olivesgatech/OLIVES_Dataset) | 2022 | 2D/3D | OCT | Eye | 78822 | Yes | Cls | Diabetic conditions |
-| 17 | [GAMMA{wu2022gamma](https://gamma.grand-challenge.org/) | 2021 | 2D/3D | OCT | Retina | 300 | Yes | Cls/Seg/Loc | Glaucoma |
-| 18 | [Farsiu Ophthalmology 2013{farsiu2014quantitative](https://people.duke.edu/~sf59/RPEDC_Ophth_2013_dataset.htm) | 2013 | 3D | OCT | Retina | 384 | Yes | Seg/Cls | Age-related macular degeneration |
-| 19 | [Chiu IOVS 2011{chiu2012validated](https://people.duke.edu/~sf59/Chiu_IOVS_2011_dataset.htm) | 2012 | 3D | OCT | Retina | 25 | Yes | Seg/Cls | Macular Degeneration |
-| 20 | [Chiu BOE 2014 dataset{chiu2015kernel](https://people.duke.edu/~sf59/Chiu_BOE_2014_dataset.htm) | 2014 | 3D | OCT | Retina | 16 | Yes | Seg | Diabetic macular edema |
-| 21 | [Srinivasan BOE 2014{srinivasan2014fully](https://people.duke.edu/~sf59/Srinivasan_BOE_2014_dataset.htm) | 2014 | 3D | OCT | Retina | 45 | Yes | Cls | Eye diseases |
-| 22 | [Soltanian Optica 2021{soltanianzadeh2021weakly](https://people.duke.edu/~sf59/Soltanian_Optica_2021.htm) | 2021 | 3D | OCT | Retina | 8 | Yes | Seg | Glaucoma |
-| 23 | [STAGE{fu2023structuralfunctional](https://doi.org/10.5281/zenodo.7835341                  ) | 2023 | 3D | OCT | Retina | 400 | Yes | Reg/Cls | Glaucoma |
-| 24 | [Eye OCT Datasets{2021eye](https://tianchi.aliyun.com/dataset/dataDetail?dataId=90672) | 2021 | 3D | OCT | Retina | 148 | Yes | Cls/Seg | Retinal diseases |
+| 1 | [MitoEM](https://mitoem.grand-challenge.org/) | 2020 | 3D | 3D MICROSCOPY | Brain | 2 | Yes | Seg | Mitochondrial ultrastructure |
+| 2 | [3D Platelet EM](https://leapmanlab.github.io/dense-cell/) | 2021 | 3D | 3D MICROSCOPY | Platelet | 2 | Yes | Seg | Platelet ultrastructure |
+| 3 | [PCa Bx 3Dpathology](https://www.cancerimagingarchive.net/collection/pca_bx_3dpathology/) | 2023 | 3D | 3D MICROSCOPY | Prostate | 50 | Yes | Seg/ Loc | Prostate cancer |
+| 4 | [CADA](https://cada.grand-challenge.org/) | 2020 | 3D | 3D DSA | Brain | 131 | Yes | Det/ Seg/ Cls | Cerebral aneurysms |
+| 5 | [ISBI2023 challenge - SHINY-ICARUS](https://www.synapse.org/\#!Synapse:syn45774070) | 2022 | 3D | 3D DSA | Internal Carotid Artery | 82 | Yes | Seg | Internal carotid artery aneurysms |
+| 6 | [CADA-AS](https://cada-as.grand-challenge.org/) | 2020 | 3D | 3D DSA | Brain | 110 | Yes | Seg | Cerebral aneurysms |
+| 7 | [CADA-RRE](https://cada-rre.grand-challenge.org/) | 2020 | 3D | 3D DSA | Brain | 131 | Yes | Seg/Cls | Cerebral aneurysm |
+| 8 | [XPRESS2023](https://xpress.grand-challenge.org/) | 2023 | 3D | 3D X-RAY | Brain | 3 | Yes | Seg | Neuroanatomy |
+| 9 | [Learn2Reg ThoraxCBCT](https://learn2reg.grand-challenge.org/) | 2023 | 3D | CBCT/FBCT | Thorax | 40 | Yes | Reg | Lung cancer |
+| 10 | [Pancreatic-CT-CBCT-SEG](https://www.cancerimagingarchive.net/collection/pancreatic-ct-cbct-seg/) | 2021 | 3D | CBCT/CT | Pancreas | 40 | Yes | Seg | Pancreatic cancer |
+| 11 | [Pelvic-Reference-Data](https://www.cancerimagingarchive.net/collection/pelvic-reference-data/) | 2019 | 3D | CBCT/CT | Pelvis | 58 | Yes | Reg | Prostate cancer |
+| 12 | [ToothFairy2023](https://toothfairy.grand-challenge.org/toothfairy/) | 2023 | 3D | CBCT | Inferior Alveolar Nerve | 443 | Yes | Seg | Dental surgery planning |
+| 13 | [RETOUCH](https://retouch.grand-challenge.org/Home/) | 2017 | 3D | OCT | Retina | 112 | Yes | Seg | Retinal diseases |
+| 14 | [ROCC](https://rocc.grand-challenge.org/) | 2017 | 3D | OCT | Retina | 72 | Yes | Cls | Diabetic Retinopathy |
+| 15 | [OCT Glaucoma Detection](https://doi.org/10.5281/zenodo.1481223                                    ) | 2018 | 3D | OCT | Optic nerve head | 1110 | Yes | Cls | Glaucoma |
+| 16 | [OLIVES](https://github.com/olivesgatech/OLIVES_Dataset) | 2022 | 2D/3D | OCT | Eye | 78822 | Yes | Cls | Diabetic conditions |
+| 17 | [GAMMA](https://gamma.grand-challenge.org/) | 2021 | 2D/3D | OCT | Retina | 300 | Yes | Cls/Seg/Loc | Glaucoma |
+| 18 | [Farsiu Ophthalmology 2013](https://people.duke.edu/~sf59/RPEDC_Ophth_2013_dataset.htm) | 2013 | 3D | OCT | Retina | 384 | Yes | Seg/Cls | Age-related macular degeneration |
+| 19 | [Chiu IOVS 2011](https://people.duke.edu/~sf59/Chiu_IOVS_2011_dataset.htm) | 2012 | 3D | OCT | Retina | 25 | Yes | Seg/Cls | Macular Degeneration |
+| 20 | [Chiu BOE 2014 dataset](https://people.duke.edu/~sf59/Chiu_BOE_2014_dataset.htm) | 2014 | 3D | OCT | Retina | 16 | Yes | Seg | Diabetic macular edema |
+| 21 | [Srinivasan BOE 2014](https://people.duke.edu/~sf59/Srinivasan_BOE_2014_dataset.htm) | 2014 | 3D | OCT | Retina | 45 | Yes | Cls | Eye diseases |
+| 22 | [Soltanian Optica 2021](https://people.duke.edu/~sf59/Soltanian_Optica_2021.htm) | 2021 | 3D | OCT | Retina | 8 | Yes | Seg | Glaucoma |
+| 23 | [STAGE](https://doi.org/10.5281/zenodo.7835341                  ) | 2023 | 3D | OCT | Retina | 400 | Yes | Reg/Cls | Glaucoma |
+| 24 | [Eye OCT Datasets](https://tianchi.aliyun.com/dataset/dataDetail?dataId=90672) | 2021 | 3D | OCT | Retina | 148 | Yes | Cls/Seg | Retinal diseases |
 
 ## 🎬 Video Medical Datasets
 
