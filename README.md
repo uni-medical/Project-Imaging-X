@@ -78,34 +78,34 @@ These datasets form the foundation for training next-generation medical AI model
 
 ## 📋 Table of Contents
 
-- [Awesome Medical Datasets](#awesome-medical-datasets)
+- [🌍 Project Imaging-X](#-project-imaging-x)
   - [📖 Citation](#-citation)
-  - [📋 Table of Contents](#-table-of-contents)
-  - [📈 Medical Dataset Publication Trends](#-medical-dataset-publication-trends)
-  - [🏥 Medical Imaging Dataset Ecosystem](#-medical-imaging-dataset-ecosystem)
+  - [🏥 Medical Datasets Overview](#-medical-datasets-overview)
+    - [🔍 Dataset Taxonomy & Statistical Analysis](#-dataset-taxonomy--statistical-analysis)
   - [🤖 Medical Foundation Model Development](#-medical-foundation-model-development)
-  - [🔍 Taxonomy and Retrieval System](#-taxonomy-and-retrieval-system)
   - [📊 2D Medical Imaging Datasets](#-2d-medical-imaging-datasets)
+    - [👥 Dermoscopy](#-dermoscopy)
+    - [👁️‍🗨️ OCT](#-oct)
+    - [🌡️ Infrared](#-infrared)
+    - [🧩 Others](#-others)
     - [🫁 CT Datasets](#-ct-datasets)
-    - [🦴 X-ray Datasets](#-x-ray-datasets) 
+    - [🦴 X-ray Datasets](#-x-ray-datasets)
     - [🧠 MRI Datasets](#-mri-datasets)
-    - [👁️ Fundus Photography](#️-fundus-photography)
+    - [👁️ Fundus Photography](#-fundus-photography)
     - [🧫 Histopathology](#-histopathology)
     - [🩺 Ultrasound](#-ultrasound)
     - [📹 Endoscopy](#-endoscopy)
-    - [👥 Dermoscopy](#-dermoscopy)
     - [🔬 Microscopy](#-microscopy)
-    - [👁️‍🗨️ OCT](#️️-oct)
-    - [☢️ PET](#️-pet)
-    - [🌡️ Infrared](#-infrared)
-    - [🧩 Others](#-others-2d)
+    - [☢️ PET](#-pet)
   - [🧊 3D Medical Imaging Datasets](#-3d-medical-imaging-datasets)
-      - [🫁 3D CT](#-3d-ct)
-      - [🧠 3D MRI](#-3d-mri)
-      - [☢️ 3D PET](#️-3d-pet)
-      - [🩺 3D Ultrasound](#-3d-ultrasound)
-      - [🧩 3D Other Datasets](#-other-3d)
-    - [🎬 Video Medical Datasets](#-video-medical-imaging-datasets)
+    - [🫁 3D CT Datasets](#-3d-ct-datasets)
+    - [🧠 3D MR Datasets](#-3d-mr-datasets)
+    - [☢️ 3D PET Datasets](#-3d-pet-datasets)
+    - [🩺 3D Ultrasound Datasets](#-3d-ultrasound-datasets)
+    - [🧩 3D Other Datasets](#-3d-other-datasets)
+  - [🎬 Video Medical Datasets](#-video-medical-datasets)
+    - [🎬 Video Datasets](#-video-datasets)
+  - [🌟 Star History](#-star-history)
 
 ---
 
@@ -171,40 +171,6 @@ These datasets form the foundation for training next-generation medical AI model
 | 4 | [MRL Eye Reflections cls](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared | Retina | 84.9k | Yes | Cls | NA |
 | 5 | [MRL Eye Image quality cls](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared | Retina | 84.9k | Yes | Cls | NA |
 | 6 | [MRL Eye Sensor type cls](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared | Retina | 84.9k | Yes | Cls | NA |
-
-### 🧩 Others
-<a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
-
-| # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
-|---|---|---|---|---|---|---|---|---|---|
-| 1 | [Intel & MobileODT Cervical Cancer Screening](https://www.kaggle.com/competitions/intel-mobileodt-cervical-cancer-screening/overview) | 2017 | 2D | Colposcopy | Vagina | 1,993 | Yes | Cls | Cervical cancer |
-| 2 | [ADDI ALZHEIMER'S DETECTION CHALLENGE](https://www.aicrowd.com/challenges/addi-alzheimers-detection-challenge) | 2021 | 2D | Series Data | NA | 34,614 | Yes | Cls | Lung adenocarcinoma |
-| 3 | [The Digital Mammography DREAM Challenge](https://www.synapse.org/Synapse:syn4224222/wiki/401743) | 2016 | 2D | Mammography | Breast | 640,000 | Yes | Cls | Atrophic AMD |
-| 4 | [BigNeuron](https://alleninstitute.org/bigneuron/about/) | 2016 | 2D | NA | Brain | 2,166 | Yes | Recon | Diabetic foot ulcer |
-| 5 | [Human Activity Classification with Radar](https://humanactivitiyclassificationwithradar.grand-challenge.org) | 2019 | 2D | Others | NA | 1,854 | Yes | Cls | NA |
-| 6 | [KvasirCapsule-SEG](https://www.kaggle.com/datasets/debeshjha1/kvasircapsuleseg) | 2021 | 2D | Colposcopy (Capsule) | Polyp | 55 | Yes | Seg | Polyp |
-| 7 | [SCDB](https://opendatalab.org.cn/SCDB) | 2020 | 2D | Others | Skin | 4 | Yes | Cls | Skin lesion |
-| 8 | [ROSE](https://imed.nimte.ac.cn/dataofrose.html) | NA | 2D | OCTA (CT) | Eye | 229 | Yes | Seg | NA |
-| 9 | [CMMD](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70230508) | 2021 | 2D | Mammography | Breast | 1,775 | Yes | Seg, Cls | Breast Cancer |
-| 10 | [Br35H](https://www.heywhale.com/mw/dataset/61d3e5682d30dc001701f728) | 2022 | 2D | MR | Brain | 3,000 | Yes | Cls | Brain Tumor |
-| 11 | [CDD-CESM](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=109379611) | 2021 | 2D | Mammography | NA | 2,006 | Yes | Seg, Cls | Breast Cancer |
-| 12 | [OralCancer](https://www.kaggle.com/datasets/shivam17299/oral-cancer-lips-and-tongue-images) | 2020 | 2D | Digital Photography | Lip, Tongue | 131 | Yes | Cls | Oral Cancer |
-| 13 | [Oral_Diseases](https://www.kaggle.com/datasets/salmansajid05/oral-diseases) | 2023 | 2D | Digital Photography | NA | 12,944 | Yes | Cls, Det | Dental conditions |
-| 14 | [MRL Eye Gender](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared Reflectance Imaging | Retina | 84,898 | Yes | Cls | NA |
-| 15 | [MITOS-ATYPIA-14](https://mitos-atypia-14.grand-challenge.org/) | 2013 | 2D | Biopsy slides | Breast | 1,420 | Yes | Cls | Breast Cancer |
-| 16 | [VinDr-Mammo](https://www.physionet.org/content/vindr-mammo/1.0.0/) | NA | 2D | Mammography | Breast | 19,992 | Yes | Det | Breast Cancer |
-| 17 | [VinDr-SpineXR](https://vindr.ai/datasets/spinexr==) | NA | 2D | X-ray | Spine | 10,469 | Yes | NA | Spinal Lesions |
-| 18 | [VinDr-PCXR](https://physionet.org/content/vindr-pcxr/1.0.0/) | NA | 2D | X-ray | Chest | 9,125 | Yes | NA | NA |
-| 19 | [VinDr-CXR](https://physionet.org/content/vindr-cxr/1.0.0/) | NA | 2D | X-ray | Chest | 18,000 | Yes | NA | NA |
-| 20 | [HAM10000](https://www.isic-archive.com/) | NA | 2D | Dermoscopy | Skin | 10,015 | Yes | Cls | Skin Cancer |
-| 21 | [RFMiD](https://riadd.grand-challenge.org/download-all-classes/) | NA | 2D | Fundus | Retina | 3,200 | Yes | Cls | Ophthalmic Diseases |
-| 22 | [Chaksu](https://doi.org/10.6084/m9.figshare.20123135) | NA | 2D | Fundus | Retina | 1,345 | Yes | Seg | Glaucoma |
-| 23 | [PBC_dataset_normal_DIB](https://data.mendeley.com/datasets/snkd93bnjr/1) | NA | 2D | Microscopy | Blood | 0 | Yes | Cls | NA |
-
-
-## 🧊 3D Medical Imaging Datasets
-
-3D medical imaging datasets enable volumetric analysis and spatial understanding crucial for advanced medical AI applications.
 
 ### 🫁 CT Datasets
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
@@ -661,6 +627,37 @@ These datasets form the foundation for training next-generation medical AI model
 | 9 | [RIDER Phantom PET-CT](https://wiki.cancerimagingarchive.net/display/Public/RIDER+Phantom+PET-CT) | 2011 | 2D | CT, PET | NA | 2.2k | No | NA | NA |
 | 10 | [AHOD0831](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=119705284) | 2022 | 3D, 2D | Multi | NA | 0 | No | NA | Hodgkin Lymphoma |
 | 11 | [AREN0532](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=109379682) | 2022 | 3D, 2D | Multi | NA | 1k | No | NA | Wilms Tumor |
+
+### 🧩 Others
+<a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
+
+| # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | [Intel & MobileODT Cervical Cancer Screening](https://www.kaggle.com/competitions/intel-mobileodt-cervical-cancer-screening/overview) | 2017 | 2D | Colposcopy | Vagina | 1,993 | Yes | Cls | Cervical cancer |
+| 2 | [ADDI ALZHEIMER'S DETECTION CHALLENGE](https://www.aicrowd.com/challenges/addi-alzheimers-detection-challenge) | 2021 | 2D | Series Data | NA | 34,614 | Yes | Cls | Lung adenocarcinoma |
+| 3 | [The Digital Mammography DREAM Challenge](https://www.synapse.org/Synapse:syn4224222/wiki/401743) | 2016 | 2D | Mammography | Breast | 640,000 | Yes | Cls | Atrophic AMD |
+| 4 | [BigNeuron](https://alleninstitute.org/bigneuron/about/) | 2016 | 2D | NA | Brain | 2,166 | Yes | Recon | Diabetic foot ulcer |
+| 5 | [Human Activity Classification with Radar](https://humanactivitiyclassificationwithradar.grand-challenge.org) | 2019 | 2D | Others | NA | 1,854 | Yes | Cls | NA |
+| 6 | [KvasirCapsule-SEG](https://www.kaggle.com/datasets/debeshjha1/kvasircapsuleseg) | 2021 | 2D | Colposcopy (Capsule) | Polyp | 55 | Yes | Seg | Polyp |
+| 7 | [SCDB](https://opendatalab.org.cn/SCDB) | 2020 | 2D | Others | Skin | 4 | Yes | Cls | Skin lesion |
+| 8 | [ROSE](https://imed.nimte.ac.cn/dataofrose.html) | NA | 2D | OCTA (CT) | Eye | 229 | Yes | Seg | NA |
+| 9 | [CMMD](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=70230508) | 2021 | 2D | Mammography | Breast | 1,775 | Yes | Seg, Cls | Breast Cancer |
+| 10 | [Br35H](https://www.heywhale.com/mw/dataset/61d3e5682d30dc001701f728) | 2022 | 2D | MR | Brain | 3,000 | Yes | Cls | Brain Tumor |
+| 11 | [CDD-CESM](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=109379611) | 2021 | 2D | Mammography | NA | 2,006 | Yes | Seg, Cls | Breast Cancer |
+| 12 | [OralCancer](https://www.kaggle.com/datasets/shivam17299/oral-cancer-lips-and-tongue-images) | 2020 | 2D | Digital Photography | Lip, Tongue | 131 | Yes | Cls | Oral Cancer |
+| 13 | [Oral_Diseases](https://www.kaggle.com/datasets/salmansajid05/oral-diseases) | 2023 | 2D | Digital Photography | NA | 12,944 | Yes | Cls, Det | Dental conditions |
+| 14 | [MRL Eye Gender](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared Reflectance Imaging | Retina | 84,898 | Yes | Cls | NA |
+| 15 | [MITOS-ATYPIA-14](https://mitos-atypia-14.grand-challenge.org/) | 2013 | 2D | Biopsy slides | Breast | 1,420 | Yes | Cls | Breast Cancer |
+| 16 | [VinDr-Mammo](https://www.physionet.org/content/vindr-mammo/1.0.0/) | NA | 2D | Mammography | Breast | 19,992 | Yes | Det | Breast Cancer |
+| 17 | [VinDr-SpineXR](https://vindr.ai/datasets/spinexr==) | NA | 2D | X-ray | Spine | 10,469 | Yes | NA | Spinal Lesions |
+| 18 | [VinDr-PCXR](https://physionet.org/content/vindr-pcxr/1.0.0/) | NA | 2D | X-ray | Chest | 9,125 | Yes | NA | NA |
+| 19 | [VinDr-CXR](https://physionet.org/content/vindr-cxr/1.0.0/) | NA | 2D | X-ray | Chest | 18,000 | Yes | NA | NA |
+| 20 | [HAM10000](https://www.isic-archive.com/) | NA | 2D | Dermoscopy | Skin | 10,015 | Yes | Cls | Skin Cancer |
+| 21 | [RFMiD](https://riadd.grand-challenge.org/download-all-classes/) | NA | 2D | Fundus | Retina | 3,200 | Yes | Cls | Ophthalmic Diseases |
+| 22 | [Chaksu](https://doi.org/10.6084/m9.figshare.20123135) | NA | 2D | Fundus | Retina | 1,345 | Yes | Seg | Glaucoma |
+| 23 | [PBC_dataset_normal_DIB](https://data.mendeley.com/datasets/snkd93bnjr/1) | NA | 2D | Microscopy | Blood | 0 | Yes | Cls | NA |
+
+
 
 ### 🫁 3D CT Datasets
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
