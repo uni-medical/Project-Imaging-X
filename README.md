@@ -4,8 +4,6 @@ A comprehensive collection of 1,126+ medical imaging datasets for machine learni
 
 
 > If you spot any mistakes or have suggestions, feel free to reach out by email: yejin@pjlab.org.cn and hejunjun@pjlab.org.cn
->
-> If you find our survey useful for your research, please cite the following paper: [Dataset Review](assets/Dataset_Review.pdf)
 
 ## 📖 Citation
 If you find this repository or our survey helpful in your research, please kindly cite our paper:
@@ -54,7 +52,7 @@ If you find this repository or our survey helpful in your research, please kindl
 
 ## 📈 Medical Dataset Publication Trends
 
-![Publication Trends](assets/overview_year_trends.pdf)
+![Publication Trends](assets/overview_year_trends.png)
 
 The medical imaging dataset landscape has evolved dramatically over the past decade, with exponential growth in both dataset size and diversity.
 
@@ -62,7 +60,7 @@ The medical imaging dataset landscape has evolved dramatically over the past dec
 
 ## 🏥 Medical Imaging Dataset Ecosystem  
 
-![Medical Ecosystem](assets/medical_ecosystem.pdf)
+![Medical Ecosystem](assets/medical_ecosystem.png)
 
 Our comprehensive taxonomy covers the entire spectrum of medical imaging modalities, from traditional radiography to advanced molecular imaging.
 
@@ -1238,28 +1236,6 @@ Video datasets capture temporal dynamics essential for understanding surgical pr
 | [Particle Tracking Challenge](http://bioimageanalysis.org/track) | Multi-organ | Microscopy Images | 48 | CC-BY-NC | tracking | Various | 2012 | [🔗](http://bioimageanalysis.org/track) |
 
 
-
----
-
-## 🤝 Contributing
-
-We welcome contributions to expand and improve this dataset collection!
-
-### How to Contribute
-
-1. **Fork** this repository
-2. **Create** a new branch for your contribution
-3. **Add** new datasets following our format
-4. **Submit** a pull request with detailed description
-
-### Contribution Guidelines
-
-- Ensure dataset information is accurate and complete
-- Follow the standardized table format
-- Include proper licensing information
-- Verify all URLs are functional
-
-**Note**: Individual datasets may have their own specific licenses. Always check the original dataset license before use.
 
 ---
 
