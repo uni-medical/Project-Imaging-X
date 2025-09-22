@@ -1,4 +1,20 @@
 # 🌍 Project Imaging-X
+<p align="center">
+  <div align="center" style="display: flex; justify-content: center; gap: 20px;">
+    <img src="./assets/wild.gif" alt="Wild GIF" width="45%" style="border-radius: 10px;">
+    <img src="./assets/global.gif" alt="Global GIF" width="45%" style="border-radius: 10px;">
+  </div>
+
+  <p align="center">
+    <a href=''>
+      <img src='https://img.shields.io/badge/Arxiv-2505.17677-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a>
+    <a href='https://ophnet-3d.github.io/'>
+      <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue'></a>
+    <a href=''>
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=uni-medical.Project-Imaging-X&left_color=gray&right_color=orange">
+    </a>
+  </p>
+</p>
 A strategic initiative to consolidate 1000+ open medical imaging datasets worldwide, breaking down data silos through systematic integration to build the foundational infrastructure for next-generation medical AI models.
 > **Challenge**: Medical imaging lacks large-scale unified datasets due to clinical expertise requirements and privacy constraints, limiting the development of powerful medical foundation models.
 
