@@ -1,5 +1,11 @@
 # Project Imaging-X
+A strategic initiative to consolidate 1000+ open medical imaging datasets worldwide, breaking down data silos through systematic integration to build the foundational infrastructure for next-generation medical AI models.
+> **Challenge**: Medical imaging lacks large-scale unified datasets due to clinical expertise requirements and privacy constraints, limiting the development of powerful medical foundation models.
 
+> **Solution**: We surveyed 1000+ open-access medical image datasets, developed a systematic integration paradigm, and created a unified repository with structured metadata and reference links.
+
+> **Impact**: Transforming fragmented small datasets into cohesive large-scale resources to accelerate medical AI research and enable robust foundation models for the biomedical community.
+<!-- 
 A comprehensive survey of 1,000+ open-access medical image datasets with systematic analysis of their modalities, tasks, anatomies, and potential for integration into foundation models.
 
 > Foundation models have demonstrated remarkable success across diverse domains and tasks, primarily due to the thrive of large-scale, diverse, and high-quality datasets. However, in the field of medical imaging, the curation and annotation of such medical datasets are highly challenging due to the reliance on clinical expertise and strict ethical and privacy constraints, resulting in a scarcity of large-scale unified medical datasets and hindering the development of powerful medical foundation models.
@@ -8,7 +14,7 @@ A comprehensive survey of 1,000+ open-access medical image datasets with systema
 > To address these gaps, we develop a systematic paradigm for integrating public datasets with shared modalities or tasks, thereby transforming multiple small datasets into a larger, more cohesive resource.
 > In addition, we compile all surveyed datasets into a unified, structured table that clearly summarizes their key characteristics and provides reference links, offering the community an accessible and comprehensive repository.
 > By mapping the current landscape and proposing strategies for dataset consolidation, our survey supports data discovery, guides dataset creation, and advances medical foundation models for the biomedical imaging research community.
-
+-->
 > If you spot any mistakes or have suggestions, feel free to reach out by email: yejin@pjlab.org.cn, huming@pjlab.org.cn, qiaoyu@pjlab.org.cn, chenyirong@pjlab.org.cn, hejunjun@pjlab.org.cn
 
 ## 📖 Citation
