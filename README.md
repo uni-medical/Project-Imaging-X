@@ -44,11 +44,11 @@ If you find this repository or our survey helpful in your research, please kindl
 
 ---
 
-## 📈 Medical Dataset Publication Trends
+## 🏥 Medical Dataset Overview
 
-![Publication Trends](assets/overview_year_trends.png)
+![Body Part Overview](assets/overview_body_new.png)
 
-The medical imaging dataset landscape has evolved dramatically over the past decade, with exponential growth in both dataset size and diversity.
+A comprehensive analysis of 1000+ medical imaging datasets spanning anatomical regions, imaging modalities, and AI tasks, showcasing the evolution of medical imaging from 2000 to 2025.
 
 ---
 
