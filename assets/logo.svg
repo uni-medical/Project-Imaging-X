@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3.072" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Concentric rings: imaging signal -->
+  <circle cx="256.0" cy="256.0" r="215.04" stroke="#2C2C2C" stroke-width="10.24" opacity="0.35"/>
+  <circle cx="256.0" cy="256.0" r="148.48" stroke="#2C2C2C" stroke-width="9.216" opacity="0.5"/>
+  <circle cx="256.0" cy="256.0" r="81.92" stroke="#2C2C2C" stroke-width="8.192" opacity="0.8"/>
+
+  <!-- Crosshair: centering -->
+  <line x1="163.84" y1="256.0" x2="220.16" y2="256.0" stroke="#2C2C2C" stroke-width="9.216" stroke-linecap="round"/>
+  <line x1="291.84000000000003" y1="256.0" x2="348.15999999999997" y2="256.0" stroke="#2C2C2C" stroke-width="9.216" stroke-linecap="round"/>
+  <line x1="256.0" y1="163.84" x2="256.0" y2="220.16" stroke="#2C2C2C" stroke-width="9.216" stroke-linecap="round"/>
+  <line x1="256.0" y1="291.84000000000003" x2="256.0" y2="348.15999999999997" stroke="#2C2C2C" stroke-width="9.216" stroke-linecap="round"/>
+
+  <!-- Stylized X: two chevrons meeting in the center -->
+  <g filter="url(#soft)">
+    <path d="M 180.6336 180.6336 L 235.52 235.52 
+             L 180.6336 331.3664" 
+          stroke="#3B82F6" stroke-width="30.72" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M 331.3664 180.6336 L 276.48 235.52 
+             L 331.3664 331.3664" 
+          stroke="#3B82F6" stroke-width="30.72" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Center dot -->
+  <circle cx="256.0" cy="256.0" r="11.264" fill="#3B82F6"/>
+</svg>

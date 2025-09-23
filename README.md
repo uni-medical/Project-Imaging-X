@@ -1,4 +1,4 @@
-# 🌍 Project Imaging-X
+# <img src="./assets/logo.svg" alt="Imaging-X Logo" height="40" style="vertical-align: middle;"> Project Imaging-X
 <p align="center">
   <div align="center" style="display: flex; justify-content: center; gap: 20px;">
     <img src="./assets/wild.gif" alt="Wild GIF" width="45%" style="border-radius: 10px;">
