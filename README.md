@@ -5,7 +5,7 @@
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <a href='' style="text-decoration: none;"><img src='https://img.shields.io/badge/Arxiv-None-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a>
   <a href='' style="text-decoration: none;"><img src='https://img.shields.io/badge/Portal-Project--Imaging--X-6B88E3?logo=youtubegaming'></a>
-  <a href='' style="text-decoration: none;"><img src='https://img.shields.io/badge/WeChat-Join%20Group-07C160?logo=wechat'></a>
+  <!-- <a href='' style="text-decoration: none;"><img src='https://img.shields.io/badge/WeChat-Join%20Group-07C160?logo=wechat'></a> -->
   <a href='' style="text-decoration: none;"><img src='https://visitor-badge.laobi.icu/badge?page_id=uni-medical.Project-Imaging-X&left_color=gray&right_color=orange'></a>
 </div>
 
