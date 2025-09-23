@@ -36,7 +36,7 @@ A comprehensive survey of 1,000+ open-access medical image datasets with systema
 ## 📖 Citation
 If you find this repository or our survey helpful in your research, please kindly cite our paper:
 
-📄 **Paper**: [Dataset Survey](project-imaging-x_dataset-survey.pdf)
+📄 **Paper**: [project-imaging-x_dataset-survey](project-imaging-x_dataset-survey.pdf)
 
 ```bibtex
 @misc{projectimagingx2025,
