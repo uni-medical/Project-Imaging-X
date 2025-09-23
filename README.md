@@ -659,6 +659,8 @@ These datasets form the foundation for training next-generation medical AI model
 
 ## 🧊 3D Medical Imaging Datasets
 
+3D datasets provide richer spatial information that is essential for volumetric analysis and clinical decision making.
+
 ### 🩻 3D CT Datasets
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
