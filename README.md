@@ -39,7 +39,12 @@ If you find this repository or our survey helpful in your research, please kindl
 📄 **Paper**: [Dataset Review](assets/Dataset_Review.pdf)
 
 ```bibtex
-# Citation information will be updated once the paper is published on arXiv
+@misc{projectimagingx2025,
+  title={Project Imaging-X: A Survey of 1000+ Open-Access Medical Imaging Datasets for Foundation Model Development},
+  author={Project Imaging-X Contributors},
+  year={2025},
+  url={https://github.com/uni-medical/Project-Imaging-X}
+}
 ```
 
 ---
