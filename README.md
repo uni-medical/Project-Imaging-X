@@ -1537,7 +1537,7 @@ We sincerely thank all researchers, clinicians, institutions, and organizations 
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=USERNAME/Awesome-Medical-Datasets&type=Date)](https://star-history.com/#USERNAME/Awesome-Medical-Datasets&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=USERNAME/Project-Imaging-X&type=Date)](https://star-history.com/#USERNAME/Project-Imaging-X&Date)
 
 ---
 
