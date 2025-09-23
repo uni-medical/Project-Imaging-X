@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/logo.png" alt="Imaging-X Logo" width="80%">
+  <img src="./assets/logo2.png" alt="Imaging-X Logo" width="80%">
 </div>
 
 <p align="center">
