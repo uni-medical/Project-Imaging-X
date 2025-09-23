@@ -6,9 +6,9 @@
   </div>
 
   <p align="center">
-    <a href=''>
-      <img src='https://img.shields.io/badge/Arxiv-2505.17677-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a>
-    <a href='https://ophnet-3d.github.io/'>
+    <!-- <a href=''>
+      <img src='https://img.shields.io/badge/Arxiv-2505.17677-A42C25?style=flat&logo=arXiv&logoColor=A42C25'></a> -->
+    <a href='https://tchenglv520.github.io/medical-dataset-browser/'>
       <img src='https://img.shields.io/badge/Project-Page-blue?style=flat&logo=Google%20chrome&logoColor=blue'></a>
     <a href=''>
       <img src="https://visitor-badge.laobi.icu/badge?page_id=uni-medical.Project-Imaging-X&left_color=gray&right_color=orange">
