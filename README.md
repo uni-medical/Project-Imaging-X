@@ -43,11 +43,8 @@ If you find this repository or our survey helpful in your research, please kindl
 
 ---
 ## 🚀 Interactive Discovery Portal
-xxxxxxxxxx
-<details open>
-  <summary>Portal Demo</summary>
-  <video src="https://github.com/user-attachments/assets/7b87eeac-3f20-450c-8df0-a45218acc51d" width="100%"/></video>
-</details>
+coming soon...
+![Portal Demo](assets/demo.png)
 
 ---
 ## 🏥 Medical Datasets Overview
