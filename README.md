@@ -118,7 +118,13 @@ These datasets form the foundation for training next-generation medical AI model
 
 2D medical imaging datasets represent the foundation of medical AI research, covering diverse modalities from traditional radiography to advanced optical coherence tomography.
 
+<details>
+<summary>
+  
 ### 👥 Dermoscopy
+
+</summary>
+
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
@@ -139,8 +145,15 @@ These datasets form the foundation for training next-generation medical AI model
 | 14 | [Monkeypox Skin Image Dataset](https://www.heywhale.com/mw/dataset/62eb75d6fef0903951b1f199) | 2022 | 2D | Dermoscopy | Skin | 40.2k | Yes | Cls | Monkeypox |
 | 15 | [Vitiligo Images](https://www.heywhale.com/mw/dataset/5ddca5fbca27f8002c4a1614) | 2019 | 2D | Dermoscopy | Skin | 368 | No | NA | Vitiligo |
 | 16 | [ImageCLEF 2016](https://www.imageclef.org/2016/medical) | NA | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | NA |
+</details>
 
+<details>
+<summary>
+  
 ### 👁️‍🗨️ OCT
+
+</summary>
+
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
@@ -164,8 +177,15 @@ These datasets form the foundation for training next-generation medical AI model
 | 17 | [SinaFarsiu-013-Estrada_PAMI_2015](https://people.duke.edu/~sf59/software.html) | 2015 | 2D | OCT | Retina | 90 | Yes | Seg | NA |
 | 18 | [SinaFarsiu-018-Yang_BOE_2021](https://people.duke.edu/~sf59/software.html) | 2021 | 2D | OCT | Retina | 784 | Yes | Seg | NA |
 | 19 | [APTOS Cross-Country Datasets_stage2](https://tianchi.aliyun.com/dataset/dataDetail?dataId=127971) | 2022 | 2D | OCT | Retina | 3.3k | Yes | Pred | Diabetic Retinopathy |
+</details>
 
+<details>
+<summary>
+  
 ### 🌡️ Infrared
+
+</summary>
+
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
@@ -176,8 +196,15 @@ These datasets form the foundation for training next-generation medical AI model
 | 4 | [MRL Eye Reflections cls](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared | Retina | 84.9k | Yes | Cls | NA |
 | 5 | [MRL Eye Image quality cls](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared | Retina | 84.9k | Yes | Cls | NA |
 | 6 | [MRL Eye Sensor type cls](http://mrl.cs.vsb.cz/eyedataset) | 2018 | 2D | Infrared | Retina | 84.9k | Yes | Cls | NA |
+</details>
 
+<details>
+<summary>
+  
 ### 🩻 CT Datasets
+
+</summary>
+
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
@@ -218,8 +245,15 @@ These datasets form the foundation for training next-generation medical AI model
 | 34 | [ImageCLEF 2016 (Duplicate)](https://www.imageclef.org/2016/medical) | 2015 | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | Head |
 | 35 | [QUBIQ2020](https://qubiq.grand-challenge.org/) | 2020 | 2D | CT, MR | Kidney, Pancreas, | 150 | Yes | Seg | NA |
 | 36 | [QUBIQ2021_2D_CT](https://qubiq21.grand-challenge.org/QUBIQ2021/) | 2021 | 2D | CT, MR | Kidney, Pancreas, | 268 | Yes | Seg | NA |
+</details>
 
+<details>
+<summary>
+  
 ### 🦴 X-ray Datasets
+
+</summary>
+
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
@@ -280,8 +314,15 @@ These datasets form the foundation for training next-generation medical AI model
 | 54 | [CXR-LT](https://physionet.org/content/cxr-lt-iccv-workshop-cvamd/2.0.0/) | 2023 | 2D | X-Ray | Breast, Lung | 377.1k | Yes | Cls | Multi-diseases |
 | 55 | [PENGWIN2024-Task2](https://pengwin.grand-challenge.org/) | 2025 | 2D | X-Ray | Pelvic Bone | 150 | Yes | Seg | Pelvic bone fragments |
 | 56 | [ICG-CXR](https://progemu.github.io/) | 2025 | 2D | X-Ray | Lung | 11.4k | Yes | Gen | Lung diseases |
+</details>
 
+<details>
+<summary>
+  
 ### 🧠 MRI Datasets
+
+</summary>
+
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
@@ -308,8 +349,15 @@ These datasets form the foundation for training next-generation medical AI model
 | 20 | [RadImageNet (Subset: MR)](https://www.radimagenet.com/) | 2022 | 2D | MR | Full Body | 673k | Yes | Cls | Whole Body Abnorm. |
 | 21 | [QUBIQ2020](https://qubiq.grand-challenge.org/) | 2020 | 2D | CT, MR | Kidney, | 150 | Yes | Seg | Pathologies |
 | 22 | [QUBIQ2021_2D_MR](https://qubiq21.grand-challenge.org/QUBIQ2021/) | 2021 | 2D | CT, MR | Kidney, | 268 | Yes | Seg | Pathologies |
+</details>
 
+<details>
+<summary>
+  
 ### 👁️ Fundus Photography
+
+</summary>
+
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
@@ -385,8 +433,15 @@ These datasets form the foundation for training next-generation medical AI model
 | 69 | [ToxoFundus](https://www.kaggle.com/datasets/andrewmvd/ocular-toxoplasmosis-fundus-images-dataset) | 2023 | 2D | Fundus Photo | Retina | 411 | Yes | Cls | Ocular Toxoplasmosis |
 | 70 | [GAMMA (Task3, CFP)](https://gamma.grand-challenge.org/) | 2021 | 2D | Fundus (CFP) | Retina | 200 | Yes | Seg | Optic Disc and Cup |
 | 71 | [iChallenge-GAMMA_2D-Fundus](https://gamma.grand-challenge.org/) | 2021 | 2D | Fundus | Retina | 300 | Yes | Seg | Glaucoma |
+</details>
 
+<details>
+<summary>
+  
 ### 🧫 Histopathology
+
+</summary>
+
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
@@ -505,8 +560,15 @@ These datasets form the foundation for training next-generation medical AI model
 | 112 | [Post-NAT-BRCA](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52758117) | 2019 | 2D | Histopathology (WSI) | Breast | 96 | Yes | Cls | Breast Cancer |
 | 113 | [Osteosarcoma Tumor Assessment](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=52756935) | 2019 | 2D | Histopathology (WSI) | Bone | 1.1k | Yes | Cls | Osteosarcoma |
 | 114 | [Quilt-1M](https://github.com/wisdomikezogwo/quilt1m) | 2023 | 2D | Histopathology (Patch) | Multi-organ | 1M | Yes | VQA | Multi-organ Pathology |
+</details>
 
+<details>
+<summary>
+  
 ### 🩺 Ultrasound
+
+</summary>
+
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
@@ -532,8 +594,15 @@ These datasets form the foundation for training next-generation medical AI model
 | 19 | [TN3K](https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation) | 2021 | 2D | US | Head and Neck | 3.5k | Yes | Seg | Thyroid Nodules |
 | 20 | [CAMUS](http://camus.creatis.insa-lyon.fr/challenge/) | 2019 | 2D | US | Heart | 1.8k | Yes | Seg | Cardiac Disease |
 | 21 | [DDTI](https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation) | 2020 | 2D | US | Thyroid | 637 | Yes | Seg | Thyroid Nodule |
+</details>
 
+<details>
+<summary>
+  
 ### 📹 Endoscopy
+
+</summary>
+
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
@@ -575,8 +644,15 @@ These datasets form the foundation for training next-generation medical AI model
 | 35 | [SegSTRONG-C](https://github.com/hding2455/CaRTS) | NA | 2D+Video | Endoscopy | NA | 17 | Yes | Seg | NA |
 | 36 | [SegCol](https://www.synapse.org/\#!Synapse:syn54124209) | NA | 2D+Video | Colposcopy, Endoscopy | NA | 78 | Yes | Seg | NA |
 | 37 | [FedSurg](https://www.synapse.org/Synapse:syn53137385/wiki/625370) | 2024 | 2D+Video | Endoscopy | NA | 30 | Yes | Cls | Laparoscopic appendectomy |
+</details>
 
+<details>
+<summary>
+  
 ### 🔬 Microscopy
+
+</summary>
+
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
@@ -615,8 +691,15 @@ These datasets form the foundation for training next-generation medical AI model
 | 32 | [OCCISC (InstSeg)](https://cs.adelaide.edu.au/~carneiro/isbi14_challenge/) | 2014 | 2D | Microscopy | Cell | 945 | Yes | Seg | NA |
 | 33 | [CBC (Detection)](https://github.com/MahmudulAlam/Complete-Blood-Cell-Count-Dataset) | 2019 | 2D | Microscopy | Full Body | 420 | Yes | Det | NA |
 | 34 | [ICIAR 2018 (WSI)](https://iciar2018-challenge.grand-challenge.org/) | 2018 | 2D | Microscopy, WSI | NA | 400 | Yes | Seg | Breast Cancer |
+</details>
 
+<details>
+<summary>
+  
 ### ☢️ PET
+
+</summary>
+
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
@@ -632,8 +715,15 @@ These datasets form the foundation for training next-generation medical AI model
 | 9 | [RIDER Phantom PET-CT](https://wiki.cancerimagingarchive.net/display/Public/RIDER+Phantom+PET-CT) | 2011 | 2D | CT, PET | NA | 2.2k | No | NA | NA |
 | 10 | [AHOD0831](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=119705284) | 2022 | 3D, 2D | Multi | NA | 0 | No | NA | Hodgkin Lymphoma |
 | 11 | [AREN0532](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=109379682) | 2022 | 3D, 2D | Multi | NA | 1k | No | NA | Wilms Tumor |
+</details>
 
+<details>
+<summary>
+  
 ### 🧩 Others
+
+</summary>
+
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Images | Label | Task | Diseases |
@@ -661,13 +751,19 @@ These datasets form the foundation for training next-generation medical AI model
 | 21 | [RFMiD](https://riadd.grand-challenge.org/download-all-classes/) | NA | 2D | Fundus | Retina | 3,200 | Yes | Cls | Ophthalmic Diseases |
 | 22 | [Chaksu](https://doi.org/10.6084/m9.figshare.20123135) | NA | 2D | Fundus | Retina | 1,345 | Yes | Seg | Glaucoma |
 | 23 | [PBC_dataset_normal_DIB](https://data.mendeley.com/datasets/snkd93bnjr/1) | NA | 2D | Microscopy | Blood | 0 | Yes | Cls | NA |
-
+</details>
 
 ## 🧊 3D Medical Imaging Datasets
 
 3D datasets provide richer spatial information that is essential for volumetric analysis and clinical decision making.
 
+<details>
+<summary>
+  
 ### 🩻 3D CT Datasets
+
+</summary>
+
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Volumes | Label | Task | Diseases |
@@ -933,8 +1029,15 @@ These datasets form the foundation for training next-generation medical AI model
 | 259 | [BIMCV-R](https://huggingface.co/datasets/cyd0806/BIMCV-R) | 2024 | 2D/3D | CT | Thoracic | 8069 | Yes | Rec | Multiple diseases |
 | 260 | [Mandibular-CT-Dataset](https://figshare.com/articles/dataset/Mandibular_CT_Dataset_Collection/6167726/5) | 2018 | 3D | CT | Mandible | 10 | Yes | Seg | N/A |
 | 261 | [Semi-TeethSeg](https://zenodo.org/record/7840021) | 2023 | 2D/3D | CT/X-RAY | Teeth | 38000 | Yes | Seg | Dental issues |
+</details>
 
+<details>
+<summary>
+  
 ### 🧠 3D MR Datasets
+
+</summary>
+
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Volumes | Label | Task | Diseases |
@@ -1170,8 +1273,15 @@ These datasets form the foundation for training next-generation medical AI model
 | 229 | [MGH10](https://continuousregistration.grand-challenge.org/data/) | 2018 | 3D | MR | Brain | 10 | Yes | Seg | Anatomical segmentation |
 | 230 | [BrainPTM 2021](https://brainptm-2021.grand-challenge.org/) | 2021 | 3D | MR | Brain | 75 | Yes | Seg | Brain tumors |
 | 231 | [OpenMind](https://huggingface.co/datasets/AnonRes/OpenMind) | 2024 | 3D | MR | Head and Neck | 114570 | Yes | Seg/Rec | Health Status |
+</details>
 
+<details>
+<summary>
+  
 ### ☢️ 3D PET Datasets
+
+</summary>
+
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Volumes | Label | Task | Diseases |
@@ -1241,8 +1351,15 @@ These datasets form the foundation for training next-generation medical AI model
 | 63 | [ADNIDOD](https://ida.loni.usc.edu/login.jsp?project=ADNIDOD) | 2017 | 3D | PET/MR | Brain | 195 | No | Cls | Alzheimer's Disease |
 | 64 | [AIBL](https://www.aibl.csiro.au/adni/index.html) | 2017 | 3D | PET/MR | Brain | 278 | Yes | Cls | Alzheimer's Disease |
 | 65 | [PETfrog](https://openneuro.org/datasets/ds002385/versions/1.1.0) | 2020 | 3D | PET/MR | Brain | 238 | No | Cls | Brain development |
+</details>
 
+<details>
+<summary>
+  
 ### 🩺 3D Ultrasound Datasets
+
+</summary>
+
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Volumes | Label | Task | Diseases |
@@ -1274,8 +1391,15 @@ These datasets form the foundation for training next-generation medical AI model
 | 25 | [Prostate-MR-US-Biopsy](https://doi.org/10.7937/TCIA.2020.A61IOC1A) | 2020 | 3D | US/MR | Prostate | 1151 | Yes | Reg/Seg | Prostate Cancer |
 | 26 | [$$-RegPro2023](https://muregpro.github.io/) | 2023 | 3D | US/MR | Prostate | 108 | Yes | Reg/lmk | Prostate cancer |
 | 27 | [STACOM 2011](https://www.cardiacatlas.org/motion-tracking-2011-challenge/) | 2011 | 3D | US/MR | Heart | 1158 | Yes | Reg/Trk | Healthy volunteers |
+</details>
 
+<details>
+<summary>
+  
 ### 🧩 3D Other Datasets
+
+</summary>
+
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Volumes | Label | Task | Diseases |
@@ -1304,12 +1428,19 @@ These datasets form the foundation for training next-generation medical AI model
 | 22 | [Soltanian Optica 2021](https://people.duke.edu/~sf59/Soltanian_Optica_2021.htm) | 2021 | 3D | OCT | Retina | 8 | Yes | Seg | Glaucoma |
 | 23 | [STAGE](https://doi.org/10.5281/zenodo.7835341                  ) | 2023 | 3D | OCT | Retina | 400 | Yes | Reg/Cls | Glaucoma |
 | 24 | [Eye OCT Datasets](https://tianchi.aliyun.com/dataset/dataDetail?dataId=90672) | 2021 | 3D | OCT | Retina | 148 | Yes | Cls/Seg | Retinal diseases |
+</details>
 
 ## 🎬 Video Medical Datasets
 
 Video datasets capture temporal dynamics in medical procedures and patient monitoring.
 
+<details>
+<summary>
+  
 ### 🎬 Video Datasets
+
+</summary>
+
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
 
 | # | Dataset | Year | Dim | Modality | Structure | Samples | Label | Task | Diseases |
@@ -1389,7 +1520,7 @@ Video datasets capture temporal dynamics in medical procedures and patient monit
 | 73 | [SUN-SEG](https://github.com/GewelsJI/VPS) | 2022 | Video | Endoscopy | Colon | 1106 | Yes | Seg | Polyp |
 | 74 | [SARAS-MESAD](https://saras-mesad.grand-challenge.org/dataset/) | 2021 | Video | Endoscopy | Prostate, Bladder | 4 | Yes | Det | surgical action |
 | 75 | [Ophora-160K](https://github.com/uni-medical/Ophora) | 2025 | Video | Microscopy | Retina | 9819 | Yes | Captioning | Video caption |
-
+</details>
 
 ---
 
