@@ -109,6 +109,7 @@ These datasets form the foundation for training next-generation medical AI model
     - [🧩 3D Other Datasets](#-3d-other-datasets)
   - [🎬 Video Medical Datasets](#-video-medical-datasets)
     - [🎬 Video Datasets](#-video-datasets)
+  - [🙏 Acknowledgment](#-acknowledgment)
   - [🌟 Star History](#-star-history)
 
 ---
@@ -1389,6 +1390,12 @@ Video datasets capture temporal dynamics in medical procedures and patient monit
 | 74 | [SARAS-MESAD](https://saras-mesad.grand-challenge.org/dataset/) | 2021 | Video | Endoscopy | Prostate, Bladder | 4 | Yes | Det | surgical action |
 | 75 | [Ophora-160K](https://github.com/uni-medical/Ophora) | 2025 | Video | Microscopy | Retina | 9819 | Yes | Captioning | Video caption |
 
+
+---
+
+## 🙏 Acknowledgment
+
+We sincerely thank all researchers, clinicians, institutions, and organizations who have contributed to the development and public release of medical imaging datasets. Their dedicated efforts in data collection, annotation, curation, and sharing have laid the foundation for significant progress in medical artificial intelligence. The open availability of these resources has not only accelerated methodological innovation and benchmark creation but also fostered collaboration across disciplines, enabling the broader community to explore new directions in multimodal learning, foundation model development, and clinical translation. Without their commitment to advancing science through openness and collaboration, this survey and many of the achievements in the field would not have been possible.
 
 ---
 
