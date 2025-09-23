@@ -42,7 +42,11 @@ If you find this repository or our survey helpful in your research, please kindl
 ```
 
 ---
+## 🚀 Interactive Discovery Portal
+coming soon...
+![Portal Demo](assets/demo.png)
 
+---
 ## 🏥 Medical Datasets Overview
 
 ![Body Part Overview](assets/overview_body_new.png)
@@ -657,6 +661,9 @@ These datasets form the foundation for training next-generation medical AI model
 | 23 | [PBC_dataset_normal_DIB](https://data.mendeley.com/datasets/snkd93bnjr/1) | NA | 2D | Microscopy | Blood | 0 | Yes | Cls | NA |
 
 
+## 🧊 3D Medical Imaging Datasets
+
+3D datasets provide richer spatial information that is essential for volumetric analysis and clinical decision making.
 
 ### 🩻 3D CT Datasets
 <a href="#-table-of-contents" style="float:right;">⬆ Back to Top</a>
