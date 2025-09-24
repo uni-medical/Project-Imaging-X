@@ -599,6 +599,9 @@ These datasets form the foundation for training next-generation medical AI model
 | 19 | [TN3K](https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation) | 2021 | 2D | US | Head and Neck | 3.5k | Yes | Seg | Thyroid Nodules |
 | 20 | [CAMUS](http://camus.creatis.insa-lyon.fr/challenge/) | 2019 | 2D | US | Heart | 1.8k | Yes | Seg | Cardiac Disease |
 | 21 | [DDTI](https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation) | 2020 | 2D | US | Thyroid | 637 | Yes | Seg | Thyroid Nodule |
+| 22 | [UDIAT-B](https://helward.mmu.ac.uk/STAFF/m.yap/dataset.php) | [2017](https://ieeexplore.ieee.org/document/8003418) | 2D | US | Breast | 163 | Yes | detection | Breast Lesion |
+| 23 | [OASBUD](https://github.com/bwang40/OASBUD_DataProcessing) | [2017](https://pubmed.ncbi.nlm.nih.gov/28859252/) | 2D | US | Breast | 200| Yes | Seg | Breast Cancer |
+| 24 | [OASBUD](https://best.ippt.pan.pl/datasets/breast/) | [2024](https://www.nature.com/articles/s41597-024-02984-z) | 2D | US | Breast | 256 | Yes | Cls | Breast Cancer |
 </details>
 
 <details>
@@ -1525,6 +1528,8 @@ Video datasets capture temporal dynamics in medical procedures and patient monit
 | 73 | [SUN-SEG](https://github.com/GewelsJI/VPS) | 2022 | Video | Endoscopy | Colon | 1106 | Yes | Seg | Polyp |
 | 74 | [SARAS-MESAD](https://saras-mesad.grand-challenge.org/dataset/) | 2021 | Video | Endoscopy | Prostate, Bladder | 4 | Yes | Det | surgical action |
 | 75 | [Ophora-160K](https://github.com/uni-medical/Ophora) | 2025 | Video | Microscopy | Retina | 9819 | Yes | Captioning | Video caption |
+| 76 | [POCUS](https://github.com/jannisborn/covid19_pocus_ultrasound) | 2020 | Video | US | Lung| 64| Yes| Cls | COVID-19 |
+| 77 | [CLUST](https://caim.research.it.uu.se/clust/) | 2014 | Video | US | Liver | 63| Yes| Tracking | NA |
 </details>
 
 ---
