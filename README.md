@@ -1433,6 +1433,8 @@ These datasets form the foundation for training next-generation medical AI model
 | 22 | [Soltanian Optica 2021](https://people.duke.edu/~sf59/Soltanian_Optica_2021.htm) | 2021 | 3D | OCT | Retina | 8 | Yes | Seg | Glaucoma |
 | 23 | [STAGE](https://doi.org/10.5281/zenodo.7835341                  ) | 2023 | 3D | OCT | Retina | 400 | Yes | Reg/Cls | Glaucoma |
 | 24 | [Eye OCT Datasets](https://tianchi.aliyun.com/dataset/dataDetail?dataId=90672) | 2021 | 3D | OCT | Retina | 148 | Yes | Cls/Seg | Retinal diseases |
+| 25 | [OCTA-500](https://ieee-dataport.org/open-access/octa-500) | 2020 | 3D | OCTA | Retina | 500 | Yes | Seg/Image Translation | Retinal diseases |
+| 26 | [OCTA-2024](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_MuTri_Multi-view_Tri-alignment_for_OCT_to_OCTA_3D_Image_Translation_CVPR_2025_paper.pdf) | 2024 | 3D | OCTA | Retina | 846 | Yes | Image Translation | Retinal diseases |
 </details>
 
 ## 🎬 Video Medical Datasets
