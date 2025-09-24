@@ -601,7 +601,7 @@ These datasets form the foundation for training next-generation medical AI model
 | 21 | [DDTI](https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation) | 2020 | 2D | US | Thyroid | 637 | Yes | Seg | Thyroid Nodule |
 | 22 | [UDIAT-B](https://helward.mmu.ac.uk/STAFF/m.yap/dataset.php) | [2017](https://ieeexplore.ieee.org/document/8003418) | 2D | US | Breast | 163 | Yes | detection | Breast Lesion |
 | 23 | [OASBUD](https://github.com/bwang40/OASBUD_DataProcessing) | [2017](https://pubmed.ncbi.nlm.nih.gov/28859252/) | 2D | US | Breast | 200| Yes | Seg | Breast Cancer |
-| 24 | [OASBUD](https://best.ippt.pan.pl/datasets/breast/) | [2024](https://www.nature.com/articles/s41597-024-02984-z) | 2D | US | Breast | 256 | Yes | Cls | Breast Cancer |
+| 24 | [BrEaST](https://best.ippt.pan.pl/datasets/breast/) | [2024](https://www.nature.com/articles/s41597-024-02984-z) | 2D | US | Breast | 256 | Yes | Cls | Breast Cancer |
 </details>
 
 <details>
