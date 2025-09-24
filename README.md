@@ -1535,9 +1535,10 @@ We sincerely thank all researchers, clinicians, institutions, and organizations 
 
 ---
 
+
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=uni-medical/Project-Imaging-X&type=Date)](https://star-history.com/#uni-medical/Project-Imaging-X&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=uni-medical/Project-Imaging-X&type=Date)](https://www.star-history.com/#uni-medical/Project-Imaging-X&Date)
 
 ---
 
