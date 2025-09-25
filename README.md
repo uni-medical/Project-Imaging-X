@@ -589,7 +589,7 @@ These datasets form the foundation for training next-generation medical AI model
 | 9 | [AREN0534](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=91357265) | 2021 | 2D, 3D | Multi | Kidney, Lung | 239 | No | Est | Kidney Tumor |
 | 10 | [CLUST15](https://clust.ethz.ch/) | 2015 | 2D | US | Liver | 34 | Yes | Track | NA |
 | 11 | [Ultrasound Nerve Segmentation](https://www.kaggle.com/competitions/ultrasound-nerve-segmentation) | 2016 | 2D | US | Brachial Plexus | 11.3k | Yes | Seg | NA |
-| 12 | [TN-SCUI2020](https://tn-scui2020.grand-challenge.org/Home/) | 2020 | 2D | US | Thyroid | 3.6k | Yes | Seg | Leukemia |
+| 12 | [TN-SCUI2020](https://tn-scui2020.grand-challenge.org/Home/) | 2020 | 2D | US | Thyroid | 3.6k | Yes | Seg | thyroid nodules |
 | 13 | [ImageCLEF 2016](https://www.imageclef.org/2016/medical) | 2015 | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | Head |
 | 14 | [CMB-CRC](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93257955) | 2022 | 2D, 3D | Multi | Colon | 472 | No | Seg, Cls | Colorectal Cancer |
 | 15 | [CMB-MEL](https://www.cancerimagingarchive.net/collection/cmb-mel/) | 2022 | 2D, 3D | Multi | Brain | 255 | No | Seg | Melanoma, Cerebral microbleed |
