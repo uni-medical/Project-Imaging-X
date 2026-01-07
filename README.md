@@ -628,7 +628,7 @@ These datasets form the foundation for training next-generation medical AI model
 | 14 | [SARAS-ESAD](https://saras-esad.grand-challenge.org) | 2020 | 2D | Endoscopy | Bowel | 33.4k | Yes | Det | Skin lesion |
 | 15 | [ImageCLEF 2016](https://www.imageclef.org/2016/medical) | 2015 | 2D | Multi | Skin, Cell, Breast | 31k | Yes | Cls | H |
 | 16 | [ISBI-AIDA-CECI](https://aidasub-cleceliachy.grand-challenge.org/) | 2015 | 2D | Endoscopy | Liver, Stomach | 181 | Yes | Cls | Celiac diseases |
-| 17 | [SUN_SEG](https://github.com/GewelsJI/VPS) | 2022 | 2D+Video | Endoscopy | Colon | 49.1k | Yes | Seg, Det, Cls | Polyp |
+| 17 | [SUN-SEG](https://github.com/GewelsJI/VPS) | 2022 | 2D+Video | Endoscopy | Colon | 49.1k | Yes | Seg, Det, Cls | Polyp |
 | 18 | [HyperKvasir](https://datasets.simula.no/hyper-kvasir/) | 2020 | 2D+Video | Endoscopy | Esophagus, Stomach, Colon | 6.5k | Yes | Cls, Caption, Loc | GI disease |
 | 19 | [Gastrointestinal Image ANAlysis (GIANA)](https://giana.grand-challenge.org/) | 2016 | 2D | Endoscopy | Colon | 600 | Yes | Cls | Vascular Malformation |
 | 20 | [EndoVis 2015 - DAGI](https://endovissub-abnormal.grand-challenge.org/EndoVisSub-Abnormal/) | 2015 | 2D | Endoscopy | NA | 389 | Yes | Det | Cholecystectomy |
@@ -649,6 +649,8 @@ These datasets form the foundation for training next-generation medical AI model
 | 35 | [SegSTRONG-C](https://github.com/hding2455/CaRTS) | NA | 2D+Video | Endoscopy | NA | 17 | Yes | Seg | NA |
 | 36 | [SegCol](https://www.synapse.org/\#!Synapse:syn54124209) | NA | 2D+Video | Colposcopy, Endoscopy | NA | 78 | Yes | Seg | NA |
 | 37 | [FedSurg](https://www.synapse.org/Synapse:syn53137385/wiki/625370) | 2024 | 2D+Video | Endoscopy | NA | 30 | Yes | Cls | Laparoscopic appendectomy |
+| 38 | [ColonINST](https://arxiv.org/abs/2410.17241) | 2024 | 2D+Text | Endoscopy | Colon | 303,001 images & 450,724 VQA entires | Yes | VQA | Pathlogical findings |
+| 39 | [ColonVQA](https://arxiv.org/abs/2512.03667) | 2025 | 2D+Text | Endoscopy | Colon | 212,742 images & 1,100,786 VQA entires | Yes | VQA | Pathlogical findings |
 </details>
 
 <details>
