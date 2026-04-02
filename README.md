@@ -87,35 +87,36 @@ These datasets form the foundation for training next-generation medical AI model
 
 ## 📋 Table of Contents
 
-- [🌍 Project Imaging-X](#-project-imaging-x)
-  - [📖 Citation](#-citation)
-  - [🏥 Medical Datasets Overview](#-medical-datasets-overview)
-    - [🔍 Dataset Taxonomy & Statistical Analysis](#-dataset-taxonomy--statistical-analysis)
-  - [🤖 Medical Foundation Model Development](#-medical-foundation-model-development)
-  - [📊 2D Medical Imaging Datasets](#-2d-medical-imaging-datasets)
-    - [👥 Dermoscopy](#-dermoscopy)
-    - [👁️‍🗨️ OCT](#-oct)
-    - [🌡️ Infrared](#-infrared)
-    - [🧩 Others](#-others)
-    - [⭕️ CT Datasets](#-ct-datasets)
-    - [🦴 X-ray Datasets](#-x-ray-datasets)
-    - [🧠 MRI Datasets](#-mri-datasets)
-    - [👁️ Fundus Photography](#-fundus-photography)
-    - [🧫 Histopathology](#-histopathology)
-    - [🩺 Ultrasound](#-ultrasound)
-    - [📹 Endoscopy](#-endoscopy)
-    - [🔬 Microscopy](#-microscopy)
-    - [☢️ PET](#-pet)
-  - [🧊 3D Medical Imaging Datasets](#-3d-medical-imaging-datasets)
-    - [⭕️ 3D CT Datasets](#-3d-ct-datasets)
-    - [🧠 3D MR Datasets](#-3d-mr-datasets)
-    - [☢️ 3D PET Datasets](#-3d-pet-datasets)
-    - [🩺 3D Ultrasound Datasets](#-3d-ultrasound-datasets)
-    - [🧩 3D Other Datasets](#-3d-other-datasets)
-  - [🎬 Video Medical Datasets](#-video-medical-datasets)
-    - [🎬 Video Datasets](#-video-datasets)
-  - [🙏 Acknowledgment](#-acknowledgment)
-  - [🌟 Star History](#-star-history)
+- [📖 Citation](#-citation)
+- [🚀 Interactive Discovery Portal](#-interactive-discovery-portal)
+- [🏥 Medical Datasets Overview](#-medical-datasets-overview)
+  - [🔍 Dataset Taxonomy \& Statistical Analysis](#-dataset-taxonomy--statistical-analysis)
+- [🤖 Medical Foundation Model Development](#-medical-foundation-model-development)
+- [📋 Table of Contents](#-table-of-contents)
+- [📊 2D Medical Imaging Datasets](#-2d-medical-imaging-datasets)
+  - [👥 Dermoscopy](#-dermoscopy)
+  - [👁️‍🗨️ OCT](#️️-oct)
+  - [🌡️ Infrared](#️-infrared)
+  - [🩻 CT Datasets](#-ct-datasets)
+  - [🦴 X-ray Datasets](#-x-ray-datasets)
+  - [🧠 MRI Datasets](#-mri-datasets)
+  - [👁️ Fundus Photography](#️-fundus-photography)
+  - [🧫 Histopathology](#-histopathology)
+  - [🩺 Ultrasound](#-ultrasound)
+  - [📹 Endoscopy](#-endoscopy)
+  - [🔬 Microscopy](#-microscopy)
+  - [☢️ PET](#️-pet)
+  - [🧩 Others](#-others)
+- [🧊 3D Medical Imaging Datasets](#-3d-medical-imaging-datasets)
+  - [🩻 3D CT Datasets](#-3d-ct-datasets)
+  - [🧠 3D MR Datasets](#-3d-mr-datasets)
+  - [☢️ 3D PET Datasets](#️-3d-pet-datasets)
+  - [🩺 3D Ultrasound Datasets](#-3d-ultrasound-datasets)
+  - [🧩 3D Other Datasets](#-3d-other-datasets)
+- [🎬 Video Medical Datasets](#-video-medical-datasets)
+  - [🎬 Video Datasets](#-video-datasets)
+- [🙏 Acknowledgment](#-acknowledgment)
+- [🌟 Star History](#-star-history)
 
 ---
 
@@ -599,6 +600,8 @@ These datasets form the foundation for training next-generation medical AI model
 | 19 | [TN3K](https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation) | 2021 | 2D | US | Head and Neck | 3.5k | Yes | Seg | Thyroid Nodules |
 | 20 | [CAMUS](http://camus.creatis.insa-lyon.fr/challenge/) | 2019 | 2D | US | Heart | 1.8k | Yes | Seg | Cardiac Disease |
 | 21 | [DDTI](https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation) | 2020 | 2D | US | Thyroid | 637 | Yes | Seg | Thyroid Nodule |
+| 22 | [IUGC](https://zenodo.org/records/17355570) | 2025 | 2D+Video | US | Multi | 28k | No | Meas | NA |
+| 23 | [FETAL_PLANES_DB](https://zenodo.org/records/3904280) | 2020 | 2D | US | Multi | 637 | Yes | Cls | NA |
 </details>
 
 <details>
@@ -1527,6 +1530,7 @@ Video datasets capture temporal dynamics in medical procedures and patient monit
 | 73 | [SUN-SEG](https://github.com/GewelsJI/VPS) | 2022 | Video | Endoscopy | Colon | 1106 | Yes | Seg | Polyp |
 | 74 | [SARAS-MESAD](https://saras-mesad.grand-challenge.org/dataset/) | 2021 | Video | Endoscopy | Prostate, Bladder | 4 | Yes | Det | surgical action |
 | 75 | [Ophora-160K](https://github.com/uni-medical/Ophora) | 2025 | Video | Microscopy | Retina | 9819 | Yes | Captioning | Video caption |
+| 76 | [ACOUSLIC-AI](https://acouslic-ai.grand-challenge.org/datasets) | 2024 | Video | Ultrasound | Abdomen | 300 | Yes | Seg, Meas | NA |
 </details>
 
 ---
