@@ -1,0 +1,160 @@
+{
+  "_comment": "Maps URL patterns to access classification. Checked in order; first match wins.",
+  "rules": [
+    {
+      "pattern": "zenodo.org",
+      "access": "open",
+      "method": "wget/curl direct download from the record page; find the files tab for .zip links",
+      "auth": null
+    },
+    {
+      "pattern": "figshare.com",
+      "access": "open",
+      "method": "wget/curl from the download link on the figshare page",
+      "auth": null
+    },
+    {
+      "pattern": "data.mendeley.com",
+      "access": "open",
+      "method": "wget/curl; click 'Download' on the page to get the direct link",
+      "auth": null
+    },
+    {
+      "pattern": "github.com",
+      "access": "open",
+      "method": "git clone or wget from GitHub releases",
+      "auth": null
+    },
+    {
+      "pattern": "huggingface.co",
+      "access": "open",
+      "method": "huggingface-cli download or git clone with lfs",
+      "auth": "Some datasets are gated: run `huggingface-cli login` first if access is denied"
+    },
+    {
+      "pattern": "drive.google.com",
+      "access": "open",
+      "method": "gdown <file_id> or use the sharing link; for large files gdown handles the confirm page",
+      "auth": null
+    },
+    {
+      "pattern": "opendatalab.com",
+      "access": "registration",
+      "method": "OpenDataLab CLI: `odl get <dataset_name>`",
+      "auth": "Register at opendatalab.com, then `odl login`"
+    },
+    {
+      "pattern": "opendatalab.org.cn",
+      "access": "registration",
+      "method": "OpenDataLab CLI: `odl get <dataset_name>`",
+      "auth": "Register at opendatalab.org.cn, then `odl login`"
+    },
+    {
+      "pattern": "kaggle.com",
+      "access": "registration",
+      "method": "kaggle API: `kaggle datasets download -d <owner/dataset>` or `kaggle competitions download -c <name>`",
+      "auth": "1) Register at kaggle.com\n2) Go to Account → API → Create New Token → download kaggle.json\n3) Place kaggle.json in ~/.kaggle/\n4) Accept dataset rules on the web page first if it's a competition"
+    },
+    {
+      "pattern": "tianchi.aliyun.com",
+      "access": "registration",
+      "method": "Download from the Tianchi dataset page after login",
+      "auth": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
+    },
+    {
+      "pattern": "heywhale.com",
+      "access": "registration",
+      "method": "Download from the Heywhale dataset page after login",
+      "auth": "1) Register at heywhale.com\n2) Login and navigate to the dataset page\n3) Click 'Download' or use their notebook environment"
+    },
+    {
+      "pattern": "aistudio.baidu.com",
+      "access": "registration",
+      "method": "Download from Baidu AI Studio after login",
+      "auth": "1) Register a Baidu account\n2) Login at aistudio.baidu.com\n3) Navigate to the dataset page and click download"
+    },
+    {
+      "pattern": "grand-challenge.org",
+      "access": "registration",
+      "method": "Download from Grand Challenge after approval",
+      "auth": "1) Register at grand-challenge.org\n2) Navigate to the challenge/dataset page\n3) Request access — some datasets grant instant access, others require organizer approval\n4) Once approved, download via the provided link or AWS S3 bucket"
+    },
+    {
+      "pattern": "cancerimagingarchive.net",
+      "access": "open",
+      "method": "TCIA: use NBIA Data Retriever or direct REST API. Most collections are open access.",
+      "auth": "1) Install NBIA Data Retriever: https://wiki.cancerimagingarchive.net/display/NBIA/NBIA+Data+Retriever+FAQ\n2) Download the .tcia manifest file from the collection page\n3) Open it with NBIA Data Retriever\nNote: some collections marked 'Limited' require a TCIA account and data use agreement"
+    },
+    {
+      "pattern": "wiki.cancerimagingarchive.net",
+      "access": "open",
+      "method": "Same as cancerimagingarchive.net — use NBIA Data Retriever",
+      "auth": "See cancerimagingarchive.net instructions above"
+    },
+    {
+      "pattern": "synapse.org",
+      "access": "registration",
+      "method": "Synapse CLI: `synapse get <syn_id> -r`",
+      "auth": "1) Register at synapse.org\n2) Navigate to the dataset and accept the data use conditions\n3) Install synapseclient: `pip install synapseclient`\n4) Login: `synapse login -u <email> -p <password>` or use auth token\n5) Download: `synapse get <synID> -r`"
+    },
+    {
+      "pattern": "physionet.org",
+      "access": "registration",
+      "method": "wget with PhysioNet credentials, or `wget -r -N -c -np` for open datasets",
+      "auth": "1) Register at physionet.org\n2) Some datasets require 'credentialed access': complete CITI training and sign DUA\n3) Once approved: `wget -r -N -c -np --user <user> --ask-password https://physionet.org/files/<dataset>/<version>/`"
+    },
+    {
+      "pattern": "openneuro.org",
+      "access": "open",
+      "method": "OpenNeuro CLI: `openneuro-cli download --snapshot <version> ds<number>` or AWS S3",
+      "auth": "No account needed for most datasets. For large datasets use: `aws s3 sync --no-sign-request s3://openneuro.org/ds<number> ds<number>/`"
+    },
+    {
+      "pattern": "nitrc.org",
+      "access": "open",
+      "method": "Download from the NITRC project page",
+      "auth": "Some projects require a free NITRC account; register at nitrc.org if prompted"
+    },
+    {
+      "pattern": "medicaldecathlon.com",
+      "access": "open",
+      "method": "Direct download via wget/curl from the Google Drive links listed on the page",
+      "auth": null
+    },
+    {
+      "pattern": "stanfordmlgroup.github.io",
+      "access": "registration",
+      "method": "Fill out the access request form on the Stanford ML Group page",
+      "auth": "1) Visit the dataset page\n2) Fill out the data use agreement form\n3) You will receive a download link by email"
+    },
+    {
+      "pattern": "adni.loni.usc.edu",
+      "access": "application",
+      "method": "Apply through LONI IDA portal",
+      "auth": "1) Apply at ida.loni.usc.edu — requires institutional affiliation\n2) Submit data use application describing your research\n3) Approval typically takes 1-2 weeks\n4) Once approved, download via LONI IDA interface"
+    },
+    {
+      "pattern": "ida.loni.usc.edu",
+      "access": "application",
+      "method": "Apply through LONI IDA portal",
+      "auth": "Same as adni.loni.usc.edu: apply online, requires approval"
+    },
+    {
+      "pattern": "oasis-brains.org",
+      "access": "registration",
+      "method": "Register and download from OASIS project page or via XNAT Central",
+      "auth": "1) Register at oasis-brains.org\n2) Accept the data use agreement\n3) Download via provided scripts or XNAT Central"
+    },
+    {
+      "pattern": "ppmi-info.org",
+      "access": "application",
+      "method": "Apply through PPMI portal",
+      "auth": "1) Register at ppmi-info.org\n2) Submit a data use application\n3) Approval required before access is granted"
+    }
+  ],
+  "default": {
+    "access": "unknown",
+    "method": "Visit the URL to check download options",
+    "auth": "Access requirements could not be determined automatically. Please visit the dataset page to check."
+  }
+}

@@ -21,6 +21,20 @@
 > **Solution**: We surveyed 1000+ open-access medical image datasets, developed a systematic integration paradigm, and created a unified repository with structured metadata and reference links.
 
 > **Impact**: Transforming fragmented small datasets into cohesive large-scale resources to accelerate medical AI research and enable robust foundation models for the biomedical community.
+
+## Skill
+
+This repository also includes a reusable skill for dataset discovery and download guidance:
+`skills/project-imaging-x-discovery/`
+
+Use that directory as the skill root when integrating, packaging, or installing the skill.
+
+Source path:
+`skills/project-imaging-x-discovery/`
+
+GitHub path:
+`https://github.com/uni-medical/Project-Imaging-X/tree/main/skills/project-imaging-x-discovery`
+
 <!-- 
 A comprehensive survey of 1,000+ open-access medical image datasets with systematic analysis of their modalities, tasks, anatomies, and potential for integration into foundation models.
 
