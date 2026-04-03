@@ -3,15 +3,16 @@ name: project-imaging-x-discovery
 description: >-
   Search, rank, and help download medical imaging datasets with a
   structured local index of 1100+ records from Project-Imaging-X.
-  Use when the user asks for dataset discovery, open-only filtering,
-  platform-specific search, or download guidance across modalities,
-  anatomies, diseases, and tasks.
+  After local-index results, always runs one supplementary web search
+  for additional hits. Use when the user asks for dataset discovery,
+  open-only filtering, platform-specific search, or download guidance
+  across modalities, anatomies, diseases, and tasks.
 ---
 
 # Project-imaging-x-discovery
 
 Use this skill for medical imaging dataset discovery and single-dataset download assistance.
-Default to the local index first. Only widen to the web when the local index is clearly sparse.
+Default to the local index first (deterministic scripts). **After** presenting local-index tables in a discovery flow, **always** run **one** supplementary web search—see §4 (skip §4 only when you are in single-dataset follow-up mode per §5).
 Resolve `scripts/...` and `references/...` paths relative to this skill directory, not the user's working directory.
 
 ## Files
@@ -84,25 +85,32 @@ If the user asked for `open`, `public`, `direct download`, or `公开可下载`:
 
 When the user did not state an access requirement, rank by the policy in [references/ranking-policy.md](references/ranking-policy.md).
 
-### 4. Web supplement only when justified
+### 4. Supplementary web search (always after discovery)
 
-Do one targeted web search only if:
+The local index covers 1100+ datasets but may miss very recent or niche entries.
+**After** you present strict and near tables from §3, **always** perform **one** targeted web search in addition to those hits—**regardless of** `strict_match_count` (0, a few, or many). The goal is extra coverage beyond the frozen index snapshot.
 
-- `strict_match_count == 0`
-- strict matches are too sparse for the user's request
-- the user explicitly asks for newer or additional datasets
+**Skip §4** only when §5 applies: the user has **already named a single dataset** and you are in follow-up lookup/download mode (no broad discovery in this turn).
 
-Skip web search when the local index already answers the query well.
+**Rules — keep it surgical, not broad:**
 
-Mark any added items as `web supplement`. Do not pretend they came from the local index.
+1. Construct a narrow query that targets what the index may have missed (recent years, alternate names, niche hosts). Example template when helpful:
+   ```
+   "<specific_disease_or_anatomy>" "<modality>" dataset download site:kaggle.com OR site:zenodo.org OR site:huggingface.co OR site:grand-challenge.org OR site:cancerimagingarchive.net
+   ```
+2. Limit to **1 web search call** for this supplementary step (not multiple).
+3. From the search results, only add datasets that are **not** already in your strict/near tables (compare by name or URL).
+4. Mark web-sourced additions clearly (e.g. a `Source` column with values `index` vs `web supplement`). Do not pretend web hits came from the local index.
+5. For web-sourced rows, access is unknown unless you can infer it from the URL pattern (use the same logic as `access_rules.json` when applicable).
+6. If the web search finds **nothing new** beyond the index, state briefly that the supplementary search did not add further datasets—**still** report that the step ran.
 
-If the user asked for a rare modality and the local index has no real coverage for it, say that explicitly and avoid padding the answer with irrelevant near matches from other modalities.
+If the user asked for a rare modality and the local index has no real coverage for it, say that explicitly in the index-backed section, avoid padding with irrelevant near matches from other modalities, and let the supplementary search carry additional coverage.
 
 ### 5. Download assistance is one dataset at a time
 
 Do not bulk download.
 
-If the user has already selected a specific dataset, skip broad discovery and switch straight to single-dataset lookup.
+If the user has already selected a specific dataset, skip broad discovery (including **§4 supplementary web search**) and switch straight to single-dataset lookup.
 In that follow-up mode:
 
 1. Use `scripts/lookup_dataset.py` before any manual prose filtering or broad search
@@ -173,6 +181,10 @@ near_matches:
 - markdown table
 - each item includes why it is near rather than strict
 
+web_supplement (after §4, discovery flows only):
+- optional extra rows or short list from the mandatory web search
+- each web-only row marked `web supplement`; state explicitly that one supplementary search ran
+
 download_next_step:
 - what can be downloaded now
 - what requires registration or application
@@ -181,6 +193,7 @@ download_next_step:
 
 ## Edge Rules
 
+- In discovery flows, do not skip the **one** supplementary web search in §4 unless §5 single-dataset follow-up applies
 - Do not invent dataset names, access rules, or direct download URLs
 - Do not mix strict and near matches into one primary recommendation list
 - Do not let a famous benchmark outrank a stricter open result when the user asked for open access
