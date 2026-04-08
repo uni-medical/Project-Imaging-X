@@ -736,6 +736,7 @@ These datasets form the foundation for training next-generation medical AI model
 | 9 | [RIDER Phantom PET-CT](https://wiki.cancerimagingarchive.net/display/Public/RIDER+Phantom+PET-CT) | 2011 | 2D | CT, PET | NA | 2.2k | No | NA | NA |
 | 10 | [AHOD0831](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=119705284) | 2022 | 3D, 2D | Multi | NA | 0 | No | NA | Hodgkin Lymphoma |
 | 11 | [AREN0532](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=109379682) | 2022 | 3D, 2D | Multi | NA | 1k | No | NA | Wilms Tumor |
+| 12 | [PET2REP](https://huggingface.co/datasets/r1pples/PET2Rep) | 2025 | 3D, 2D | PET/CT | Whole-body | 565 | Yes | RG | Multi-Cancer |
 </details>
 
 <details>
@@ -1050,6 +1051,7 @@ These datasets form the foundation for training next-generation medical AI model
 | 259 | [BIMCV-R](https://huggingface.co/datasets/cyd0806/BIMCV-R) | 2024 | 2D/3D | CT | Thoracic | 8069 | Yes | Rec | Multiple diseases |
 | 260 | [Mandibular-CT-Dataset](https://figshare.com/articles/dataset/Mandibular_CT_Dataset_Collection/6167726/5) | 2018 | 3D | CT | Mandible | 10 | Yes | Seg | N/A |
 | 261 | [Semi-TeethSeg](https://zenodo.org/record/7840021) | 2023 | 2D/3D | CT/X-RAY | Teeth | 38000 | Yes | Seg | Dental issues |
+| 262 | [NasalSeg](https://zenodo.org/records/13893419) | 2024 | 3D | CT | Head and Neck | 130 | Yes | Seg | NA |
 </details>
 
 <details>
@@ -1372,6 +1374,7 @@ These datasets form the foundation for training next-generation medical AI model
 | 63 | [ADNIDOD](https://ida.loni.usc.edu/login.jsp?project=ADNIDOD) | 2017 | 3D | PET/MR | Brain | 195 | No | Cls | Alzheimer's Disease |
 | 64 | [AIBL](https://www.aibl.csiro.au/adni/index.html) | 2017 | 3D | PET/MR | Brain | 278 | Yes | Cls | Alzheimer's Disease |
 | 65 | [PETfrog](https://openneuro.org/datasets/ds002385/versions/1.1.0) | 2020 | 3D | PET/MR | Brain | 238 | No | Cls | Brain development |
+| 66 | [PETWB-REP](https://zenodo.org/records/18670487) | 2025 | 3D | PET/CT | Whole-body | 490 | Yes | RG | Multi-Cancer |
 </details>
 
 <details>
