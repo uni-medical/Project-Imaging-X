@@ -26,6 +26,12 @@
       "auth": null
     },
     {
+      "pattern": "huggingface.co/datasets/general-medical-ai/unimedvl-5m",
+      "access": "application",
+      "method": "After access is granted, use `hf download General-Medical-AI/UniMedVL-5M --repo-type dataset --local-dir UniMedVL-5M`; metadata-only subsets require images from their original sources",
+      "auth": "Log in to Hugging Face, open the UniMedVL-5M dataset page, and complete the gated access request and terms. After access is granted, authenticate with `hf auth login`. Non-commercial research and educational use only; follow each source dataset's license and obtain separate access permissions where required."
+    },
+    {
       "pattern": "huggingface.co",
       "access": "open",
       "method": "huggingface-cli download or git clone with lfs",
