@@ -7488,6 +7488,22 @@
     "auth_instructions": null
   },
   {
+    "section": "Others",
+    "name": "UniMedVL-5M",
+    "url": "https://huggingface.co/datasets/General-Medical-AI/UniMedVL-5M",
+    "year": "2025",
+    "dim": "2D+Text",
+    "modality": "Multi",
+    "structure": "Multi-organ",
+    "samples": "NA",
+    "label": true,
+    "task": "Unified Understanding & Generation",
+    "diseases": "Multi-disease",
+    "access": "application",
+    "download_method": "After access is granted, use `hf download General-Medical-AI/UniMedVL-5M --repo-type dataset --local-dir UniMedVL-5M`; metadata-only subsets require images from their original sources",
+    "auth_instructions": "Log in to Hugging Face, open the UniMedVL-5M dataset page, and complete the gated access request and terms. After access is granted, authenticate with `hf auth login`. Non-commercial research and educational use only; follow each source dataset's license and obtain separate access permissions where required."
+  },
+  {
     "section": "3D CT Datasets",
     "name": "TotalSegmentator",
     "url": "https://totalsegmentator.com/",

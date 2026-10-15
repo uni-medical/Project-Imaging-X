@@ -772,6 +772,9 @@ These datasets form the foundation for training next-generation medical AI model
 | 21 | [RFMiD](https://riadd.grand-challenge.org/download-all-classes/) | NA | 2D | Fundus | Retina | 3,200 | Yes | Cls | Ophthalmic Diseases |
 | 22 | [Chaksu](https://doi.org/10.6084/m9.figshare.20123135) | NA | 2D | Fundus | Retina | 1,345 | Yes | Seg | Glaucoma |
 | 23 | [PBC_dataset_normal_DIB](https://data.mendeley.com/datasets/snkd93bnjr/1) | NA | 2D | Microscopy | Blood | 0 | Yes | Cls | NA |
+| 24 | [UniMedVL-5M](https://huggingface.co/datasets/General-Medical-AI/UniMedVL-5M) | 2025 | 2D+Text | Multi | Multi-organ | NA | Yes | Unified Understanding & Generation | Multi-disease |
+
+**UniMedVL-5M:** A curated medical multimodal dataset assembled from existing sources for unified image understanding and generation ([paper](https://arxiv.org/abs/2510.15710), [project](https://uni-medical.github.io/UniMedVL_Web/)). See the dataset card for access requirements and source-specific licenses.
 </details>
 
 ## 🧊 3D Medical Imaging Datasets
