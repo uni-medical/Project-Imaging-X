@@ -10,7 +10,7 @@ Use these rules when mapping user language to `search_datasets.py` arguments.
 - `pathology`, `histopathology`, `WSI` -> `--modality pathology`
 
 If the user names a rare modality that is not covered above, pass it through as a raw modality filter.
-If the local index has no coverage for that modality, prefer saying the local index is sparse and then do a targeted web supplement rather than surfacing irrelevant near matches.
+If the local index has no coverage for that modality, say the index is sparse for that modality, avoid irrelevant near matches from other modalities, and still run the **mandatory** supplementary web search from the parent `SKILL.md` §4 (mark web-only hits as `web supplement`).
 
 ## Task
 
