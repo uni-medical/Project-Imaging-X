@@ -613,6 +613,7 @@ These datasets form the foundation for training next-generation medical AI model
 | 19 | [TN3K](https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation) | 2021 | 2D | US | Head and Neck | 3.5k | Yes | Seg | Thyroid Nodules |
 | 20 | [CAMUS](http://camus.creatis.insa-lyon.fr/challenge/) | 2019 | 2D | US | Heart | 1.8k | Yes | Seg | Cardiac Disease |
 | 21 | [DDTI](https://github.com/haifangong/TRFE-Net-for-thyroid-nodule-segmentation) | 2020 | 2D | US | Thyroid | 637 | Yes | Seg | Thyroid Nodule |
+| 22 | [EchoXFlow](https://huggingface.co/datasets/Ahus-AIM/EchoXFlow) | 2026 | 1D/2D/3D+t | B-mode, Doppler, ECG | Heart | 35,377 recordings / 666 exams | Yes (subsets) | Seg, cross-modal estimation, ECG-conditioned generation | NA |
 </details>
 
 <details>

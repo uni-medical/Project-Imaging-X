@@ -5776,6 +5776,22 @@
     "auth_instructions": null
   },
   {
+    "section": "Ultrasound",
+    "name": "EchoXFlow",
+    "url": "https://huggingface.co/datasets/Ahus-AIM/EchoXFlow",
+    "year": "2026",
+    "dim": "1D/2D/3D+t",
+    "modality": "B-mode, Doppler, ECG",
+    "structure": "Heart",
+    "samples": "35,377 recordings / 666 exams",
+    "label": true,
+    "task": "Seg, cross-modal estimation, ECG-conditioned generation",
+    "diseases": "NA",
+    "access": "open",
+    "download_method": "huggingface-cli download or git clone with lfs",
+    "auth_instructions": "Some datasets are gated: run `huggingface-cli login` first if access is denied"
+  },
+  {
     "section": "Endoscopy",
     "name": "Kavsir",
     "url": "https://datasets.simula.no/kvasir/",
